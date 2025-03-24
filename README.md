@@ -4,7 +4,10 @@ This is a repository containing the code for replicating the analysis and the fi
 
 **Microbiome-Metabolome Interactions Reshape Ecosystem Properties During Biocrust-Moss Succession**
 
-## LC-MS/MS Metabolome analysis
+## 16S - Microbiome analysis
+
+
+## LC-MS/MS - Metabolome Analysis
 1. **`R scripts from 1 to 2`** were used for pre-processing of LC-MS/MS data 
 to calculate the ecological processes contributing to microbiome assembly. The input of these scripts include a phylogenetic tree derived from metagenome assembled geneomes and their abundances. Author Hannah Holland Moritz
 
