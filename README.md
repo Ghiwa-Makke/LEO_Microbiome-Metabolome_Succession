@@ -5,6 +5,9 @@ This is a repository containing the code for replicating the analysis and the fi
 **Microbiome-Metabolome Interactions Reshape Ecosystem Properties During Biocrust-Moss Succession**
 
 ## 16S - Microbiome analysis
+1. **`Analysis_1`** includes R code and input data used for Analysis of 16S and plotting Figure 2 of the paper
+2. **`Picrust_Analysis`** includes R code, R functions and input data used for Picrust analysis visualization
+3.  **`Microbial_Assembly`** includes R codes and input data used for community assembly analysis of the microbial data, this is based on Freire-Zapata et. al (https://www.nature.com/articles/s41564-024-01800-z)
 
 
 ## LC-MS/MS - Metabolome Analysis
