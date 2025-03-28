@@ -14,6 +14,6 @@ This is a repository containing the code for replicating the analysis and the fi
 1. **`Overall_analysis`** includes all input files and R scripts used for analysis of LCMS/MS data and generating figures
 2. **`Metabolite_Assembly`** includes all scripts used for community assembly analysis of the metabolic data, this is based on Freire-Zapata et. al (https://www.nature.com/articles/s41564-024-01800-z)
 
-Data is also available at OSF via 
+Data is also available at OSF via  https://doi.org/10.17605/OSF.IO/RDFA9
 
 
