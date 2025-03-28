@@ -10,26 +10,10 @@ This is a repository containing the code for replicating the analysis and the fi
 3.  **`Microbial_Assembly`** includes R codes and input data used for community assembly analysis of the microbial data, this is based on Freire-Zapata et. al (https://www.nature.com/articles/s41564-024-01800-z)
 
 
-## LC-MS/MS - Metabolome Analysis
-1. **`R scripts from 1 to 2`** were used for pre-processing of LC-MS/MS data 
-to calculate the ecological processes contributing to microbiome assembly. The input of these scripts include a phylogenetic tree derived from metagenome assembled geneomes and their abundances. Author Hannah Holland Moritz
+## Metabolome Analysis
+1. **`Overall_analysis`** includes all input files and R scripts used for analysis of LCMS/MS data and generating figures
+2. **`Metabolite_Assembly`** includes all scripts used for community assembly analysis of the metabolic data, this is based on Freire-Zapata et. al (https://www.nature.com/articles/s41564-024-01800-z)
 
-2. Normalization
-3. NMDS
-4. Metabolite diversity
-5. Differential Analysis (Linear Mixed effect Model and L2FC)
-6. CCA and RDA analysis
-7. PRC analysis
-8. Heatmap (compound classes)
-9. Heatmap (KEGG pathways) 
-10. Van Krevelen Diagram
+Data is also available at OSF via 
 
-## FT-ICR-MS Metabolome analysis
-
-### Assembly Metabolome
-1. **`R scripts from 1 to 5`** were adapted from Danczak et al. 2020, https://github.com/danczakre/Meta-Metabolome_Ecology to calculate the assembly processes contributing to the peat metabolome. The input of the first script is a report of the relative abundances of masses detected through FT-ICR MS. The outputs of each script serve as input of the following ones.
-
-
-## co-occurance Network: 
-2. Calculating Correlations
 
