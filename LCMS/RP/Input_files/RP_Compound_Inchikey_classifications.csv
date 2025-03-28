@@ -1,0 +1,920 @@
+"FeatureID","Annotation_Confidence","Final_name","Final_formula","InChIKey","Final_Superclass","Final_Class","Final_Subclass","ClassyFire.level.5","NPC.pathway","NPC.superclass","NPC.class"
+"15.654_237.14848_RP","L2","(+/-)-C75","C14H22O4",NA,NA,NA,NA,NA,NA,NA,NA
+"16.887_237.14843_RP","L2","(+/-)-C75","C14H22O4",NA,NA,NA,NA,NA,NA,NA,NA
+"20.196_303.23188_RP","L2","(+/-)11(12)-EET","C20H32O3",NA,NA,NA,NA,NA,NA,NA,NA
+"19.894_303.23184_RP","L2","(+/-)11(12)-EET","C20H32O3",NA,NA,NA,NA,NA,NA,NA,NA
+"19.036_301.21621_RP","L2","(+/-)8-HEPE","C20H30O3",NA,NA,NA,NA,NA,NA,NA,NA
+"19.598_321.24218_RP","L2","(±)11(12)-DiHET","C20H34O4",NA,NA,NA,NA,NA,NA,NA,NA
+"19.624_295.22659_RP","L2","(±)13-HpODE","C18H32O4",NA,NA,NA,NA,NA,NA,NA,NA
+"18.024_295.2267_RP","L2","(±)13-HpODE","C18H32O4",NA,NA,NA,NA,NA,NA,NA,NA
+"19.753_301.21612_RP","L2","(±)8-HEPE","C20H30O3",NA,NA,NA,NA,NA,NA,NA,NA
+"19.391_301.21617_RP","L2","(±)8-HEPE","C20H30O3",NA,NA,NA,NA,NA,NA,NA,NA
+"15.725_351.21458_RP","L2","(11E,15Z)-9,10,13-trihydroxyoctadeca-11,15-dienoic acid","C18H32O5","ADHVWICOFLYDST-MKZMYESJSA-N","Lipids and lipid-like molecules","Fatty Acyls","Lineolic acids and derivatives",NA,NA,NA,NA
+"15.098_351.21458_RP","L2","(11E,15Z)-9,10,13-trihydroxyoctadeca-11,15-dienoic acid","C18H32O5","ADHVWICOFLYDST-MKZMYESJSA-N","Lipids and lipid-like molecules","Fatty Acyls","Lineolic acids and derivatives",NA,NA,NA,NA
+"16.782_311.22172_RP","L2","(11E,15Z)-9,10,13-trihydroxyoctadeca-11,15-dienoic acid","C18H32O5","ADHVWICOFLYDST-MKZMYESJSA-N","Lipids and lipid-like molecules","Fatty Acyls","Lineolic acids and derivatives",NA,NA,NA,NA
+"15.911_351.21435_RP","L2","(11E,15Z)-9,10,13-trihydroxyoctadeca-11,15-dienoic acid","C18H32O5","ADHVWICOFLYDST-MKZMYESJSA-N","Lipids and lipid-like molecules","Fatty Acyls","Lineolic acids and derivatives",NA,NA,NA,NA
+"16.318_351.21429_RP","L2","(11E,15Z)-9,10,13-trihydroxyoctadeca-11,15-dienoic acid","C18H32O5","ADHVWICOFLYDST-MKZMYESJSA-N","Lipids and lipid-like molecules","Fatty Acyls","Lineolic acids and derivatives",NA,NA,NA,NA
+"17.449_351.21431_RP","L2","(11E,15Z)-9,10,13-trihydroxyoctadeca-11,15-dienoic acid","C18H32O5","ADHVWICOFLYDST-MKZMYESJSA-N","Lipids and lipid-like molecules","Fatty Acyls","Lineolic acids and derivatives",NA,NA,NA,NA
+"14.855_351.21443_RP","L2","(11E,15Z)-9,10,13-trihydroxyoctadeca-11,15-dienoic acid","C18H32O5","ADHVWICOFLYDST-MKZMYESJSA-N","Lipids and lipid-like molecules","Fatty Acyls","Lineolic acids and derivatives",NA,NA,NA,NA
+"17.017_311.22169_RP","L2","(11E,15Z)-9,10,13-trihydroxyoctadeca-11,15-dienoic acid","C18H32O5","ADHVWICOFLYDST-MKZMYESJSA-N","Lipids and lipid-like molecules","Fatty Acyls","Lineolic acids and derivatives",NA,NA,NA,NA
+"18.367_313.23733_RP","L2","(12Z)-9,10,11-trihydroxyoctadec-12-enoic acid","C18H34O5","JHGVFGJXFVIYSM-XFXZXTDPSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates",NA,NA,NA,NA
+"17.457_353.23012_RP","L2","(12Z)-9,10,11-trihydroxyoctadec-12-enoic acid","C18H34O5","JHGVFGJXFVIYSM-XFXZXTDPSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates",NA,NA,NA,NA
+"16.7_353.22991_RP","L2","(12Z)-9,10,11-trihydroxyoctadec-12-enoic acid","C18H34O5","JHGVFGJXFVIYSM-XFXZXTDPSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates",NA,NA,NA,NA
+"18.095_353.22996_RP","L2","(12Z)-9,10,11-trihydroxyoctadec-12-enoic acid","C18H34O5","JHGVFGJXFVIYSM-XFXZXTDPSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates",NA,NA,NA,NA
+"14.822_251.16414_RP","L2","(1R,3S,4S,5R,7R)-4-(3-hydroxybutyl)-5-methyl-10-methylidene-8-oxatricyclo[5.3.0.0Âl,âµ]decan-9-one","C15H22O3",NA,NA,NA,NA,NA,NA,NA,NA
+"14.538_251.16414_RP","L2","(1R,3S,4S,5R,7R)-4-(3-hydroxybutyl)-5-methyl-10-methylidene-8-oxatricyclo[5.3.0.0Âl,âµ]decan-9-one","C15H22O3",NA,NA,NA,NA,NA,NA,NA,NA
+"7.869_485.16296_RP","L2.3","(1R,9S)-11-(4-Methoxybenzoyl)-5-[4-(trifluoromethoxy)phenyl]-7,11-diazatricyclo[7.3.1.02,7]trideca-2,4-dien-6-one","C26H23F3N2O4",NA,NA,NA,NA,NA,NA,NA,NA
+"1.621_543.13217_RP","L2.3","(1S,4aS,7aS)-7-({[(2E)-3-phenylprop-2-enoyl]oxy}methyl)-1-{[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}-1H,4aH,5H,7aH-cyclopenta[c]pyran-4-carboxylic acid","C25H28O11",NA,NA,NA,NA,NA,NA,NA,NA
+"13.021_285.13088_RP","L2","(2R,3R,4S,5S,6R)-2-[(3Z)-hex-3-en-1-yloxy]-6-(hydroxymethyl)oxane-3,4,5-triol","C12H22O6",NA,NA,NA,NA,NA,NA,NA,NA
+"8.014_318.15475_RP","L2","(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-[2-(4-hydroxyphenyl)ethoxy]oxane-3,4,5-triol","C14H20O7","ILRCGYURZSFMEG-RKQHYHRCSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"15.449_247.09405_RP","L2.3","(2S)-2-(2-hydroxypropan-2-yl)-2H,3H,7H-furo[3,2-g]chromen-7-one","C14H14O4","FWYSBEAFFPBAQU-LBPRGKRZSA-N","Phenylpropanoids and polyketides","Coumarins and derivatives","Furanocoumarins",NA,NA,NA,NA
+"15.248_247.09406_RP","L2.3","(2S)-2-(2-hydroxypropan-2-yl)-2H,3H,7H-furo[3,2-g]chromen-7-one","C14H14O4","FWYSBEAFFPBAQU-LBPRGKRZSA-N","Phenylpropanoids and polyketides","Coumarins and derivatives","Furanocoumarins",NA,NA,NA,NA
+"15.454_247.09404_RP","L2","(2S)-2-(2-hydroxypropan-2-yl)-2H,3H,7H-furo[3,2-g]chromen-7-one","C14H14O4","FWYSBEAFFPBAQU-LBPRGKRZSA-N","Phenylpropanoids and polyketides","Coumarins and derivatives","Furanocoumarins",NA,NA,NA,NA
+"1.513_190.11863_RP","L2.3","(2S)-2-amino-5-[[amino(methoxy)methylidene]amino]pentanoic acid","C7H15N3O3",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"8.015_323.11011_RP","L2","(2S,3R,4S,5S,6R)-2-[4-(2-hydroxyethyl)phenoxy]-6-(hydroxymethyl)oxane-3,4,5-triol","C14H20O7","OJDSCNUKKOKOQJ-RKQHYHRCSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"1.414_253.07061_RP","L2.3","(2S,3S)-3-hydroxy-2-methyl-7-[(2S,3R)-3-methyloxiran-2-yl]-2,3-dihydropyrano[4,3-b]pyran-4,5-dione","C12H12O6",NA,"Organoheterocyclic compounds","Dioxolanes","1,3-dioxolanes",NA,"Polyketides","Cyclic polyketides","Oligomeric phloroglucinols (phlorotannins)"
+"17.193_265.17979_RP","L2","(2S,8R)-8-hydroxy-2-[(1S)-1-hydroxyheptyl]-3,4,5,6,7,8-hexahydro-2H-1-benzopyran-5-one","C16H26O4",NA,NA,NA,NA,NA,NA,NA,NA
+"15.74_305.17074_RP","L2","(2S,8R)-8-hydroxy-2-[(1S)-1-hydroxyheptyl]-3,4,5,6,7,8-hexahydro-2H-1-benzopyran-5-one","C16H26O4",NA,NA,NA,NA,NA,NA,NA,NA
+"19.915_341.20863_RP","L2","(2Z)-5-(1,2,4a,5-tetramethyl-7-oxo-1,2,3,4,4a,7,8,8a-octahydronaphthalen-1-yl)-3-methylpent-2-enoic acid","C20H30O3",NA,NA,NA,NA,NA,NA,NA,NA
+"19.751_341.20858_RP","L2","(2Z)-5-(1,2,4a,5-tetramethyl-7-oxo-1,2,3,4,4a,7,8,8a-octahydronaphthalen-1-yl)-3-methylpent-2-enoic acid","C20H30O3",NA,NA,NA,NA,NA,NA,NA,NA
+"16.785_225.14853_RP","L2","(3aR,7aS,8S,9aR)-5,8-dimethyl-3-methylidene-2H,3H,3aH,4H,6H,7H,7aH,8H,9H,9aH-azuleno[6,5-b]furan-2,6-dione","C15H18O3",NA,NA,NA,NA,NA,NA,NA,NA
+"1.308_458.18683_RP","L2.3","(3R,4S,5S,6R)-2-[(2R,4R,5R)-4,5-dihydroxy-6-[(2R,3R,4R)-4-hydroxy-2-(hydroxymethyl)pyrrolidin-3-yl]oxy-2-(hydroxymethyl)oxan-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol","C17H31NO13",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Carbohydrates","Saccharides","Disaccharides"
+"2.396_370.13445_RP","L2.3","(3R,4S,6R)-6-[(3S,6S)-5-amino-4-hydroxy-2-(hydroxymethyl)-6-methoxyoxan-3-yl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid","C13H23NO11",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Sugar acids and derivatives","Carbohydrates","Aminosugars and aminoglycosides","Aminosugars"
+"10.651_316.1755_RP","L2","(5-methyl-3-isoxazolyl)[4-(5-propyl-2-pyrimidinyl)piperazino]methanone","C16H21N5O2","NSZVFAGWJYIOAD-UHFFFAOYSA-N","Organoheterocyclic compounds","Diazinanes","Piperazines",NA,NA,NA,NA
+"14.096_253.10464_RP","L2","(6S)-6-[(1S,2R)-1,2-dihydroxypentyl]-4-methoxy-5,6-dihydro-2H-pyran-2-one","C11H18O5",NA,NA,NA,NA,NA,NA,NA,NA
+"16.451_257.17469_RP","L2.3","(E)-tetradec-5-enedioic acid","C14H24O4",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates","Unsaturated fatty acids","Fatty acids","Fatty Acids and Conjugates","Dicarboxylic acids"
+"3.738_116.07058_RP","L1","(S)-(+)-5-Hydroxymethyl-2-pyrrolidinone","C5H9NO2","HOBJEFOCIRXQKH-BYPYZUCNSA-N","Organoheterocyclic compounds","Pyrrolidines","Pyrrolidones",NA,NA,NA,NA
+"17.9_241.17982_RP","L2.3","(Z)-7-[(2R,3S)-3-pentyloxiran-2-yl]hept-5-enoic Acid","C14H24O3",NA,"Lipids and lipid-like molecules","Fatty Acyls","Lineolic acids and derivatives","Jasmonic acids","Fatty acids","Fatty Acids and Conjugates","Hydroxy fatty acids"
+"6.442_266.08838_RP","L2.3","[4-(6-aminopurin-9-yl)-3,6,7-trioxabicyclo[3.2.0]heptan-2-yl]methanol","C10H11N5O4",NA,"Nucleosides, nucleotides, and analogues","Purine nucleosides",NA,NA,"Carbohydrates","Nucleosides","Purine nucleos(t)ides"
+"15.452_161.09612_RP","L3.3","[Similar to: (1S,4aS,7aR)-7-methyl-1-{[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}-4a-{[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxy}-1H,4aH,5H,7aH-cyclopenta[c]pyran-5-one; ΔMass: -330.0798 Da]","C11H12O",NA,NA,NA,NA,NA,NA,NA,NA
+"7.056_186.07611_RP","L3.3","[Similar to: (2E)-N-[(2S,3R,4R,5R,6S)-2-{[(2S,3R,4R,5S,6R)-3-Acetamido-4,5-dihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-yl]oxy}-6-{(2R)-2-[(2R,3S,4R,5R)-5-(2,4-dioxo-3,4-dihydro-1(2H)-pyrimidinyl)-3,4-dihydrox ytetrahydro-2-furanyl]-2-hydroxyethyl}-4,5-dihydroxytetrahydro-2H-pyran-3-yl]-14-methyl-2-pentadecenamide; ΔMass: -659.3629 Da]","C8H11NO4",NA,NA,NA,NA,NA,NA,NA,NA
+"1.224_374.12932_RP","L3.3","[Similar to: (3β,5ξ,9ξ,16α,18ξ)-16-Hydroxy-13,28-epoxyoleanan-3-yl 6-deoxy-α-L-mannopyranosyl-(1->2)-β-D-galactopyranosyl-(1->3)-[β-D-glucopyranosyl-(1->2)]-β-D-glucopyranosiduronic acid; ΔMass: -731.4496 Da]","C12H23NO12",NA,NA,NA,NA,NA,NA,NA,NA
+"19.43_277.21619_RP","L3.3","[Similar to: 13(S)-HOTrE; ΔMass: -18.0106 Da]","C18H28O2",NA,NA,NA,NA,NA,NA,NA,NA
+"1.41_325.11294_RP","L3.3","[Similar to: 2-Hydroxy-2-methyl-3-buten-1-yl beta-D-glucopyranoside; ΔMass: 59.9848 Da]","C12H20O10",NA,NA,NA,NA,NA,NA,NA,NA
+"2.438_325.11293_RP","L3.3","[Similar to: 3-hydroxy-N-(1-hydroxy-4-methylpentan-2-yl)-5-oxo-6-phenylhexanamide; ΔMass: 2.9117 Da]","C12H20O10",NA,NA,NA,NA,NA,NA,NA,NA
+"4.011_169.05838_RP","L3.3","[Similar to: Aprobarbital; ΔMass: -42.0493 Da]","C3H4N8O",NA,NA,NA,NA,NA,NA,NA,NA
+"1.622_487.16571_RP","L3.3","[Similar to: Maltotriose; ΔMass: -18.0106 Da]","C18H30O15",NA,NA,NA,NA,NA,NA,NA,NA
+"7.057_276.10778_RP","L3.3","[Similar to: NP-014795; ΔMass: -583.3469 Da]","C11H17NO7",NA,NA,NA,NA,NA,NA,NA,NA
+"11.239_432.28033_RP","L3.3","[Similar to: PEG n10; ΔMass: -26.9997 Da]","C19H37N5O6",NA,NA,NA,NA,NA,NA,NA,NA
+"10.245_327.20138_RP","L3.3","[Similar to: PEG n7; ΔMass: 0.0000 Da]","C15H26N4O4",NA,NA,NA,NA,NA,NA,NA,NA
+"5.74_325.11294_RP","L3.3","[Similar to: Stevioside; ΔMass: -480.2723 Da]","C13H16N4O6",NA,NA,NA,NA,NA,NA,NA,NA
+"15.302_239.12778_RP","L2","1-(3-ethyl-2,4-dihydroxy-6-methoxyphenyl)butan-1-one","C13H18O4","GRQAKVFPDMDUIF-UHFFFAOYSA-N","Organic oxygen compounds","Organooxygen compounds","Carbonyl compounds",NA,NA,NA,NA
+"17.923_453.18816_RP","L2","1-(acetyloxy)-3-hydroxy-6,8a-dimethyl-7-oxo-3-(propan-2-yl)-1,2,3,3a,4,7,8,8a-octahydroazulen-4-yl 4-hydroxybenzoate","C24H30O7",NA,NA,NA,NA,NA,NA,NA,NA
+"18.343_453.18846_RP","L2","1-(acetyloxy)-3-hydroxy-6,8a-dimethyl-7-oxo-3-(propan-2-yl)-1,2,3,3a,4,7,8,8a-octahydroazulen-4-yl 4-hydroxybenzoate","C24H30O7",NA,NA,NA,NA,NA,NA,NA,NA
+"18.586_453.1885_RP","L2","1-(acetyloxy)-3-hydroxy-6,8a-dimethyl-7-oxo-3-(propan-2-yl)-1,2,3,3a,4,7,8,8a-octahydroazulen-4-yl 4-hydroxybenzoate","C24H30O7",NA,NA,NA,NA,NA,NA,NA,NA
+"18.341_431.20646_RP","L2","1-(acetyloxy)-3-hydroxy-6,8a-dimethyl-7-oxo-3-(propan-2-yl)-1,2,3,3a,4,7,8,8a-octahydroazulen-4-yl 4-hydroxybenzoate","C24H30O7",NA,NA,NA,NA,NA,NA,NA,NA
+"18.582_453.18845_RP","L2","1-(acetyloxy)-3-hydroxy-6,8a-dimethyl-7-oxo-3-(propan-2-yl)-1,2,3,3a,4,7,8,8a-octahydroazulen-4-yl 4-hydroxybenzoate","C24H30O7",NA,NA,NA,NA,NA,NA,NA,NA
+"9.135_245.09207_RP","L2.3","1-[(3,5-dimethylisoxazol-4-yl)sulfonyl]piperidine","C10H16N2O3S","NJOBYSGFFTWWDK-UHFFFAOYSA-N","Organoheterocyclic compounds","Piperidines",NA,NA,NA,NA,NA
+"9.963_328.22312_RP","L2.3","1-[2-[(2-amino-3-methylbutanoyl)amino]-4-methylpentanoyl]pyrrolidine-2-carboxylic acid","C16H29N3O4",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"11.986_271.11524_RP","L2.3","1-{[4-Hydroxy-6-(methoxymethyl)pyrimidin-2-yl]thio}-3,3-dimethylbutan-2-one","C12H18N2O3S",NA,NA,NA,NA,NA,NA,NA,NA
+"16.926_331.18806_RP","L2.3","1-{4-[(3S)-3-(5-Fluoro-1H-benzimidazol-2-yl)-1-pyrrolidinyl]-1-piperidinyl}ethanone","C18H23FN4O",NA,NA,NA,NA,NA,NA,NA,NA
+"13.416_315.14385_RP","L2","1-Allyl-3-[(2S,11aS)-5,11-dioxo-2,3,5,10,11,11a-hexahydro-1H-pyrrolo[2,1-c][1,4]benzodiazepin-2-yl]urea","C16H18N4O3",NA,NA,NA,NA,NA,NA,NA,NA
+"1.133_102.05495_RP","L1","1-Aminocyclopropanecarboxylic acid","C4H7NO2","PAJPWUMXBYXFCZ-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"13.755_109.10117_RP","L2.3","1-Ethyl-3-prop-1-en-2-ylcyclopropene","C8H12","CEUQCTGVAUGHHJ-UHFFFAOYSA-N","Hydrocarbons","Unsaturated hydrocarbons","Branched unsaturated hydrocarbons",NA,"Terpenoids","Monoterpenoids","Thujane monoterpenoids"
+"1.311_204.12304_RP","L2.3","1-Methyl-4-(1-pyrrolidinyl)-1H-pyrazolo[3,4-d]pyrimidine","C10H13N5",NA,NA,NA,NA,NA,NA,NA,NA
+"2.548_123.0474_RP","L2.3","1-Propanol, 3-(methylsulfinyl)-","C4H10O2S",NA,"Organosulfur compounds","Sulfoxides",NA,NA,"Fatty acids","Fatty acyls","Fatty alcohols"
+"20.043_311.25804_RP","L2","1,4-dihydroxyheptadec-16-en-2-yl acetate","C19H36O4","LUIGTZGBXWZJAX-UHFFFAOYSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty alcohols",NA,NA,NA,NA
+"5.784_276.10778_RP","L2.3","1,6-anhydro-N-acetylmuramic acid","C11H17NO7","ZFEGYUMHFZOYIY-YVNCZSHWSA-N","Organoheterocyclic compounds","Oxepanes",NA,"Aminosaccharides","Carbohydrates","Aminosugars and aminoglycosides","Aminosugars"
+"19.588_363.25081_RP","L2","11-Deoxy prostaglandin F1α","C20H36O4",NA,NA,NA,NA,NA,NA,NA,NA
+"19.61_283.22675_RP","L2.3","12-hydroxyheptadec-16-ynoic acid","C17H30O3","HBFCVDJQUPEEIC-UHFFFAOYSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates","Long-chain fatty acids","Fatty acids","Octadecanoids","Other Octadecanoids"
+"18.23_281.21104_RP","L2.3","12-Oxo-8,10-heptadecadienoicacid","C17H28O3",NA,"Lipids and lipid-like molecules","Fatty Acyls","Lineolic acids and derivatives",NA,"Fatty acids","Octadecanoids","Other Octadecanoids"
+"19.174_281.21081_RP","L2.3","12-Oxo-8,10-heptadecadienoicacid","C17H28O3",NA,"Lipids and lipid-like molecules","Fatty Acyls","Lineolic acids and derivatives",NA,"Fatty acids","Fatty Acids and Conjugates","Oxo fatty acids"
+"17.513_293.21109_RP","L2","12-oxo Phytodienoic Acid","C18H28O3","PMTMAFAPLCGXGK-JMTMCXQRSA-N","Lipids and lipid-like molecules","Fatty Acyls","Eicosanoids",NA,NA,NA,NA
+"15.355_275.20053_RP","L2","12-Oxo phytodienoic acid","C18H28O3","PMTMAFAPLCGXGK-JMTMCXQRSA-N","Lipids and lipid-like molecules","Fatty Acyls","Eicosanoids",NA,NA,NA,NA
+"15.507_275.20053_RP","L2","12-Oxo phytodienoic acid","C18H28O3","PMTMAFAPLCGXGK-JMTMCXQRSA-N","Lipids and lipid-like molecules","Fatty Acyls","Eicosanoids",NA,NA,NA,NA
+"18.716_275.20055_RP","L2","12-Oxo phytodienoic acid","C18H28O3","PMTMAFAPLCGXGK-JMTMCXQRSA-N","Lipids and lipid-like molecules","Fatty Acyls","Eicosanoids",NA,NA,NA,NA
+"18.241_293.21111_RP","L2","12-Oxo phytodienoic acid","C18H28O3","PMTMAFAPLCGXGK-JMTMCXQRSA-N","Lipids and lipid-like molecules","Fatty Acyls","Eicosanoids",NA,NA,NA,NA
+"18.228_275.20055_RP","L2","12-Oxo phytodienoic acid","C18H28O3","PMTMAFAPLCGXGK-JMTMCXQRSA-N","Lipids and lipid-like molecules","Fatty Acyls","Eicosanoids",NA,NA,NA,NA
+"15.891_275.20054_RP","L2","12-Oxo phytodienoic acid","C18H28O3","PMTMAFAPLCGXGK-JMTMCXQRSA-N","Lipids and lipid-like molecules","Fatty Acyls","Eicosanoids",NA,NA,NA,NA
+"18.542_275.20056_RP","L2","12-Oxo phytodienoic acid","C18H28O3","PMTMAFAPLCGXGK-JMTMCXQRSA-N","Lipids and lipid-like molecules","Fatty Acyls","Eicosanoids",NA,NA,NA,NA
+"16.291_275.20053_RP","L2","12-Oxo phytodienoic acid","C18H28O3","PMTMAFAPLCGXGK-JMTMCXQRSA-N","Lipids and lipid-like molecules","Fatty Acyls","Eicosanoids",NA,NA,NA,NA
+"19.266_275.20054_RP","L2","12-Oxo phytodienoic acid","C18H28O3","PMTMAFAPLCGXGK-JMTMCXQRSA-N","Lipids and lipid-like molecules","Fatty Acyls","Eicosanoids",NA,NA,NA,NA
+"14.852_275.20053_RP","L2","12-Oxo phytodienoic acid","C18H28O3","PMTMAFAPLCGXGK-JMTMCXQRSA-N","Lipids and lipid-like molecules","Fatty Acyls","Eicosanoids",NA,NA,NA,NA
+"17.074_307.19022_RP","L2.3","12-prop-2-ynoyloxydodecyl Prop-2-ynoate","C18H26O4","HVONIKOFJQMDFM-UHFFFAOYSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty alcohol esters",NA,"Fatty acids","Meroterpenoids","Prostaglandins"
+"17.207_295.22668_RP","L2","13(S)-HOTrE","C18H30O3","KLLGGGQNRTVBSU-FQSPHKRJSA-N","Lipids and lipid-like molecules","Fatty Acyls","Lineolic acids and derivatives",NA,NA,NA,NA
+"16.829_295.22675_RP","L2","13(S)-HOTrE","C18H30O3","KLLGGGQNRTVBSU-FQSPHKRJSA-N","Lipids and lipid-like molecules","Fatty Acyls","Lineolic acids and derivatives",NA,NA,NA,NA
+"16.118_295.22676_RP","L2","13(S)-HOTrE","C18H30O3","KLLGGGQNRTVBSU-FQSPHKRJSA-N","Lipids and lipid-like molecules","Fatty Acyls","Lineolic acids and derivatives",NA,NA,NA,NA
+"18.98_317.21103_RP","L2","15-Deoxy-Δ12,14-prostaglandin D2","C20H30O4",NA,NA,NA,NA,NA,NA,NA,NA
+"18.195_316.24817_RP","L2.3","17-(hydroxyamino)-17-oxoheptadecanoic acid","C17H33NO4","HARAGEJHQNFJQH-UHFFFAOYSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates","Long-chain fatty acids","Fatty acids","Fatty Acids and Conjugates","Nitro fatty acids"
+"6.175_252.10909_RP","L1","2'-Deoxyadenosine","C10H13N5O3","OLXZPDWKRNYJJZ-RRKCRQDMSA-N","Nucleosides, nucleotides, and analogues","Purine nucleosides","Purine 2'-deoxyribonucleosides",NA,NA,NA,NA
+"2.493_228.09787_RP","L1","2'-Deoxycytidine","C9H13N3O4","CKTSBUTUHBMZGZ-SHYZEUOFSA-N","Nucleosides, nucleotides, and analogues","Pyrimidine nucleosides","Pyrimidine 2'-deoxyribonucleosides",NA,NA,NA,NA
+"13.946_269.13596_RP","L2.3","2-(1-Ethyl-3-methyl-1H-pyrazol-5-yl)-5-(4-methylphenyl)-1,3,4-oxadiazole","C15H16N4O",NA,NA,NA,NA,NA,NA,NA,NA
+"16.777_275.12541_RP","L2.3","2-(1H-benzo[d]imidazol-2-yl)-3-(4-toluidino)acrylonitrile","C17H14N4","QBAFHMWHAPQOFG-ACCUITESSA-N","Organoheterocyclic compounds","Benzimidazoles",NA,NA,NA,NA,NA
+"1.4_275.12374_RP","L2.3","2-(1H-benzo[d]imidazol-2-yl)-3-(4-toluidino)acrylonitrile","C17H14N4","QBAFHMWHAPQOFG-ACCUITESSA-N","Organoheterocyclic compounds","Benzimidazoles",NA,NA,NA,NA,NA
+"1.141_275.12378_RP","L2.3","2-(1H-benzo[d]imidazol-2-yl)-3-(4-toluidino)acrylonitrile","C17H14N4","QBAFHMWHAPQOFG-ACCUITESSA-N","Organoheterocyclic compounds","Benzimidazoles",NA,NA,NA,NA,NA
+"9.602_265.15468_RP","L2","2-(2-amino-3-methylbutanamido)-3-phenylpropanoic acid","C14H20N2O3","GJNDXQBALKCYSZ-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.415_231.17028_RP","L2.3","2-(2-aminohexanamido)pentanoic acid","C11H22N2O3",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.661_231.17031_RP","L2.3","2-(2-aminopentanoylamino)-4-methylpentanoic acid","C11H22N2O3","OEOQPSFHJDWVNT-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Dipeptides"
+"3.554_246.09707_RP","L2.3","2-(4-methyl-2,3,5,6,7,7a-hexahydro-1H-inden-5-yliden)hydrazine-1-carboxamide","C11H17N3O",NA,NA,NA,NA,NA,NA,NA,NA
+"1.85_321.11566_RP","L2","2-(benzylamino)-6-methyl-5-(2-methyl-1,3-thiazol-4-yl)nicotinonitrile","C18H16N4S",NA,NA,NA,NA,NA,NA,NA,NA
+"2.917_321.11563_RP","L2","2-(benzylamino)-6-methyl-5-(2-methyl-1,3-thiazol-4-yl)nicotinonitrile","C18H16N4S",NA,NA,NA,NA,NA,NA,NA,NA
+"2.171_321.11566_RP","L2","2-(benzylamino)-6-methyl-5-(2-methyl-1,3-thiazol-4-yl)nicotinonitrile","C18H16N4S",NA,NA,NA,NA,NA,NA,NA,NA
+"1.02_120.10189_RP","L2.3","2-(methylaminomethyl)propane-1,3-diol","C5H13NO2","XQQRDUJIAAHJTQ-UHFFFAOYSA-N","Organic nitrogen compounds","Organonitrogen compounds","Amines","Tetraalkylammonium salts","Fatty acids","Fatty Acids and Conjugates","Fatty alcohols"
+"1.661_349.11052_RP","L2.3","2-[(2S,3R,4S,5R)-5-(Aminomethyl)-3,4-dihydroxytetrahydro-2-furanyl]-N-(4-methoxybenzyl)acetamide","C15H22N2O5",NA,NA,NA,NA,NA,NA,NA,NA
+"2.182_349.11062_RP","L2.3","2-[(2S,3R,4S,5R)-5-(Aminomethyl)-3,4-dihydroxytetrahydro-2-furanyl]-N-(4-methoxybenzyl)acetamide","C15H22N2O5",NA,NA,NA,NA,NA,NA,NA,NA
+"8.187_344.18163_RP","L2.3","2-[[1-(2-amino-3-methylpentanoyl)pyrrolidine-2-carbonyl]amino]butanedioic acid","C15H25N3O6",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"8.003_286.17614_RP","L2.3","2-[[1-(2-amino-4-methylpentanoyl)pyrrolidine-2-carbonyl]amino]acetic acid","C13H23N3O4",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"8.172_300.19175_RP","L2.3","2-[[1-(2-aminopropanoyl)pyrrolidine-2-carbonyl]amino]-4-methylpentanoic acid","C14H25N3O4",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"11.249_360.21296_RP","L2.3","2-[[2-[(2-amino-4-carboxybutanoyl)amino]-3-methylbutanoyl]amino]-4-methylpentanoic acid","C16H29N3O6",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Tripeptides"
+"14.32_223.09406_RP","L2","2-[4-(tert-butyl)-2,3-dihydro-1,3-thiazol-2-yliden]-3-oxobutanenitrile","C11H14N2OS",NA,NA,NA,NA,NA,NA,NA,NA
+"10.834_360.22802_RP","L2.3","2-acetamido-N-(3-ethyl-2-hydroxypentyl)-3-(1H-indol-3-yl)propanamide","C20H29N3O3",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.343_180.06893_RP","L2.3","2-amino-4-ethylsulfinylbutanoic acid","C6H13NO3S","ZEZVOWDXHLTCLO-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"1.313_162.07613_RP","L2","2-Aminoadipic acid","C6H11NO4","OYIFNHCXNCRBQI-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.243_104.07059_RP","L1","2-Aminoisobutyric acid","C4H9NO2","FUOOLUPWFVMBKG-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.184_212.07644_RP","L2.3","2-aminooxy-3,4,5,6-tetrahydroxyhexanoic acid","C6H13NO7","OQORJIIXCVEMLO-UHFFFAOYSA-N","Organic acids and derivatives","Hydroxy acids and derivatives","Medium-chain hydroxy acids and derivatives","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"1.411_272.1717_RP","L2.3","2-Benzyl-5-[(3S)-1-isopropyl-3-pyrrolidinyl]-1,3,4-oxadiazole","C16H21N3O","IBVGSFOCMFNIEX-AWEZNQCLSA-N","Organic nitrogen compounds","Organonitrogen compounds","Amines",NA,NA,NA,NA
+"1.333_222.09719_RP","L2","2-Fluoro-6-(4-methoxyphenoxy)benzonitrile","C14H10FNO2","ZQMZRWJCULMXQS-UHFFFAOYSA-N","Benzenoids","Benzene and substituted derivatives","Diphenylethers",NA,NA,NA,NA
+"10.865_182.0812_RP","L2","2-Hydroxyphenylalanine","C9H11NO3","WRFPVMFCRNYQNR-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.878_79.02128_RP","L2","2-Mercaptoethanol","C2H6OS","DGVVWUTYPXICAM-UHFFFAOYSA-N","Organosulfur compounds","Thiols","Alkylthiols",NA,NA,NA,NA
+"1.244_266.12343_RP","L2.3","2-N-(Carboxypropylamino)-2-deoxyglucopyranose","C10H19NO7","GCJQXFZHHRGWHB-QXOHVQIXSA-N","Lipids and lipid-like molecules","Saccharolipids",NA,"Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"1.595_174.08735_RP","L2.3","2-oxoarginine","C6H11N3O3","ARBHXJXXVVHMET-UHFFFAOYSA-N","Organic acids and derivatives","Keto acids and derivatives","Short-chain keto acids and derivatives","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"2.166_134.11755_RP","L2.3","2,2'-Iminodipropanol","C6H15NO2","WCYGORCMAJDYJN-UHFFFAOYSA-N","Organic nitrogen compounds","Organonitrogen compounds","Amines","Alkanolamines","Alkaloids","Fatty acyls","Fatty alcohols"
+"2.896_158.15398_RP","L2","2,2,6,6-Tetramethyl-4-piperidinol","C9H19NO","VDVUCLWJZJHFAV-UHFFFAOYSA-N","Organoheterocyclic compounds","Piperidines",NA,NA,NA,NA,NA
+"16.256_349.19869_RP","L2","2,3-Dinor-11β-prostaglandin F2α","C18H30O5",NA,NA,NA,NA,NA,NA,NA,NA
+"15.792_344.24316_RP","L2","2,3-Dinor-8-epi-prostaglandin F2α","C18H30O5",NA,NA,NA,NA,NA,NA,NA,NA
+"1.197_97.02842_RP","L2.3","2,4-Pentadienal, 5-oxo-","C5H4O2",NA,"Organic oxygen compounds","Organooxygen compounds","Carbonyl compounds","Ketones","Polyketides","Phenolic acids (C6-C1)","Benzoquinones"
+"1.371_291.06863_RP","L2.3","3-(5-phenyl-1,3-oxazol-2-yl)-4-(trifluoromethyl)pyridine","C15H9F3N2O","CRHPRQAXCYIJBH-UHFFFAOYSA-N","Organoheterocyclic compounds","Azoles","Oxazoles",NA,NA,NA,NA
+"3.094_257.06317_RP","L2.3","3-[(5-nitropyridin-2-yl)oxy]-1H-indazole","C12H8N4O3",NA,NA,NA,NA,NA,NA,NA,NA
+"12.445_125.09608_RP","L2.3","3-Cyclohexen-1-one, 4-ethyl-","C8H12O",NA,"Organic oxygen compounds","Organooxygen compounds","Carbonyl compounds","Aldehydes","Fatty acids","Fatty acyls","Fatty aldehydes"
+"13.749_190.14378_RP","L2.3","3-hexylserine","C9H19NO3","ICWOFXKZEXYLQJ-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"16.45_243.15906_RP","L2","3-hydroxy-2-octylpentanedioic acid","C13H24O5","ROYIOVVKJBERGN-UHFFFAOYSA-N","Organic acids and derivatives","Hydroxy acids and derivatives","Medium-chain hydroxy acids and derivatives",NA,NA,NA,NA
+"1.196_180.08668_RP","L2","3-hydroxy-3-methylpentanedioic acid","C6H10O5","NPOAOTPXWNWTSH-UHFFFAOYSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates",NA,NA,NA,NA
+"1.393_163.06011_RP","L2","3-hydroxy-3-methylpentanedioic acid","C6H10O5","NPOAOTPXWNWTSH-UHFFFAOYSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates",NA,NA,NA,NA
+"13.925_197.11476_RP","L2.3","3-hydroxynonanoate","C9H18O3","XBUXARJOYUQNTC-UHFFFAOYSA-M","Organic acids and derivatives","Hydroxy acids and derivatives","Medium-chain hydroxy acids and derivatives",NA,"Fatty acids","Fatty Acids and Conjugates","Branched fatty acids"
+"12.826_241.10462_RP","L2.3","3-Hydroxysebacate","C10H18O5","OQYZCCKCJQWHIE-UHFFFAOYSA-N","Organic acids and derivatives","Hydroxy acids and derivatives","Medium-chain hydroxy acids and derivatives",NA,"Polyketides","Fatty Acids and Conjugates","Dicarboxylic acids"
+"2.434_137.0267_RP","L2.3","3-methanesulfinylpropanoic acid","C4H8O3S","OLSJFOQLAOTISH-UHFFFAOYSA-N","Organosulfur compounds","Sulfoxides",NA,"Straight chain fatty acids","Fatty acids","Fatty Acids and Conjugates","Thia fatty acids"
+"1.779_160.13323_RP","L2.3","3-methyl-4-(trimethylazaniumyl)butanoate","C8H17NO2",NA,"Organic nitrogen compounds","Organonitrogen compounds","Quaternary ammonium salts","Cholines","Fatty acids","Fatty esters","Wax monoesters"
+"1.262_334.19733_RP","L2.3","3-nitrobenzaldehyde N-[3-(tert-butyl)-4-oxo-5-phenyl-1,3-thiazolan-2-ylidene]hydrazone","C20H20N4O3S",NA,NA,NA,NA,NA,NA,NA,NA
+"1.927_133.06076_RP","L2","3-Ureidopropionic acid","C4H8N2O3","JSJWCHRYRHKBBW-UHFFFAOYSA-N","Organic acids and derivatives","Organic carbonic acids and derivatives","Ureas",NA,NA,NA,NA
+"1.377_234.13365_RP","L2.3","4-(1-adamantyl)-2-methyl-1,3-thiazole","C14H19NS","MJWMPQJTRWLIKB-UHFFFAOYSA-N","Organoheterocyclic compounds","Azoles","Thiazoles",NA,NA,NA,NA
+"1.854_190.10742_RP","L2.3","4-(4-Hydroxybutanamido)butanoic acid","C8H15NO4","JHEKVAATCRSDDN-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alkaloids","Lysine alkaloids","Pyrrolidine alkaloids"
+"1.408_333.12926_RP","L2.3","4-(4-methoxyphenyl)-2-(methylanilino)-6-oxo-1,6-dihydropyrimidine-5-carbonitrile","C19H16N4O2",NA,NA,NA,NA,NA,NA,NA,NA
+"1.606_333.12927_RP","L2.3","4-(4-methoxyphenyl)-2-(methylanilino)-6-oxo-1,6-dihydropyrimidine-5-carbonitrile","C19H16N4O2",NA,NA,NA,NA,NA,NA,NA,NA
+"13.019_408.21291_RP","L2.3","4-amino-5-[[1-[(1-carboxy-2-phenylethyl)amino]-4-methyl-1-oxopentan-2-yl]amino]-5-oxopentanoic acid","C20H29N3O6",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Tripeptides"
+"1.903_130.09748_RP","L2.3","4-guanidinobutanal","C5H11N3O","VCOFTLCIPLEZKE-UHFFFAOYSA-N","Organic oxygen compounds","Organooxygen compounds","Carbonyl compounds","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"1.893_146.09243_RP","L1","4-Guanidinobutyric acid","C5H11N3O2","TUHVEAJXIMEOSA-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"3.295_202.17954_RP","L2.3","4-Hydroxy-2,2,6,6-tetramethyl-1-piperidineethanol","C11H23NO2","STEYNUVPFMIUOY-UHFFFAOYSA-N","Organoheterocyclic compounds","Piperidines",NA,NA,"Terpenoids","Lysine alkaloids","Piperidine alkaloids"
+"14.097_213.11216_RP","L2","4-methyl-5-oxo-2-pentyl-2,5-dihydrofuran-3-carboxylic acid","C11H16O4","OIUPBOONLQPLQI-UHFFFAOYSA-N","Organoheterocyclic compounds","Dihydrofurans","Furanones",NA,NA,NA,NA
+"1.349_210.0794_RP","L2","4-Morpholinepropanesulfonic acid","C7H15NO4S","DVLFYONBTKHTER-UHFFFAOYSA-N","Organoheterocyclic compounds","Oxazinanes","Morpholines",NA,NA,NA,NA
+"1.247_438.20824_RP","L2.3","4-OHE2-1-N7Gua","C23H27N5O4","FRKBGPSXUBCIFE-URRUNNDYSA-N","Lipids and lipid-like molecules","Steroids and steroid derivatives","Estrane steroids",NA,NA,NA,NA
+"1.167_205.06821_RP","L2","4-Oxo-3,4-dihydroquinazoline-2-carbohydrazide","C9H8N4O2","USFNPPAZHOLLBF-UHFFFAOYSA-N","Organoheterocyclic compounds","Diazanaphthalenes","Benzodiazines",NA,NA,NA,NA
+"13.75_227.12546_RP","L2","4-oxododecanedioic acid","C12H20O5","HHXMOTDTSDYYEI-UHFFFAOYSA-N","Organic acids and derivatives","Keto acids and derivatives","Medium-chain keto acids and derivatives",NA,NA,NA,NA
+"13.747_227.12696_RP","L2","4-oxododecanedioic acid","C12H20O5","HHXMOTDTSDYYEI-UHFFFAOYSA-N","Organic acids and derivatives","Keto acids and derivatives","Medium-chain keto acids and derivatives",NA,NA,NA,NA
+"13.688_267.12028_RP","L2","4-oxododecanedioic acid","C12H20O5","HHXMOTDTSDYYEI-UHFFFAOYSA-N","Organic acids and derivatives","Keto acids and derivatives","Medium-chain keto acids and derivatives",NA,NA,NA,NA
+"13.781_267.1203_RP","L2","4-oxododecanedioic acid","C12H20O5","HHXMOTDTSDYYEI-UHFFFAOYSA-N","Organic acids and derivatives","Keto acids and derivatives","Medium-chain keto acids and derivatives",NA,NA,NA,NA
+"8.684_159.06523_RP","L2.3","4,6-Dioxoheptanoic acid","C7H10O4","WYEPBHZLDUPIOD-UHFFFAOYSA-N","Organic acids and derivatives","Keto acids and derivatives","Medium-chain keto acids and derivatives",NA,"Fatty acids","Fatty Acids and Conjugates","Oxo fatty acids"
+"13.926_229.14345_RP","L2","5-[(1E)-3-hydroxy-3-methylbut-1-en-1-yl]-2-methylcyclohex-5-ene-1,2,4-triol","C12H20O4",NA,NA,NA,NA,NA,NA,NA,NA
+"16.283_251.12544_RP","L2","5-[(1E)-3-hydroxy-3-methylbut-1-en-1-yl]-2-methylcyclohex-5-ene-1,2,4-triol","C12H20O4",NA,NA,NA,NA,NA,NA,NA,NA
+"17.47_377.22991_RP","L2","5-[5-hydroxy-3-(hydroxymethyl)pentyl]-8a-(hydroxymethyl)-5,6-dimethyl-3,4,4a,5,6,7,8,8a-octahydronaphthalene-1-carboxylic acid","C20H34O5",NA,NA,NA,NA,NA,NA,NA,NA
+"1.387_403.1936_RP","L2.3","5-amino-2-[[5-amino-2-[(2,5-diamino-5-oxopentanoyl)amino]-5-oxopentanoyl]amino]-5-oxopentanoic acid","C15H26N6O7",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Tripeptides"
+"8.045_146.11758_RP","L2.3","5-Methyl-L-norleucine","C7H15NO2","FMUMEWVNYMUECA-LURJTMIESA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"4.178_267.05875_RP","L2.3","6-(3-hydroxybutan-2-yl)-5-(hydroxymethyl)-4-methoxy-2H-pyran-2-one","C11H16O5","BSXCHPRMOOSCRM-UHFFFAOYSA-N","Organoheterocyclic compounds","Pyrans","Pyranones and derivatives",NA,NA,NA,NA
+"4.159_267.05874_RP","L2.3","6-(3-hydroxybutan-2-yl)-5-(hydroxymethyl)-4-methoxy-2H-pyran-2-one","C11H16O5","BSXCHPRMOOSCRM-UHFFFAOYSA-N","Organoheterocyclic compounds","Pyrans","Pyranones and derivatives",NA,NA,NA,NA
+"1.317_132.10191_RP","L2","6-Aminocaproic acid","C6H13NO2","SLXKOJJOQWFEFD-UHFFFAOYSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates",NA,NA,NA,NA
+"8.198_337.08938_RP","L2.3","6-methyl-1-(2-methylphenyl)-3-propylfuro[3,2-d]pyrimidine-2,4(1H,3H)-dione","C17H18N2O3",NA,NA,NA,NA,NA,NA,NA,NA
+"4.143_231.08389_RP","L2.3","7-Oxobenz[de]anthracene","C17H10O","HUKPVYBUJRAUAG-UHFFFAOYSA-N","Benzenoids","Phenanthrenes and derivatives",NA,NA,NA,NA,NA
+"3.488_231.08355_RP","L2.3","7-Oxobenz[de]anthracene","C17H10O","HUKPVYBUJRAUAG-UHFFFAOYSA-N","Benzenoids","Phenanthrenes and derivatives",NA,NA,NA,NA,NA
+"19.123_293.20892_RP","L2.3","8-{3-Oxo-2-[(2E)-2-penten-1-yl]-1-cyclopenten-1-yl}octanoic acid","C18H28O3",NA,NA,NA,NA,NA,NA,NA,NA
+"18.543_293.2111_RP","L2","8-{3-Oxo-2-[(2E)-2-penten-1-yl]-1-cyclopenten-1-yl}octanoic acid","C18H28O3",NA,NA,NA,NA,NA,NA,NA,NA
+"11.051_271.11523_RP","L2.3","8-Amino-2''-nordeoxyguanosine","C9H14N6O4",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alkaloids","Pseudoalkaloids","pteridine alkaloids"
+"14.617_155.10669_RP","L2.3","8-Oxo-2-nonenal","C9H14O2",NA,"Organic oxygen compounds","Organooxygen compounds","Carbonyl compounds","Ketones","Fatty acids","Fatty acyls","Fatty aldehydes"
+"20.327_307.26299_RP","L2","8Z,11Z,14Z-Eicosatrienoic acid","C20H34O2","HOBAELRKJCKHQD-QNEBEIHSSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates",NA,NA,NA,NA
+"9.5_174.14887_RP","L2.3","9-Aminononanoic acid","C9H19NO2","VWPQCOZMXULHDM-UHFFFAOYSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates","Amino acids and derivatives","Fatty acids","Fatty Acids and Conjugates","Aminoacids"
+"18.24_328.24825_RP","L2","9-Nitrooleate","C18H33NO4","CQOAKBVRRVHWKV-SAPNQHFASA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates",NA,NA,NA,NA
+"6.15_283.06729_RP","L2.3","9-Riburonosylhypoxanthine","C10H10N4O6","YALKLGGFZOUJBN-SOVPELCUSA-N","Nucleosides, nucleotides, and analogues","Purine nucleosides",NA,NA,"Carbohydrates","Nucleosides","Purine nucleos(t)ides"
+"16.834_277.21618_RP","L2.3","9,12-Octadecadiynoicacid","C18H28O2",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates","Long-chain fatty acids","Fatty acids","Fatty Acids and Conjugates","Unsaturated fatty acids"
+"17.999_277.21618_RP","L2.3","9,12-Octadecadiynoicacid","C18H28O2",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates","Long-chain fatty acids","Fatty acids","Fatty Acids and Conjugates","Unsaturated fatty acids"
+"19.805_277.2162_RP","L2.3","9,15-Octadecadiynoic acid","C18H28O2","KDSXNWFNVYTBGR-UHFFFAOYSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates",NA,"Fatty acids","Fatty Acids and Conjugates","Unsaturated fatty acids"
+"19.094_293.21074_RP","L2","9S,13R-12-Oxophytodienoic acid","C18H28O3","PMTMAFAPLCGXGK-TTXFDSJOSA-N","Lipids and lipid-like molecules","Fatty Acyls","Eicosanoids",NA,NA,NA,NA
+"18.745_293.2111_RP","L2","9S,13R-12-Oxophytodienoic acid","C18H28O3","PMTMAFAPLCGXGK-TTXFDSJOSA-N","Lipids and lipid-like molecules","Fatty Acyls","Eicosanoids",NA,NA,NA,NA
+"16.968_293.21109_RP","L2","9S,13R-12-Oxophytodienoic acid","C18H28O3","PMTMAFAPLCGXGK-TTXFDSJOSA-N","Lipids and lipid-like molecules","Fatty Acyls","Eicosanoids",NA,NA,NA,NA
+"19.263_293.211_RP","L2","9S,13R-12-Oxophytodienoic acid","C18H28O3","PMTMAFAPLCGXGK-TTXFDSJOSA-N","Lipids and lipid-like molecules","Fatty Acyls","Eicosanoids",NA,NA,NA,NA
+"1.211_233.06312_RP","L2.3","Aceanthrenequinone","C16H8O2","YAIBDWAANBTYIA-UHFFFAOYSA-N","Benzenoids","Anthracenes",NA,NA,NA,NA,NA
+"3.769_121.06477_RP","L2","Acetophenone","C8H8O","KWOLFJPFCHCOCG-UHFFFAOYSA-N","Organic oxygen compounds","Organooxygen compounds","Carbonyl compounds",NA,NA,NA,NA
+"1.259_204.08653_RP","L2.3","Acetyl-O-acetyl-L-threonine","C8H13NO5","FHYSLJXFHVWFLV-FBCQKBJTSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"1.26_146.11758_RP","L2.3","Acetylcholine","C7H16NO2","OIPILFWXSMYKGL-UHFFFAOYSA-N","Organic nitrogen compounds","Organonitrogen compounds","Quaternary ammonium salts",NA,NA,NA,NA
+"1.065_155.04273_RP","L2.3","Acipimox","C6H6N2O3","DJQOOSBJCLSSEY-UHFFFAOYSA-N","Organoheterocyclic compounds","Diazines","Pyrazines",NA,NA,NA,NA
+"1.414_99.04406_RP","L2.3","Acrylacetaldehyde","C5H6O2","GRNDXOGZORGERT-UHFFFAOYSA-N","Organic oxygen compounds","Organooxygen compounds","Carbonyl compounds",NA,"Fatty acids","Fatty acyls","Fatty aldehydes"
+"14.83_345.22722_RP","L2","ADB-PINACA","C19H28N4O2","FWTARAXQGJRQKN-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"15.808_367.20925_RP","L2","ADB-PINACA","C19H28N4O2","FWTARAXQGJRQKN-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"15.009_367.20912_RP","L2","ADB-PINACA","C19H28N4O2","FWTARAXQGJRQKN-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.965_136.06178_RP","L1","Adenine","C5H5N5","GFFGJBXGBJISGV-UHFFFAOYSA-N","Organoheterocyclic compounds","Imidazopyrimidines","Purines and purine derivatives",NA,NA,NA,NA
+"1.101_234.10848_RP","L2.3","Alanyl-glycyl-serine","C8H15N3O5","NBTGEURICRTMGL-WHFBIAKZSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Tripeptides"
+"1.289_191.10266_RP","L2.3","alanyl-threonine","C7H14N2O4","BUQICHWNXBIBOG-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"1.314_219.09758_RP","L2.3","Alanylglutamate","C8H14N2O5","VYZAGTDAHUIRQA-WHFBIAKZSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"7.207_203.13897_RP","L2.3","alanylleucine","C9H18N2O3","RDIKFPRVLJLMER-BQBZGAKWSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"3.203_189.12339_RP","L2.3","alanylvaline","C8H16N2O3","LIWMQSWFLXEGMA-WDSKDSINSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.192_177.06187_RP","L2.3","allantoate","C4H8N4O4","NUCLJNSWZCHRKL-UHFFFAOYSA-M","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"10.411_346.21237_RP","L2","AMB","C19H27N3O3",NA,NA,NA,NA,NA,NA,NA,NA
+"2.658_210.0608_RP","L2.3","Aminoglucuronic acid","C6H11NO7","OZRCMOFRVFRZQV-QDQPNEQZSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"1.388_536.18225_RP","L2.3","Aminooxydextran","C18H33NO17","KBBQTGYLFHZRCV-JNTHQENNSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Oligosaccharides","Carbohydrates","Saccharides","Disaccharides"
+"19.081_333.20373_RP","L2","Andrographolide","C20H30O5","BOJKULTULYSRAS-OTESTREVSA-N","Organoheterocyclic compounds","Lactones","Gamma butyrolactones",NA,NA,NA,NA
+"18.244_333.20368_RP","L2","Andrographolide","C20H30O5","BOJKULTULYSRAS-OTESTREVSA-N","Organoheterocyclic compounds","Lactones","Gamma butyrolactones",NA,NA,NA,NA
+"20.019_305.24724_RP","L2","Arachidonic acid","C20H32O2","YZXBAPSDXZZRGB-DOFZRALJSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates",NA,NA,NA,NA
+"10.342_287.23291_RP","L2","Arachidonic acid","C20H32O2","YZXBAPSDXZZRGB-DOFZRALJSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates",NA,NA,NA,NA
+"1.415_156.10194_RP","L2","Arecoline","C8H13NO2","HJJPJSXJAXAIPN-UHFFFAOYSA-N","Alkaloids and derivatives",NA,NA,NA,NA,NA,NA
+"1.153_291.13001_RP","L2","Argininosuccinic acid","C10H18N4O6",NA,NA,NA,NA,NA,NA,NA,NA
+"6.274_322.1874_RP","L2.3","Arginylphenylalanine","C15H23N5O3","PQBHGSGQZSOLIR-RYUDHWBXSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"2.424_177.0394_RP","L1","Ascorbic acid","C6H8O6","CIWBSHSKHKDKBQ-JLAZNSOCSA-N","Organoheterocyclic compounds","Dihydrofurans","Furanones",NA,NA,NA,NA
+"1.9_177.0394_RP","L1","Ascorbic acid","C6H8O6","CIWBSHSKHKDKBQ-JLAZNSOCSA-N","Organoheterocyclic compounds","Dihydrofurans","Furanones",NA,NA,NA,NA
+"9.707_295.12882_RP","L2","Aspartame","C14H18N2O5","IAOZJIPTCAWIRG-QWRGUYRKSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"7.572_247.12879_RP","L2.3","Aspartyl-Isoleucine","C10H18N2O5","BSWHERGFUNMWGS-HAFWLYHUSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.352_263.08737_RP","L2.3","Aspartylglutamate","C9H14N2O7","CKAJHWFHHFSCDT-WHFBIAKZSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.182_118.08623_RP","L1","Betaine","C5H11NO2","KWIUHFFTVRNATP-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"18.002_415.21149_RP","L2","Bis(4-ethylbenzylidene)sorbitol","C24H30O6",NA,NA,NA,NA,NA,NA,NA,NA
+"17.811_415.21143_RP","L2","Bis(4-ethylbenzylidene)sorbitol","C24H30O6",NA,NA,NA,NA,NA,NA,NA,NA
+"1.104_86.06009_RP","L2.3","butyrylamino","C4H7NO",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Carboxylic acid derivatives","Carboxylic acid amides","Alkaloids","Fatty amides","Primary amides"
+"19.651_317.20869_RP","L2.3","Cafestol","C20H28O3","DNJVYWXIDISQRD-HWUKTEKMSA-N","Organoheterocyclic compounds","Naphthofurans",NA,NA,NA,NA,NA
+"19.432_317.20877_RP","L2.3","Cafestol","C20H28O3","DNJVYWXIDISQRD-HWUKTEKMSA-N","Organoheterocyclic compounds","Naphthofurans",NA,NA,NA,NA,NA
+"19.801_295.2267_RP","L2","Cafestol","C20H28O3","DNJVYWXIDISQRD-HWUKTEKMSA-N","Organoheterocyclic compounds","Naphthofurans",NA,NA,NA,NA,NA
+"19.143_317.21061_RP","L2","Cafestol","C20H28O3","DNJVYWXIDISQRD-HWUKTEKMSA-N","Organoheterocyclic compounds","Naphthofurans",NA,NA,NA,NA,NA
+"19.248_317.20875_RP","L2.3","Cafestol","C20H28O3","DNJVYWXIDISQRD-HWUKTEKMSA-N","Organoheterocyclic compounds","Naphthofurans",NA,NA,NA,NA,NA
+"8.164_197.0784_RP","L2.3","Cantharidin","C10H12O4","DHZBEENLJMYSHQ-XCVPVQRUSA-N","Organoheterocyclic compounds","Furofurans",NA,NA,NA,NA,NA
+"12.1_197.07843_RP","L2","Cantharidin","C10H12O4","DHZBEENLJMYSHQ-XCVPVQRUSA-N","Organoheterocyclic compounds","Furofurans",NA,NA,NA,NA,NA
+"3_97.02842_RP","L2.3","Carbonyl crotonaldehyde","C5H4O2","UXHVAALHASDUFU-OWOJBTEDSA-N","Organic oxygen compounds","Organooxygen compounds","Carbonyl compounds","Ketones","Polyketides","Phenolic acids (C6-C1)","Benzoquinones"
+"15.474_151.11176_RP","L2","Carvone","C10H14O","ULDHMXUKGWMISQ-UHFFFAOYSA-N","Lipids and lipid-like molecules","Prenol lipids","Monoterpenoids",NA,NA,NA,NA
+"1.243_218.11348_RP","L2.3","Cholesterylerucate","C8H15N3O4",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.057_104.10697_RP","L1","Choline","C5H13NO","OEYIOHPDSNJKLS-UHFFFAOYSA-N","Organic nitrogen compounds","Organonitrogen compounds","Quaternary ammonium salts",NA,NA,NA,NA
+"1.166_184.06384_RP","L2.3","choline sulfate","C5H13NO4S","WXCQAWGXWVRCGP-UHFFFAOYSA-N","Organic acids and derivatives","Organic sulfuric acids and derivatives","Sulfuric acid esters","Cholines","Fatty acids","Ornithine alkaloids","Polyamines"
+"16.953_319.18682_RP","L2","Coenzyme Q2","C19H26O4","SQQWBSBBCSFQGC-JLHYYAGUSA-N","Lipids and lipid-like molecules","Prenol lipids","Quinone and hydroquinone lipids",NA,NA,NA,NA
+"1.977_244.09276_RP","L1","Cytidine","C9H13N3O5","UHDGCWIWMRVCDJ-XVFCMESISA-N","Nucleosides, nucleotides, and analogues","Pyrimidine nucleosides",NA,NA,NA,NA,NA
+"1.971_487.17984_RP","L2.3","Cytidine","C9H13N3O5","UHDGCWIWMRVCDJ-XVFCMESISA-N","Nucleosides, nucleotides, and analogues","Pyrimidine nucleosides",NA,NA,NA,NA,NA
+"1.178_112.05052_RP","L1","Cytosine","C4H5N3O","OPTASPLRGRRNAP-UHFFFAOYSA-N","Organoheterocyclic compounds","Diazines","Pyrimidines and pyrimidine derivatives",NA,NA,NA,NA
+"1.979_112.05051_RP","L2","Cytosine","C4H5N3O","OPTASPLRGRRNAP-UHFFFAOYSA-N","Organoheterocyclic compounds","Diazines","Pyrimidines and pyrimidine derivatives",NA,NA,NA,NA
+"2.488_112.05053_RP","L2","Cytosine","C4H5N3O","OPTASPLRGRRNAP-UHFFFAOYSA-N","Organoheterocyclic compounds","Diazines","Pyrimidines and pyrimidine derivatives",NA,NA,NA,NA
+"1.165_198.09727_RP","L1","D-(-)-Fructose","C6H12O6","BJHIKXHVCXFQLS-UYFOZJQFSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"1.287_360.15005_RP","L1","D-(+)-Cellobiose","C12H22O11","GUBGYTABKSRVRQ-QRZGKKJRSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"1.299_522.20294_RP","L1","D-(+)-Raffinose","C18H32O16","MUPFEKGTMRGPLJ-ZQSKZDJDSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"1.407_360.15002_RP","L1","D-(+)-Turanose","C12H22O11","SEWFWJUQVJHATO-PUVWEJBASA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"1.408_360.15004_RP","L1","D-(+)-Turanose","C12H22O11","SEWFWJUQVJHATO-PUVWEJBASA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"1.479_360.15004_RP","L1","D-(+)-Turanose","C12H22O11","SEWFWJUQVJHATO-PUVWEJBASA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"1.243_173.04207_RP","L1","D-(+)-Xylose","C5H10O5",NA,NA,NA,NA,NA,NA,NA,NA
+"1.339_173.04206_RP","L1","D-(+)-Xylose","C5H10O5",NA,NA,NA,NA,NA,NA,NA,NA
+"1.009_175.11899_RP","L1","D-Arginine","C6H14N4O2","ODKSFYDXXFIFQN-SCSAIBSYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.065_133.06076_RP","L1","D-Asparagine","C4H8N2O3","DCXYFEDJOCDNAF-UWTATZPHSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.068_133.06076_RP","L1","D-Asparagine","C4H8N2O3","DCXYFEDJOCDNAF-UWTATZPHSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.085_134.04478_RP","L1","D-Aspartic acid","C4H7NO4","CKLJMWTZIZZHCS-UWTATZPHSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.139_148.06046_RP","L1","D-Glutamic acid","C5H9NO4","WHUUTDBJXJRKMK-GSVOUGTGSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1_156.07677_RP","L1","D-Histidine","C6H9N3O2","HNDVDQJCIGZPNO-RXMQYKEDSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"3.897_132.10189_RP","L1","D-Leucine","C6H13NO2","ROHFNLRQFUQHCH-RXMQYKEDSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"4.13_132.10189_RP","L1","D-Leucine","C6H13NO2","ROHFNLRQFUQHCH-RXMQYKEDSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"0.951_147.11283_RP","L1","D-Lysine","C6H14N2O2","KDXKERNSBIXSRK-RXMQYKEDSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"7.898_220.11794_RP","L1","D-Pantothenate","C9H17NO5","GHOKWGTUZJEAQD-SSDOTTSWSA-M","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"6.849_166.08629_RP","L1","D-Phenylalanine","C9H11NO2","COLNVLDHVKWLRT-MRVPVSSYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"6.848_166.08628_RP","L1","D-Phenylalanine","C9H11NO2","COLNVLDHVKWLRT-MRVPVSSYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"2.406_527.15825_RP","L2","D-Raffinose","C18H32O16","MUPFEKGTMRGPLJ-ZQSKZDJDSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"1.856_527.15829_RP","L2","D-Raffinose","C18H32O16","MUPFEKGTMRGPLJ-ZQSKZDJDSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"2.441_522.203_RP","L2","D-Raffinose","C18H32O16","MUPFEKGTMRGPLJ-ZQSKZDJDSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"1.313_527.15836_RP","L2","D-Raffinose","C18H32O16","MUPFEKGTMRGPLJ-ZQSKZDJDSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"1.233_168.08668_RP","L1","D-Ribose","C5H10O5","SRBFZHDQGSBBOR-SOOFDHNKSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"1.059_106.04983_RP","L1","D-Serine","C3H7NO3","MTCFGRXMJLQNBG-UWTATZPHSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.118_120.0655_RP","L1","D-Threonine","C4H9NO3","AYFVYJQAPQTCCC-STHAYSLISA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"3.696_165.05464_RP","L1","D-Tyrosine","C9H11NO3","OUYCCCASQSFEME-MRVPVSSYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"7.773_279.13392_RP","L2.3","D-Tyrosyl-D-proline","C14H18N2O4","VNYDHJARLHNEGA-VXGBXAGGSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.767_118.08622_RP","L1","D-Valine","C5H11NO2","KZSNJWFQEVHDMF-SCSAIBSYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"3.585_160.10805_RP","L2.3","delta-guanidinovalerate","C6H13N3O2","UKUBCVAQGIZRHL-UHFFFAOYSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"6.851_188.0682_RP","L2.3","Desethylatrazine","C6H10ClN5","DFWFIQKMSFGDCQ-UHFFFAOYSA-N","Organoheterocyclic compounds","Triazines","Aminotriazines",NA,NA,NA,NA
+"9.533_309.18087_RP","L2","Diacetalol","C16H24N2O4",NA,NA,NA,NA,NA,NA,NA,NA
+"1.406_74.09649_RP","L2.3","Diethamine","C4H11N","HPNMFZURTQLUMO-UHFFFAOYSA-N","Organic nitrogen compounds","Organonitrogen compounds","Amines",NA,"Alkaloids","Fatty acyls","Hydrocarbons"
+"12.105_203.12773_RP","L2.3","Dimethyl octanedioate","C10H18O4","LNLCRJXCNQABMV-UHFFFAOYSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acid esters","Fatty acid methyl esters","Fatty acids","Fatty esters","Wax monoesters"
+"1.229_162.1125_RP","L2","DL-Carnitine","C7H15NO3","PHIQHXFUZVPYII-UHFFFAOYSA-N","Organic nitrogen compounds","Organonitrogen compounds","Quaternary ammonium salts",NA,NA,NA,NA
+"1.923_162.11249_RP","L2","DL-Carnitine","C7H15NO3","PHIQHXFUZVPYII-UHFFFAOYSA-N","Organic nitrogen compounds","Organonitrogen compounds","Quaternary ammonium salts",NA,NA,NA,NA
+"6.398_209.09204_RP","L1","DL-Kynurenine","C10H12N2O3","YGPSJZOEDVAXAB-UHFFFAOYSA-N","Organic oxygen compounds","Organooxygen compounds","Carbonyl compounds",NA,NA,NA,NA
+"1.402_144.10193_RP","L2","DL-Stachydrine","C7H13NO2","CMUNUTVVOOHQPW-UHFFFAOYSA-O","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"8.401_227.07908_RP","L2","DL-Tryptophan","C11H12N2O2","QIVBCDIJIAJPQS-UHFFFAOYSA-N","Organoheterocyclic compounds","Indoles and derivatives","Indolyl carboxylic acids and derivatives",NA,NA,NA,NA
+"19.74_303.23185_RP","L2","Eicosapentaenoic acid","C20H30O2","JAZBEHYOTPTENJ-JLNKQSITSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates",NA,NA,NA,NA
+"1.629_250.12846_RP","L2.3","Epinastine","C16H15N3","WHWZLSFABNNENI-UHFFFAOYSA-N","Organoheterocyclic compounds","Benzazepines","Dibenzazepines",NA,NA,NA,NA
+"10.055_296.16046_RP","L2","ethyl 1-(1,3-dimethyl-2,6-dioxo-1,2,3,6-tetrahydropyrimidin-4-yl)piperidine-4-carboxylate","C14H21N3O4",NA,NA,NA,NA,NA,NA,NA,NA
+"11.729_331.1728_RP","L2.3","Ethyl 3-cyclopropyl-1-methyl-4-morpholino-1H-pyrazolo[3,4-b]pyridine-5-carboxylate","C17H22N4O3","PWDSSKCNFLBKGG-UHFFFAOYSA-N","Organoheterocyclic compounds","Pyrazolopyridines",NA,NA,NA,NA,NA
+"3.82_216.15939_RP","L2.3","ethyl 3-methyl-2-(2-methylpropanoylamino)butanoate","C11H21NO3","JZYOJICKVQXEPA-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Wax monoesters"
+"2.038_375.05342_RP","L2","Ethyl 6-[(2,4-dichlorophenyl)methylene]-5-oxo-5,6,7,8-tetrahydronaphthalene-2-carboxylate","C20H16Cl2O3",NA,NA,NA,NA,NA,NA,NA,NA
+"1.405_293.09796_RP","L2","Ethylenediaminetetraacetic acid (EDTA)","C10H16N2O8","KCXVZYZYPLLWCC-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Tetracarboxylic acids and derivatives",NA,NA,NA,NA
+"9.034_337.21222_RP","L2.3","Fluoxymesterone","C20H29FO3","YLRFCQOZQXIBAB-RBZZARIASA-N","Lipids and lipid-like molecules","Steroids and steroid derivatives","Androstane steroids",NA,NA,NA,NA
+"2.996_85.02846_RP","L2.3","Fumaraldehyde","C4H4O2","JGEMYUOFGVHXKV-OWOJBTEDSA-N","Organic oxygen compounds","Organooxygen compounds","Carbonyl compounds",NA,"Fatty acids","Fatty acyls","Fatty aldehydes"
+"1.089_320.14526_RP","L2.3","gamma-D-Glu-mDAP","C12H21N3O7","QIFGMZZTJRULMA-XLPZGREQSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.923_219.09755_RP","L2.3","gamma-Gln-ala","C8H14N2O5","WQXXXVRAFAKQJM-WHFBIAKZSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"9.293_261.14448_RP","L2.3","gamma-Glu-leu","C11H20N2O5","MYFMARDICOWMQP-YUMQZZPRSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.161_275.13495_RP","L2.3","glutaminylglutamine","C10H18N4O5","LOJYQMFIIJVETK-WDSKDSINSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"11.841_394.19727_RP","L2.3","Glutamyl-valyl-phenylalanine","C19H27N3O6","FVGOGEGGQLNZGH-DZKIICNBSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Tripeptides"
+"6.852_247.12881_RP","L2.3","Glutamylvaline","C10H18N2O5","SITLTJHOQZFJGG-XPUUQOCRSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.042_76.03937_RP","L1","Glycine","C2H5NO2","DHMQDGOQFOQNFH-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"6.12_189.12338_RP","L2","Glycyl-L-leucine","C8H16N2O3","DKEXFJVMVGETOO-LURJTMIESA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"7.278_189.12339_RP","L1","Glycyl-L-leucine","C8H16N2O3","DKEXFJVMVGETOO-LURJTMIESA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"8.182_223.10771_RP","L1","Glycyl-L-phenylalanine","C11H14N2O3","JBCLFWXMTIKCCB-VIFPVBQESA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.829_173.09209_RP","L2","Glycylproline","C7H12N2O3","KZNQNBZMBZJQJO-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.258_173.09208_RP","L2","Glycylproline","C7H12N2O3","KZNQNBZMBZJQJO-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"3.899_176.06581_RP","L2","Guanidinosuccinic acid","C5H9N3O4","VVHOUVWJCQOYGG-REOHCLBHSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"6.542_152.05671_RP","L2","Guanine","C5H5N5O","UYTPUPDQBNUYGX-UHFFFAOYSA-N","Organoheterocyclic compounds","Imidazopyrimidines","Purines and purine derivatives",NA,NA,NA,NA
+"6.238_152.05668_RP","L2","Guanine","C5H5N5O","UYTPUPDQBNUYGX-UHFFFAOYSA-N","Organoheterocyclic compounds","Imidazopyrimidines","Purines and purine derivatives",NA,NA,NA,NA
+"6.237_284.09892_RP","L1","Guanosine","C10H13N5O5","NYHBQMYGNKIUIF-UUOKFMHZSA-N","Nucleosides, nucleotides, and analogues","Purine nucleosides",NA,NA,NA,NA,NA
+"2.356_142.08627_RP","L2","Guvacoline","C7H11NO2","DYPLDWLIOGXSSE-UHFFFAOYSA-N","Alkaloids and derivatives",NA,NA,NA,NA,NA,NA
+"1.14_198.12364_RP","L2.3","Hercynine","C9H15N3O2","GPPYTCRVKHULJH-QMMMGPOBSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"1.242_198.1237_RP","L2.3","Hercynine","C9H15N3O2","GPPYTCRVKHULJH-QMMMGPOBSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Imidazole alkaloids"
+"1.025_198.12376_RP","L2.3","Hercynine","C9H15N3O2","GPPYTCRVKHULJH-QMMMGPOBSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"7.054_260.18562_RP","L2","Hexanoylcarnitine","C13H25NO4","VVPRQWTYSNDTEA-UHFFFAOYSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acid esters",NA,NA,NA,NA
+"1.323_253.12953_RP","L2.3","Histidylproline","C11H16N4O3","LNCFUHAPNTYMJB-IUCAKERBSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"6.59_137.04579_RP","L2","Hypoxanthine","C5H4N4O","FDGQSTZJBFJUBT-UHFFFAOYSA-N","Organoheterocyclic compounds","Imidazopyrimidines","Purines and purine derivatives",NA,NA,NA,NA
+"2.979_137.0458_RP","L1","Hypoxanthine","C5H4N4O","FDGQSTZJBFJUBT-UHFFFAOYSA-N","Organoheterocyclic compounds","Imidazopyrimidines","Purines and purine derivatives",NA,NA,NA,NA
+"6.225_137.04579_RP","L2","Hypoxanthine","C5H4N4O","FDGQSTZJBFJUBT-UHFFFAOYSA-N","Organoheterocyclic compounds","Imidazopyrimidines","Purines and purine derivatives",NA,NA,NA,NA
+"1.151_290.14587_RP","L2.3","Imazethapyr","C15H19N3O3","XVOKUMIPKHGGTN-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"12.042_146.06007_RP","L1","Indole-3-carboxaldehyde","C9H7NO","OLNJUISKUQQNIM-UHFFFAOYSA-N","Organoheterocyclic compounds","Indoles and derivatives","Indoles",NA,NA,NA,NA
+"3.612_132.10188_RP","L2","Isoleucine","C6H13NO2","AGPKZVBTJJNPAG-WHFBIAKZSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"5.849_261.14447_RP","L2.3","Isoleucyl-Glutamate","C11H20N2O5","KTGFOCFYOZQVRJ-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"5.513_261.14447_RP","L2.3","Isoleucyl-Glutamate","C11H20N2O5","KTGFOCFYOZQVRJ-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"5.554_203.13898_RP","L2.3","isoleucylalanine","C9H18N2O3","RCFDOSNHHZGBOY-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"2.327_288.203_RP","L2.3","isoleucylarginine","C12H25N5O3","HYXQKVOADYPQEA-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"2.703_246.14478_RP","L2.3","isoleucylasparagine","C10H19N3O4","HZYHBDVRCBDJJV-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"2.894_246.14478_RP","L2.3","isoleucylasparagine","C10H19N3O4","HZYHBDVRCBDJJV-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"9.377_245.18595_RP","L2.3","isoleucylisoleucine","C12H24N2O3","BCVIOZZGJNOEQS-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"9.874_245.18593_RP","L2.3","isoleucylisoleucine","C12H24N2O3","BCVIOZZGJNOEQS-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"13.926_139.11176_RP","L2","Isophorone","C9H14O","HJOVHMDZYOCNQW-UHFFFAOYSA-N","Organic oxygen compounds","Organooxygen compounds","Carbonyl compounds",NA,NA,NA,NA
+"8.314_237.12333_RP","L1","L-Alanyl-L-phenylalanine","C12H16N2O3","OMNVYXHOSHNURL-WPRPVWTQSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"2.728_187.10774_RP","L2","L-Alanyl-L-proline","C8H14N2O3","WPWUFUBLGADILS-WDSKDSINSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.999_230.11354_RP","L2.3","L-asparaginyl-L-proline","C9H15N3O4","GADKFYNESXNRLC-WDSKDSINSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.127_162.11249_RP","L1","L-Carnitine","C7H15NO3","PHIQHXFUZVPYII-ZCFIWIBFSA-N","Organic nitrogen compounds","Organonitrogen compounds","Quaternary ammonium salts",NA,NA,NA,NA
+"1.163_176.103_RP","L1","L-Citrulline","C6H13N3O3","RHGKLRLOHDJJDR-BYPYZUCNSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.097_147.07644_RP","L1","L-Glutamine","C5H10N2O3","ZDXPYRJPNDTMRX-VKHMYHEASA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.109_130.04987_RP","L1","L-Glutamine","C5H10N2O3","ZDXPYRJPNDTMRX-VKHMYHEASA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.195_179.05507_RP","L1","L-Gulonic acid γ-lactone","C6H10O6",NA,NA,NA,NA,NA,NA,NA,NA
+"3.781_247.12881_RP","L2.3","L-Isoleucyl-L-aspartic acid","C10H18N2O5","WKXVAXOSIPTXEC-HAFWLYHUSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"2.187_150.05835_RP","L1","L-Methionine","C5H11NO2S","FFEARJCKVFRZRR-BYPYZUCNSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"2.181_150.05835_RP","L1","L-Methionine","C5H11NO2S","FFEARJCKVFRZRR-BYPYZUCNSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.31_116.07057_RP","L1","L-Proline","C5H9NO2","ONIBWKKTOPOVIA-BYPYZUCNSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.285_130.04985_RP","L2","L-Pyroglutamic acid","C5H7NO3","ODHCTXKNWHHXJC-VKHMYHEASA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"3.001_130.04987_RP","L1","L-Pyroglutamic acid","C5H7NO3","ODHCTXKNWHHXJC-VKHMYHEASA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"2.354_175.10774_RP","L1","L-Theanine","C7H14N2O3","DATAGRPVKZEWHA-YFKPBYRVSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"8.401_188.07062_RP","L1","L-Tryptophan","C11H12N2O2","QIVBCDIJIAJPQS-VIFPVBQESA-N","Organoheterocyclic compounds","Indoles and derivatives","Indolyl carboxylic acids and derivatives",NA,NA,NA,NA
+"3.699_182.08118_RP","L1","L-Tyrosine","C9H11NO3","OUYCCCASQSFEME-QMMMGPOBSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.974_219.13388_RP","L2.3","L-valyl-L-threonine","C9H18N2O4","GVRKWABULJAONN-VQVTYTSYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.946_130.08625_RP","L1","L(-)-Pipecolinic acid","C6H11NO2","HXEACLLIILLPRG-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"3.946_288.20301_RP","L2.3","Leucylarginine","C12H25N5O3","SENJXOPIZNYLHU-IUCAKERBSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"2.544_288.20302_RP","L2.3","Leucylarginine","C12H25N5O3","SENJXOPIZNYLHU-IUCAKERBSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"10.251_245.18593_RP","L2.3","leucylisoleucine","C12H24N2O3","AZLASBBHHSLQDB-GUBZILKMSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"8.563_229.15464_RP","L2","Leucylproline","C11H20N2O3","VTJUNIYRYIAIHF-IUCAKERBSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"8.243_229.15465_RP","L2","Leucylproline","C11H20N2O3","VTJUNIYRYIAIHF-IUCAKERBSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"19.31_279.23179_RP","L2.3","Linolenic Acid","C18H30O2","DTOSIQBPPRVQHS-PDBXOOCHSA-N","Lipids and lipid-like molecules","Fatty Acyls","Lineolic acids and derivatives",NA,"Fatty acids","Fatty Acids and Conjugates","Unsaturated fatty acids"
+"3.107_260.19685_RP","L2.3","Lysyl-Isoleucine","C12H25N3O3","FMIIKPHLJKUXGE-GUBZILKMSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"3.039_851.26362_RP","L2","Maltopentaose","C30H52O26","FJCUPROCOFFUSR-GMMZZHHDSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"2.177_689.21089_RP","L2","Maltotetraose","C24H42O21","LUEWUZLMQUOBSB-ZLBHSGTGSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"1.387_689.21104_RP","L2","Maltotetraose","C24H42O21","LUEWUZLMQUOBSB-ZLBHSGTGSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"2.803_689.21091_RP","L2","Maltotetraose","C24H42O21","LUEWUZLMQUOBSB-ZLBHSGTGSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"3.061_689.2109_RP","L2","Maltotetraose","C24H42O21","LUEWUZLMQUOBSB-ZLBHSGTGSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"1.623_522.20288_RP","L1","Maltotriose","C18H32O16","FYGDTMLNYKFZSV-DZOUCCHMSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"1.865_522.20295_RP","L1","Maltotriose","C18H32O16","FYGDTMLNYKFZSV-DZOUCCHMSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"1.62_522.20283_RP","L1","Maltotriose","C18H32O16","FYGDTMLNYKFZSV-DZOUCCHMSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"1.43_505.17634_RP","L1","Maltotriose","C18H32O16","FYGDTMLNYKFZSV-DZOUCCHMSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"1.413_522.20286_RP","L1","Maltotriose","C18H32O16","FYGDTMLNYKFZSV-DZOUCCHMSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"1.187_166.05326_RP","L2","Methionine sulfoxide","C5H11NO3S","QEFRNWWLZKMPFJ-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.616_307.10005_RP","L2.3","methyl (E)-2-acetyl-7-oxo-7-phenylsulfanylhept-4-enoate","C16H18O4S",NA,"Benzenoids","Benzene and substituted derivatives","Benzoic acids and derivatives","Benzoic acid esters","Polyketides","Cyclic polyketides","Simple phenolic acids"
+"12.957_299.14883_RP","L2","methyl 2-(1,3,5-trihydroxy-4a-methyl-8-oxo-decahydronaphthalen-2-yl)prop-2-enoate","C15H22O6",NA,NA,NA,NA,NA,NA,NA,NA
+"9.094_478.19187_RP","L2","Methyl 2-{[2-O-(6-deoxy-α-L-mannopyranosyl)-β-D-glucopyranosyl]oxy}benzoate","C20H28O12",NA,NA,NA,NA,NA,NA,NA,NA
+"8.018_339.08409_RP","L2","methyl 2-{9-hydroxy-1-methyl-5,10-dioxo-1H,3H,4H,5H,10H-naphtho[2,3-c]pyran-3-yl}acetate","C17H16O6",NA,NA,NA,NA,NA,NA,NA,NA
+"7.635_115.03895_RP","L2.3","methyl 4-oxobut-3-enoate","C5H6O3",NA,"Organoheterocyclic compounds","Dihydrofurans","Furanones","Butenolides","Polyketides","Fatty esters","Wax monoesters"
+"13.57_217.1434_RP","L2.3","Methyl azelate","C11H20O4","DRUKNYVQGHETPO-UHFFFAOYSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acid esters","Fatty acid methyl esters","Fatty acids","Fatty esters","Wax monoesters"
+"6.848_210.05014_RP","L2","methyl isoquinoline-3-carboxylate","C11H9NO2","ZBCGBIZQNMVMPC-UHFFFAOYSA-N","Organoheterocyclic compounds","Isoquinolines and derivatives",NA,NA,NA,NA,NA
+"16.451_225.14854_RP","L1","Methyl Jasmonate (mixture of isomers)","C13H20O3",NA,NA,NA,NA,NA,NA,NA,NA
+"1.151_74.07133_RP","L1","Methylguanidine","C2H7N3","CHJJGSNFBQVOTG-UHFFFAOYSA-N","Organic nitrogen compounds","Organonitrogen compounds","Guanidines",NA,NA,NA,NA
+"1.391_190.10742_RP","L2.3","Monocarboxylylcarnitine","C8H15NO4","AUBZMMLIMKIHJE-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alkaloids","Lysine alkaloids","Aminoacids"
+"12.1_189.11217_RP","L2.3","Monomethyl Suberate","C9H16O4","KOVPXZDUVJGGFU-UHFFFAOYSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates","Medium-chain fatty acids","Fatty acids","Fatty Acids and Conjugates","Dicarboxylic acids"
+"1.204_252.10779_RP","L2","Muramic acid","C9H17NO7","MSFSPUZXLOGKHJ-PGYHGBPZSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"1.366_277.08937_RP","L2.3","N'-{6-[(5-chloro-3-pyridyl)oxy]-3-pyridyl}-N,N-dimethyliminoformamide","C13H13ClN4O",NA,NA,NA,NA,NA,NA,NA,NA
+"1.365_277.08937_RP","L2","N'-{6-[(5-chloro-3-pyridyl)oxy]-3-pyridyl}-N,N-dimethyliminoformamide","C13H13ClN4O",NA,NA,NA,NA,NA,NA,NA,NA
+"7.086_323.07378_RP","L2","N'2-{2-[(4-Chlorophenyl)thio]ethanimidoyl}-1-methyl-1H-pyrrole-2-carbohydrazide","C14H15ClN4OS",NA,NA,NA,NA,NA,NA,NA,NA
+"13.176_244.22707_RP","L2.3","N-(1-hydroxybutan-2-yl)decanamide","C14H29NO2",NA,"Organic nitrogen compounds","Organonitrogen compounds","Amines","Alkanolamines","Fatty acids","Fatty amides","Sphingoid bases"
+"2.425_361.07413_RP","L2","N-(4-chlorophenyl)-N'-(2-phenoxyphenyl)urea","C19H15ClN2O2","YYFJFAIVVWKQND-UHFFFAOYSA-N","Benzenoids","Benzene and substituted derivatives","Diphenylethers",NA,NA,NA,NA
+"5.551_229.06824_RP","L2.3","N-(cyclopropylmethyl)-N'-phenylurea","C11H14N2O","QSRLWJQFIHISRF-UHFFFAOYSA-N","Benzenoids","Benzene and substituted derivatives","N-phenylureas",NA,NA,NA,NA
+"17.695_447.20135_RP","L2.3","N-[3-methoxy-4-(2-oxopyrrolidin-1-yl)phenyl]-12-oxo-7,8,9,10-tetrahydro-6H-azepino[2,1-b]quinazoline-3-carboxamide","C25H26N4O4",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty acid esters",NA,"Alkaloids","Anthranilic acid alkaloids","Quinazoline alkaloids"
+"1.342_439.14211_RP","L2","N-[5,10-Dioxo-1-(2-thienylacetyl)dodecahydrodipyrrolo[1,2-a:3',2'-E][1,4]diazepin-7-yl]cyclopropanecarboxamide","C20H24N4O4S",NA,NA,NA,NA,NA,NA,NA,NA
+"1.457_439.14223_RP","L2","N-[5,10-Dioxo-1-(2-thienylacetyl)dodecahydrodipyrrolo[1,2-a:3',2'-E][1,4]diazepin-7-yl]cyclopropanecarboxamide","C20H24N4O4S",NA,NA,NA,NA,NA,NA,NA,NA
+"2.05_217.1295_RP","L1","N-Acetyl-L-arginine","C8H16N4O3","SNEIUMQYRCDYCH-LURJTMIESA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.407_189.12343_RP","L1","N-Acetyl-L-Lysine","C8H16N2O3","VEYYWZRYIYDQJM-ZETCQYMHSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.491_175.10773_RP","L2.3","N-acetylornithine","C7H14N2O3","JRLGPAXAGHMNOL-LURJTMIESA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.412_175.10774_RP","L2.3","N-acetylornithine","C7H14N2O3","JRLGPAXAGHMNOL-LURJTMIESA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.227_162.07615_RP","L2.3","N-Methyl-L-glutamate","C6H11NO4","XLBVNMSMFQMKEY-BYPYZUCNSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"18.279_198.18529_RP","L2","N-Octyl-2-pyrrolidone","C12H23NO","WPPOGHDFAVQKLN-UHFFFAOYSA-N","Organoheterocyclic compounds","Pyrrolidines","N-alkylpyrrolidines",NA,NA,NA,NA
+"1.284_189.1234_RP","L2.3","n-propan-2-ylglutamine","C8H16N2O3","CABXGBMKSVRWOG-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"1.228_134.08117_RP","L2","N,N-Bis(2-hydroxyethyl)formamide","C5H11NO3","AGQSGSYOSSBGLI-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Carboxylic acid derivatives",NA,NA,NA,NA
+"1.416_118.12261_RP","L2","N,N-Diethylethanolamine","C6H15NO","BFSVOASYOCHEOV-UHFFFAOYSA-N","Organic nitrogen compounds","Organonitrogen compounds","Amines",NA,NA,NA,NA
+"1.216_379.08476_RP","L2.3","N1-[3-(dimethylamino)propyl]-3,5-di(trifluoromethyl)benzene-1-sulfonamide","C13H16F6N2O2S",NA,NA,NA,NA,NA,NA,NA,NA
+"1.395_176.09176_RP","L2.3","N3-Phenyl-1H-1,2,4-triazole-3,5-diamine","C8H9N5","SFXBTXYONCDQJY-UHFFFAOYSA-N","Benzenoids","Benzene and substituted derivatives","Aniline and substituted anilines",NA,NA,NA,NA
+"2.028_189.1234_RP","L2","N6-Acetyl-L-lysine","C8H16N2O3","DTERQYGMUDWYAZ-ZETCQYMHSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"7.676_266.12477_RP","L2","N6-Me-dA","C11H15N5O3","DYSDOYRQWBDGQQ-UHFFFAOYSA-N","Nucleosides, nucleotides, and analogues","Purine nucleosides","Purine 2'-deoxyribonucleosides",NA,NA,NA,NA
+"1.354_266.12342_RP","L2.3","N6-Me-dA","C11H15N5O3","DYSDOYRQWBDGQQ-UHFFFAOYSA-N","Nucleosides, nucleotides, and analogues","Purine nucleosides","Purine 2'-deoxyribonucleosides",NA,NA,NA,NA
+"7.753_312.15537_RP","L2.3","Nalorphine","C19H21NO3","UIQMVEYFGZJHCZ-SSTWWWIQSA-N","Alkaloids and derivatives","Morphinans",NA,NA,NA,NA,NA
+"2.373_124.03929_RP","L1","Nicotinic acid","C6H5NO2","PVNIIMVLHYAWGP-UHFFFAOYSA-N","Organoheterocyclic compounds","Pyridines and derivatives","Pyridinecarboxylic acids and derivatives",NA,NA,NA,NA
+"1.647_256.08156_RP","L2.3","Nicotinic acid riboside","C11H13NO6","PUEDDPCUCPRQNY-ZYUZMQFOSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Glycosyl compounds","Alkaloids","Nicotinic acid alkaloids","Pyridine alkaloids"
+"18.176_265.2162_RP","L2.3","Norlinolenic acid","C17H28O2","FAFSAZIEJFMBBY-PDBXOOCHSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates",NA,"Fatty acids","Fatty Acids and Conjugates","Unsaturated fatty acids"
+"15.896_251.12546_RP","L2","NP-000124","C12H20O4",NA,NA,NA,NA,NA,NA,NA,NA
+"15.668_237.10972_RP","L2","NP-000919","C11H18O4",NA,NA,NA,NA,NA,NA,NA,NA
+"16.255_309.20603_RP","L2","NP-001445","C18H30O5",NA,NA,NA,NA,NA,NA,NA,NA
+"16.467_349.1986_RP","L2","NP-001445","C18H30O5",NA,NA,NA,NA,NA,NA,NA,NA
+"16.473_349.19866_RP","L2","NP-001445","C18H30O5",NA,NA,NA,NA,NA,NA,NA,NA
+"14.718_309.20603_RP","L2","NP-001445","C18H30O5",NA,NA,NA,NA,NA,NA,NA,NA
+"16.791_349.19855_RP","L2","NP-001445","C18H30O5",NA,NA,NA,NA,NA,NA,NA,NA
+"17.382_309.20595_RP","L2","NP-001596","C16H30O4",NA,NA,NA,NA,NA,NA,NA,NA
+"17.62_309.20597_RP","L2","NP-001596","C16H30O4",NA,NA,NA,NA,NA,NA,NA,NA
+"13.739_239.12538_RP","L2","NP-001846","C11H20O4",NA,NA,NA,NA,NA,NA,NA,NA
+"10.58_239.12535_RP","L2","NP-001846","C11H20O4",NA,NA,NA,NA,NA,NA,NA,NA
+"10.1_239.12536_RP","L2","NP-001846","C11H20O4",NA,NA,NA,NA,NA,NA,NA,NA
+"18.677_330.26393_RP","L2","NP-002322","C18H32O4",NA,NA,NA,NA,NA,NA,NA,NA
+"18.722_335.21934_RP","L2","NP-002322","C18H32O4",NA,NA,NA,NA,NA,NA,NA,NA
+"17.993_330.26395_RP","L2","NP-002322","C18H32O4",NA,NA,NA,NA,NA,NA,NA,NA
+"19.301_295.22673_RP","L2","NP-002322","C18H32O4",NA,NA,NA,NA,NA,NA,NA,NA
+"18.435_335.21948_RP","L2","NP-002322","C18H32O4",NA,NA,NA,NA,NA,NA,NA,NA
+"18.244_213.14853_RP","L2","NP-002855","C12H22O4",NA,NA,NA,NA,NA,NA,NA,NA
+"13.978_213.14852_RP","L2","NP-002855","C12H22O4",NA,NA,NA,NA,NA,NA,NA,NA
+"1.247_381.10036_RP","L2.3","NP-003037","C16H22O8",NA,NA,NA,NA,NA,NA,NA,NA
+"17.18_263.12543_RP","L2","NP-003117","C13H20O4",NA,NA,NA,NA,NA,NA,NA,NA
+"16.888_263.12537_RP","L2","NP-003117","C13H20O4",NA,NA,NA,NA,NA,NA,NA,NA
+"16.885_263.12539_RP","L2","NP-003117","C13H20O4",NA,NA,NA,NA,NA,NA,NA,NA
+"2.451_383.05617_RP","L2.3","NP-003294","C18H16O7",NA,NA,NA,NA,NA,NA,NA,NA
+"19.009_339.25191_RP","L2","NP-003553","C20H34O4",NA,NA,NA,NA,NA,NA,NA,NA
+"19.273_361.23497_RP","L2","NP-003553","C20H34O4",NA,NA,NA,NA,NA,NA,NA,NA
+"5.402_393.13674_RP","L2","NP-004022","C23H22O7",NA,NA,NA,NA,NA,NA,NA,NA
+"4.783_393.1367_RP","L2","NP-004022","C23H22O7",NA,NA,NA,NA,NA,NA,NA,NA
+"17.403_265.17979_RP","L2","NP-004038","C16H24O3",NA,NA,NA,NA,NA,NA,NA,NA
+"17.557_325.20094_RP","L2","NP-005397","C18H30O6",NA,NA,NA,NA,NA,NA,NA,NA
+"15.01_325.20093_RP","L2","NP-005397","C18H30O6",NA,NA,NA,NA,NA,NA,NA,NA
+"18.326_359.21934_RP","L2","NP-006862","C20H32O4",NA,NA,NA,NA,NA,NA,NA,NA
+"19.035_359.21929_RP","L2","NP-006862","C20H32O4",NA,NA,NA,NA,NA,NA,NA,NA
+"18.727_227.16416_RP","L2","NP-006888","C13H24O4",NA,NA,NA,NA,NA,NA,NA,NA
+"16.965_227.16417_RP","L2","NP-006888","C13H24O4",NA,NA,NA,NA,NA,NA,NA,NA
+"16.805_207.13793_RP","L2","NP-007909","C13H20O3",NA,NA,NA,NA,NA,NA,NA,NA
+"13.75_195.09909_RP","L2.3","NP-007994","C11H16O4",NA,NA,NA,NA,NA,NA,NA,NA
+"14.615_195.09914_RP","L2.3","NP-007994","C11H16O4",NA,NA,NA,NA,NA,NA,NA,NA
+"16.458_211.1329_RP","L2","NP-008952","C12H20O4",NA,NA,NA,NA,NA,NA,NA,NA
+"16.802_211.13287_RP","L2","NP-008952","C12H20O4",NA,NA,NA,NA,NA,NA,NA,NA
+"18.814_337.23525_RP","L2","NP-008993","C18H34O4",NA,NA,NA,NA,NA,NA,NA,NA
+"18.81_297.24239_RP","L2","NP-008993","C18H34O4",NA,NA,NA,NA,NA,NA,NA,NA
+"13.75_187.13288_RP","L2","NP-011223","C10H18O3",NA,NA,NA,NA,NA,NA,NA,NA
+"20.007_321.24031_RP","L2","NP-011548","C18H34O3",NA,NA,NA,NA,NA,NA,NA,NA
+"17.263_269.1746_RP","L2","NP-011878","C15H26O5",NA,NA,NA,NA,NA,NA,NA,NA
+"16.894_269.17472_RP","L2","NP-011878","C15H26O5",NA,NA,NA,NA,NA,NA,NA,NA
+"14.146_241.14341_RP","L2","NP-012017","C13H22O5",NA,NA,NA,NA,NA,NA,NA,NA
+"15.248_189.09103_RP","L2","NP-013210","C12H14O3",NA,NA,NA,NA,NA,NA,NA,NA
+"15.453_189.09103_RP","L2","NP-013210","C12H14O3",NA,NA,NA,NA,NA,NA,NA,NA
+"15.25_207.10156_RP","L2","NP-013210","C12H14O3",NA,NA,NA,NA,NA,NA,NA,NA
+"1.417_289.09181_RP","L2","NP-013538","C12H16O8",NA,NA,NA,NA,NA,NA,NA,NA
+"16.698_348.27447_RP","L2","NP-013663","C18H34O5",NA,NA,NA,NA,NA,NA,NA,NA
+"16.855_348.27448_RP","L2","NP-013663","C18H34O5",NA,NA,NA,NA,NA,NA,NA,NA
+"19.893_297.24238_RP","L2","NP-014287","C18H32O3",NA,NA,NA,NA,NA,NA,NA,NA
+"18.427_279.2318_RP","L2","NP-014287","C18H32O3",NA,NA,NA,NA,NA,NA,NA,NA
+"19.636_319.22444_RP","L2","NP-014287","C18H32O3",NA,NA,NA,NA,NA,NA,NA,NA
+"6.238_348.12892_RP","L2","NP-014517","C14H18O9",NA,NA,NA,NA,NA,NA,NA,NA
+"6.241_353.08435_RP","L2","NP-014517","C14H18O9",NA,NA,NA,NA,NA,NA,NA,NA
+"12.444_143.10668_RP","L2","NP-018661","C8H16O3",NA,NA,NA,NA,NA,NA,NA,NA
+"1.217_405.17282_RP","L2","NP-018949","C16H30O10",NA,NA,NA,NA,NA,NA,NA,NA
+"12.552_185.11739_RP","L2","NP-019374","C10H18O4",NA,NA,NA,NA,NA,NA,NA,NA
+"13.571_185.11741_RP","L2","NP-019374","C10H18O4",NA,NA,NA,NA,NA,NA,NA,NA
+"13.57_203.12773_RP","L2","NP-019374","C10H18O4",NA,NA,NA,NA,NA,NA,NA,NA
+"1.237_278.0805_RP","L2","NP-019509","C15H13NO3",NA,NA,NA,NA,NA,NA,NA,NA
+"18.164_237.18489_RP","L2","NP-020014","C15H26O3",NA,NA,NA,NA,NA,NA,NA,NA
+"18.793_263.20052_RP","L2","NP-020078","C17H28O3",NA,NA,NA,NA,NA,NA,NA,NA
+"18.799_303.19317_RP","L2","NP-020078","C17H28O3",NA,NA,NA,NA,NA,NA,NA,NA
+"19.201_263.20054_RP","L2","NP-020078","C17H28O3",NA,NA,NA,NA,NA,NA,NA,NA
+"14.794_235.09406_RP","L2","NP-020205","C11H16O4",NA,NA,NA,NA,NA,NA,NA,NA
+"18.273_311.21982_RP","L2","NP-020214","C16H32O4",NA,NA,NA,NA,NA,NA,NA,NA
+"2.387_259.12883_RP","L2","NP-020240","C14H20O3",NA,NA,NA,NA,NA,NA,NA,NA
+"19.803_279.23183_RP","L2","NP-020521","C18H32O3",NA,NA,NA,NA,NA,NA,NA,NA
+"19.637_279.23183_RP","L2","NP-020521","C18H32O3",NA,NA,NA,NA,NA,NA,NA,NA
+"17.187_239.16405_RP","L2.3","NP-020535","C16H22O4",NA,NA,NA,NA,NA,NA,NA,NA
+"16.562_331.18807_RP","L2.3","NP-020713","C20H26O4",NA,NA,NA,NA,NA,NA,NA,NA
+"14.799_209.1173_RP","L2","NP-021018","C12H18O4",NA,NA,NA,NA,NA,NA,NA,NA
+"13.696_209.11721_RP","L2","NP-021018","C12H18O4",NA,NA,NA,NA,NA,NA,NA,NA
+"14.146_227.12778_RP","L2","NP-021018","C12H18O4",NA,NA,NA,NA,NA,NA,NA,NA
+"15.303_279.12032_RP","L2","NP-021074","C13H20O5",NA,NA,NA,NA,NA,NA,NA,NA
+"9.095_483.14725_RP","L2.3","NP-021299","C25H24N4O4",NA,NA,NA,NA,NA,NA,NA,NA
+"17.723_197.15362_RP","L2","NP-021797","C12H22O3",NA,NA,NA,NA,NA,NA,NA,NA
+"5.49_258.10845_RP","L2.3","O-2-Methylcytidine","C10H15N3O5","RFCQJGFZUQFYRF-ZOQUXTDFSA-N","Nucleosides, nucleotides, and analogues","Pyrimidine nucleosides",NA,NA,"Carbohydrates","Nucleosides","Pyrimidine nucleos(t)ides"
+"2.95_148.09685_RP","L2.3","O-Ethylthreonine","C6H13NO3","LULHTUNPBBMNSJ-UHNVWZDZSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"8.591_195.11281_RP","L2.3","Octylphosphonic acid","C8H19O3P","NJGCRMAPOWGWMW-UHFFFAOYSA-N","Organic acids and derivatives","Organic phosphonic acids and derivatives","Organic phosphonic acids",NA,NA,NA,NA
+"18.809_251.20051_RP","L2","OPEO","C16H26O2",NA,NA,NA,NA,NA,NA,NA,NA
+"9.009_115.07533_RP","L2","Oxepanone","C6H10O2",NA,NA,NA,NA,NA,NA,NA,NA
+"11.642_476.30656_RP","L2","PEG n10","C20H42O11",NA,NA,NA,NA,NA,NA,NA,NA
+"5.421_180.10193_RP","L2","Phenacetin","C10H13NO2","CPJSUEIXXCENMM-UHFFFAOYSA-N","Benzenoids","Benzene and substituted derivatives","Anilides",NA,NA,NA,NA
+"7.461_237.12332_RP","L2.3","Phenylalanylalanine","C12H16N2O3","MIDZLCFIAINOQN-WPRPVWTQSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"11.01_279.17032_RP","L2.3","Phenylalanylleucine","C15H22N2O3","RFCVXVPWSPOMFJ-STQMWFEESA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.198_127.03896_RP","L2","Phloroglucinol","C6H6O3","QCDYQQDYXPDABM-UHFFFAOYSA-N","Benzenoids","Phenols","Benzenetriols and derivatives",NA,NA,NA,NA
+"18.791_279.23184_RP","L2","Pinolenic acid","C18H30O2","HXQHFNIKBKZGRP-URPRIDOGSA-N","Lipids and lipid-like molecules","Fatty Acyls","Lineolic acids and derivatives",NA,NA,NA,NA
+"1.403_231.09755_RP","L2.3","Prolyl-Aspartate","C9 H14 N2 O5","GLEOIKLQBZNKJZ-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.422_173.09207_RP","L2","Prolylglycine","C7H12N2O3","RNKSNIBMTUYWSH-YFKPBYRVSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"7.827_229.15466_RP","L2","Prolylleucine","C11H20N2O3","YCYXUKRYYSXSLJ-CVEARBPZSA-N",NA,NA,NA,NA,NA,NA,NA
+"1.409_252.1441_RP","L2.3","Prosulfocarb","C14H21NOS","NQLVQOSNDJXLKG-UHFFFAOYSA-N","Benzenoids","Benzene and substituted derivatives",NA,NA,NA,NA,NA
+"1.478_252.14412_RP","L2.3","Prosulfocarb","C14H21NOS","NQLVQOSNDJXLKG-UHFFFAOYSA-N","Benzenoids","Benzene and substituted derivatives",NA,NA,NA,NA,NA
+"1.619_127.03896_RP","L2","Pyrogallol","C6H6O3","WQGWDDDVZFFDIG-UHFFFAOYSA-N","Benzenoids","Phenols","Benzenetriols and derivatives",NA,NA,NA,NA
+"2.434_127.03896_RP","L2","Pyrogallol","C6H6O3","WQGWDDDVZFFDIG-UHFFFAOYSA-N","Benzenoids","Phenols","Benzenetriols and derivatives",NA,NA,NA,NA
+"1.414_127.03896_RP","L2","Pyrogallol","C6H6O3","WQGWDDDVZFFDIG-UHFFFAOYSA-N","Benzenoids","Phenols","Benzenetriols and derivatives",NA,NA,NA,NA
+"3.007_127.03897_RP","L2","Pyrogallol","C6H6O3","WQGWDDDVZFFDIG-UHFFFAOYSA-N","Benzenoids","Phenols","Benzenetriols and derivatives",NA,NA,NA,NA
+"1.089_90.055_RP","L1","Sarcosine","C3H7NO2","FSYKKLYZXJSNPZ-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"1.231_230.11354_RP","L2.3","Sebuthylazine","C9H16ClN5","BZRUVKZGXNSXMB-UHFFFAOYSA-N","Organoheterocyclic compounds","Triazines","Aminotriazines",NA,NA,NA,NA
+"16.865_177.12742_RP","L2","Sedanolide","C12H18O2","UPJFTVFLSIQQAV-UHFFFAOYSA-N","Organoheterocyclic compounds","Isobenzofurans",NA,NA,NA,NA,NA
+"18.238_195.13795_RP","L2","Sedanolide","C12H18O2","UPJFTVFLSIQQAV-UHFFFAOYSA-N","Organoheterocyclic compounds","Isobenzofurans",NA,NA,NA,NA,NA
+"18.722_195.13795_RP","L2","Sedanolide","C12H18O2","UPJFTVFLSIQQAV-UHFFFAOYSA-N","Organoheterocyclic compounds","Isobenzofurans",NA,NA,NA,NA,NA
+"16.421_195.13798_RP","L2","Sedanolide","C12H18O2","UPJFTVFLSIQQAV-UHFFFAOYSA-N","Organoheterocyclic compounds","Isobenzofurans",NA,NA,NA,NA,NA
+"1.227_235.09245_RP","L2.3","Serinyl-Glutamate","C8H14N2O6","LAFKUZYWNCHOHT-WHFBIAKZSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"7.996_253.11822_RP","L2.3","Serinylphenylalanine","C12H16N2O4","PPQRSMGDOHLTBE-UWVGGRQHSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"6.856_219.1339_RP","L2.3","serylleucine","C9H18N2O4","NFDYGNFETJVMSE-BQBZGAKWSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.168_176.09181_RP","L2.3","spermidate","C7H13NO4","SRGQUICKDUQCKO-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"1.481_360.15003_RP","L1","Sucrose","C12H22O11","CZMRCDWAGMRECN-UGDNZRGBSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"1.479_365.10539_RP","L1","Sucrose","C12H22O11","CZMRCDWAGMRECN-UGDNZRGBSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"1.085_365.10543_RP","L1","Sucrose","C12H22O11","CZMRCDWAGMRECN-UGDNZRGBSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"1.288_365.10537_RP","L1","Sucrose","C12H22O11","CZMRCDWAGMRECN-UGDNZRGBSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates",NA,NA,NA,NA
+"8.298_231.17028_RP","L2","tert-Butyl N-[1-(aminocarbonyl)-3-methylbutyl]carbamate","C11H22N2O3","LJPDJTPZNJKXPW-QMMMGPOBSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"7.849_231.1703_RP","L2","tert-Butyl N-[1-(aminocarbonyl)-3-methylbutyl]carbamate","C11H22N2O3","LJPDJTPZNJKXPW-QMMMGPOBSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"11.273_228.23219_RP","L2.3","Tetradecanamide","C14H29NO","QEALYLRSRQDCRA-UHFFFAOYSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty amides",NA,"Fatty acids","Fatty amides","Primary amides"
+"18.271_249.18479_RP","L2","tetranor-12(R)-HETE","C16H26O3","KBOVKDIBOBQLRS-QCNAHCIUSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates",NA,NA,NA,NA
+"1.401_249.1081_RP","L2.3","Threoninyl-Glutamate","C9H16N2O6","BECPPKYKPSRKCP-ZDLURKLDSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"7.391_233.14956_RP","L2.3","threonylleucine","C10H20N2O4","BQBCIBCLXBKYHW-UHFFFAOYSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"8.432_267.13389_RP","L2.3","threonylphenylalanine","C13H18N2O4","IQHUITKNHOKGFC-MIMYLULJSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"7.333_127.05019_RP","L2","Thymine","C5H6N2O2","RWQNBRDOKXIBIV-UHFFFAOYSA-N","Organoheterocyclic compounds","Diazines","Pyrimidines and pyrimidine derivatives",NA,NA,NA,NA
+"1.47_101.05971_RP","L2","Tiglic acid","C5H8O2","UIERETOOQGIECD-ONEGZZNKSA-N","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates",NA,NA,NA,NA
+"10.696_279.17032_RP","L2","Tolycaine","C15H22N2O3","UDKICLZCJWQTLS-UHFFFAOYSA-N","Benzenoids","Benzene and substituted derivatives","Benzoic acids and derivatives",NA,NA,NA,NA
+"11.165_279.17031_RP","L2","Tolycaine","C15H22N2O3","UDKICLZCJWQTLS-UHFFFAOYSA-N","Benzenoids","Benzene and substituted derivatives","Benzoic acids and derivatives",NA,NA,NA,NA
+"2.246_139.05022_RP","L1","trans-Urocanic Acid","C6H6N2O2","LOIYMIARKYCTBW-OWOJBTEDSA-N","Organoheterocyclic compounds","Azoles","Imidazoles",NA,NA,NA,NA
+"12.632_111.08042_RP","L2","trans,trans-2,4-Heptadienal","C7H10O","SATICYYAWWYRAM-VNKDHWASSA-N","Organic oxygen compounds","Organooxygen compounds","Carbonyl compounds",NA,NA,NA,NA
+"5.96_342.13949_RP","L2.3","Trehalosamine","C12H23NO10","YSVQUZOHQULZQP-OCEKCAHXSA-N","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Fatty acyl glycosides of mono- and disaccharides","Amino acids and Peptides","Saccharides","Disaccharides"
+"1.293_134.11755_RP","L2.3","trimethyl(2-methylperoxyethyl)azanium","C6H15NO2","ARGAWHTXSZZNPE-UHFFFAOYSA-N","Organic nitrogen compounds","Organonitrogen compounds","Quaternary ammonium salts","Tetraalkylammonium salts","Fatty acids","Fatty Acids and Conjugates","Amino fatty acids"
+"9.37_295.16525_RP","L2.3","Tyrosylleucine","C15H22N2O4","AUEJLPRZGVVDNU-STQMWFEESA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"5.744_113.03452_RP","L2","Uracil","C4H4N2O2","ISAKRJDGNUQOIC-UHFFFAOYSA-N","Organoheterocyclic compounds","Diazines","Pyrimidines and pyrimidine derivatives",NA,NA,NA,NA
+"4.177_113.03453_RP","L2","Uracil","C4H4N2O2","ISAKRJDGNUQOIC-UHFFFAOYSA-N","Organoheterocyclic compounds","Diazines","Pyrimidines and pyrimidine derivatives",NA,NA,NA,NA
+"1.899_233.11319_RP","L2.3","Valyl-Aspartate","C9H16N2O5","OBTCMSPFOITUIJ-FSPLSTOPSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"2.522_247.12882_RP","L2.3","Valyl-Glutamate","C10H18N2O5","UPJONISHZRADBH-XPUUQOCRSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"2.448_189.12342_RP","L2.3","Valylalanine","C8H16N2O3","HSRXSKHRSXRCFC-WDSKDSINSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.404_274.18736_RP","L2.3","valylarginine","C11H23N5O3","IBIDRSSEHFLGSD-YUMQZZPRSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.954_246.14479_RP","L2.3","Valylglutamine","C10H19N3O4","XXDVDTMEVBYRPK-XPUUQOCRSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"2.636_175.10774_RP","L2.3","valylglycine","C7H14N2O3","IOUPEELXVYPCPG-LURJTMIESA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Dipeptides"
+"8.215_231.17028_RP","L2.3","Valylisoleucine","C11H22N2O3","PNVLWFYAPWAQMU-CIUDSAMLSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"8.738_231.1703_RP","L2.3","Valylleucine","C11H22N2O3","XCTHZFGSVQBHBW-IUCAKERBSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"6.873_215.139_RP","L2","Valylproline","C10H18N2O3","GIAZPLMMQOERPN-YUMQZZPRSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues",NA,NA,NA,NA
+"6.325_217.15465_RP","L2.3","Valylvaline","C10H20N2O3","KRNYOVHEKOBTEF-YUMQZZPRSA-N","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"3.676_153.04073_RP","L1","Xanthine","C5H4N4O2","LRFVTYWOQMYALW-UHFFFAOYSA-N","Organoheterocyclic compounds","Imidazopyrimidines","Purines and purine derivatives",NA,NA,NA,NA
+"5.519_973.32447_RP","L2","α-Cyclodextrin","C36H60O30",NA,NA,NA,NA,NA,NA,NA,NA
+"7.334_243.09752_RP","L2.3","α-Lapachone","C15H14O3",NA,NA,NA,NA,NA,NA,NA,NA
+"7.333_265.07948_RP","L2","α-Lapachone","C15H14O3",NA,NA,NA,NA,NA,NA,NA,NA
+"1.102_87.04411_RP","L1","γ-Aminobutyric acid","C4H9NO2",NA,NA,NA,NA,NA,NA,NA,NA
+"1.105_104.07064_RP","L1","γ-Aminobutyric acid","C4H9NO2",NA,NA,NA,NA,NA,NA,NA,NA
+"7.02_100.07569_RP","L2","δ-Valerolactam","C5H9NO",NA,NA,NA,NA,NA,NA,NA,NA
+"1.812_277.10307_RP","L2","Υ-L-Glutamyl-L-glutamic acid","C10H16N2O7",NA,NA,NA,NA,NA,NA,NA,NA
+"1.407_277.10304_RP","L2","Υ-L-Glutamyl-L-glutamic acid","C10H16N2O7",NA,NA,NA,NA,NA,NA,NA,NA
+"0.834_268.96038_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.849_246.97874_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.856_496.90896_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.857_240.95293_RP","L3.3",NA,"C4H2Cl2N4O4",NA,NA,NA,NA,NA,NA,NA,NA
+"0.857_304.96902_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.857_468.91372_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.858_268.94794_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.858_382.9282_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.861_146.02985_RP","L3.3",NA,"C2H3N5O3",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alkaloids","Pseudoalkaloids","Purine alkaloids"
+"0.862_241.99962_RP","L3.3",NA,"C5H8ClN3O4S",NA,NA,NA,NA,NA,NA,NA,NA
+"0.862_626.86695_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.863_130.01679_RP","L3.1",NA,"C3H4N3OP",NA,"Organoheterocyclic compounds","Azacyclic compounds",NA,NA,"Alkaloids","Pseudoalkaloids","pteridine alkaloids"
+"0.863_221.98182_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.863_245.99454_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.863_484.89136_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.863_512.88636_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.864_114.00359_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.864_214.98866_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.864_247.01494_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.864_260.01002_RP","M3.3",NA,"M",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"0.864_416.91635_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.864_540.88159_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.865_135.03208_RP","L3.3",NA,"C3H7N2O2P",NA,NA,NA,NA,NA,NA,NA,NA
+"0.865_398.9058_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.866_115.98843_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.866_234.00003_RP","L3.3",NA,"C5H3N3O8",NA,NA,NA,NA,NA,NA,NA,NA
+"0.866_330.93102_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.866_348.9416_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.866_426.90075_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.867_257.97707_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.867_302.93608_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.868_156.01426_RP","L3.1",NA,"C2H5NO7",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"0.868_556.85858_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.869_528.86375_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.869_642.84364_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.87_414.8834_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.87_442.87834_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.872_145.03462_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.875_572.83607_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.877_162.00744_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.908_266.92748_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.95_304.89525_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1.217_275.99322_RP","L3.3",NA,"C8H9N3O2S3",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"0.967_838.83792_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.969_702.86333_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.969_770.85051_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.97_634.87603_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.972_582.86263_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.973_190.912_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.973_310.91287_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.973_650.84994_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.973_700.81746_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.973_854.81209_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.974_242.92538_RP","L3.3",NA,"C4H2O8S2",NA,NA,NA,NA,NA,NA,NA,NA
+"0.974_378.90026_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.974_446.88767_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.974_514.87515_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.974_530.84909_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.974_598.83653_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.974_708.80452_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.974_734.81115_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.974_906.8256_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.975_258.89933_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.975_394.87418_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.975_462.86164_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.975_666.82387_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.975_768.80423_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.975_90.97667_RP","L3.3",NA,"C2H3PS",NA,NA,NA,NA,NA,NA,NA,NA
+"0.976_326.8868_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.976_546.82308_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.977_158.96409_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.977_274.87329_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.977_614.81043_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.977_682.79764_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.977_718.83722_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.977_750.7849_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.977_776.79206_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.977_784.77879_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.977_818.77235_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.978_294.93891_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.978_342.86062_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.978_362.92635_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.978_410.84811_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.978_430.91371_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.978_478.83551_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.978_498.9012_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.978_566.8886_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.978_886.75967_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.979_226.95147_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.979_742.79814_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"0.983_786.82446_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1.847_85.05893_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1.036_960.34045_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1.037_518.17167_RP","L3.1",NA,"C18H31NO16",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Oligosaccharides","Carbohydrates","Saccharides","Disaccharides"
+"1.047_304.15015_RP","L3.1",NA,"C12H21N3O6",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.056_304.16144_RP","M3.3",NA,"M",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.34_238.12849_RP","L3.1",NA,"C9H19NO6",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"6.593_291.04901_RP","L3.3",NA,"C8H11N4O6P",NA,NA,NA,NA,NA,NA,NA,NA
+"1.346_434.18684_RP","L3.3",NA,"C16H27N5O9",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Disaccharides","Carbohydrates","Aminosugars and aminoglycosides","Amino cyclitols"
+"1.347_316.12385_RP","L3.1",NA,"C10 H21 N O10",NA,NA,NA,NA,NA,NA,NA,NA
+"1.074_203.05265_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1.348_601.19517_RP","L3.3",NA,"C27H36O13S",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Disaccharides","Terpenoids","Monoterpenoids","Naphthoquinones"
+"1.086_196.95445_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1.361_370.17077_RP","L3.3",NA,"C15 H23 N5 O6",NA,NA,NA,NA,NA,NA,NA,NA
+"1.095_169.05839_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1.365_286.14957_RP","L3.1",NA,"C10H23NO8",NA,"Lipids and lipid-like molecules","Fatty Acyls",NA,NA,"Fatty acids","Glycerolipids","Monoacylglycerols"
+"1.372_286.11323_RP","M3.3",NA,"M",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Glycosyl compounds","Carbohydrates","Nucleosides","Purine nucleos(t)ides"
+"1.375_384.18639_RP","L3.1",NA,"C15H29NO10",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Glycosyl compounds","Amino acids and Peptides","Amino acid glycosides","Cyanogenic glycosides"
+"1.124_159.07645_RP","L3.1",NA,"C6H10N2O3",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.377_846.30834_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1.128_222.13361_RP","L3.1",NA,"C9H19NO5",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Monosaccharides","Amino acids and Peptides","Small peptides","Aminosugars"
+"1.385_214.11863_RP","L3.1",NA,"C9H15N3O3",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.137_349.03294_RP","L3.3",NA,"C19H8O7",NA,"Benzenoids","Anthracenes","Anthracenecarboxylic acids and derivatives","Anthracenecarboxylic acids","Polyketides","Polycyclic aromatic polyketides","Anthraquinones and anthrones"
+"1.139_84.04443_RP","L3.1",NA,"C4H5NO",NA,"Organoheterocyclic compounds","Azoles","Isoxazoles",NA,"Alkaloids","Lysine alkaloids","Pyridine alkaloids"
+"1.389_684.25563_RP","L3.1",NA,"C25H41N5O17",NA,NA,NA,NA,NA,NA,NA,NA
+"1.393_330.13954_RP","L3.1",NA,"C11H23NO10",NA,NA,NA,NA,NA,NA,NA,NA
+"1.152_176.07785_RP","L3.1",NA,"C4H9N5O3",NA,"Organoheterocyclic compounds","Azolidines",NA,NA,"Alkaloids","Ornithine alkaloids","Purine alkaloids"
+"1.153_246.10845_RP","L3.1",NA,"C9H15N3O5",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.159_287.12712_RP","M3.3",NA,"M",NA,"Organic acids and derivatives","Organic phosphonic acids and derivatives","Organic phosphonic acids",NA,"Alkaloids","Ornithine alkaloids","Polyamines"
+"1.16_210.09717_RP","L3.1",NA,"C7H15NO6",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"1.402_205.11826_RP","L3.1",NA,"C8H16N2O4",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.166_165.07577_RP","L3.1",NA,"C6H12O5",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Monosaccharides","Carbohydrates","Saccharides","Monosaccharides"
+"11.087_321.21728_RP","L3.1",NA,"C18H28N2O3",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Fatty amides","Dipeptides"
+"1.405_188.12819_RP","L3.1",NA,"C9H17NO3",NA,"Organic acids and derivatives","Keto acids and derivatives","Beta-keto acids and derivatives",NA,"Fatty acids","Fatty esters","Fatty acyl carnitines"
+"1.405_244.11141_RP","L3.1",NA,"C10H17N3O2S",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"1.173_176.12814_RP","L3.1",NA,"C8H17NO3",NA,"Organic acids and derivatives","Hydroxy acids and derivatives","Beta hydroxy acids and derivatives",NA,"Fatty acids","Fatty Acids and Conjugates","Fatty acyl carnitines"
+"11.257_275.16013_RP","L3.1",NA,"C12H22N2O5",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.182_235.16521_RP","L3.1",NA,"C10H22N2O4",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.408_170.11758_RP","L3.1",NA,"C9H15NO2",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alkaloids","Small peptides","Unsaturated fatty acids"
+"1.408_187.10774_RP","L3.1",NA,"C8H14N2O3",NA,"Organoheterocyclic compounds","Diazines","Pyrimidines and pyrimidine derivatives","Hydropyrimidines","Alkaloids","Small peptides","Aminoacids"
+"1.194_219.0475_RP","L3.3",NA,"C12H10O2S",NA,NA,NA,NA,NA,NA,NA,NA
+"1.194_325.11294_RP","L3.1",NA,"C12H20O10",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Disaccharides","Carbohydrates","Saccharides","Disaccharides"
+"1.195_203.05265_RP","L3.3",NA,"C4H6N6O4",NA,NA,NA,NA,NA,NA,NA,NA
+"1.195_214.09213_RP","L3.3",NA,"C6H12O7",NA,NA,NA,NA,NA,NA,NA,NA
+"1.41_251.00865_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12.264_213.10965_RP","L3.3",NA,"C7H12N6O2",NA,NA,NA,NA,NA,NA,NA,NA
+"1.198_219.02656_RP","L3.3",NA,"C4H11O8P",NA,NA,NA,NA,NA,NA,NA,NA
+"1.202_280.99543_RP","L3.3",NA,"C8H8O9S",NA,"Organosulfur compounds","Thioacetals","Monothioacetals",NA,"Carbohydrates","Phenolic acids (C6-C1)","Simple phenolic acids"
+"1.412_448.16604_RP","L3.1",NA,"C16H25N5O10",NA,"Nucleosides, nucleotides, and analogues","Purine nucleosides",NA,NA,"Carbohydrates","Nucleosides","Purine nucleos(t)ides"
+"1.412_531.25217_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1.213_188.0353_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1.215_248.12413_RP","L3.1",NA,"C9H17N3O5",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"1.414_85.02846_RP","L3.1",NA,"C4H4O2",NA,"Organoheterocyclic compounds","Lactones",NA,NA,"Fatty acids","Fatty acyls","Fatty aldehydes"
+"1.217_336.09593_RP","L3.3",NA,"C9H21NO10S",NA,NA,NA,NA,NA,NA,NA,NA
+"1.217_341.05132_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1.415_232.1293_RP","L3.3",NA,"C11H22NPS",NA,NA,NA,NA,NA,NA,NA,NA
+"1.415_69.03354_RP","L3.3",NA,"C4H4O",NA,NA,NA,NA,NA,NA,NA,NA
+"1.416_649.21837_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1.232_262.10338_RP","L3.1",NA,"C9H15N3O6",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"1.232_391.1823_RP","L3.3",NA,"C15H26N4O8",NA,NA,NA,NA,NA,NA,NA,NA
+"13.57_297.08118_RP","M3.3",NA,"M",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Sugar acids and derivatives","Carbohydrates","Saccharides","Shikimic acids and derivatives"
+"1.239_198.08904_RP","L3.3",NA,"C6H16NO4P",NA,NA,NA,NA,NA,NA,NA,NA
+"1.474_159.06278_RP","L3.3",NA,"C3H6N6O2",NA,NA,NA,NA,NA,NA,NA,NA
+"1.483_589.12894_RP","L3.3",NA,"C38H20O7",NA,"Phenylpropanoids and polyketides","Flavonoids","Flavans",NA,"Shikimates and Phenylpropanoids","Flavonoids","Flavanones"
+"1.251_376.14499_RP","M3.3",NA,"M",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Disaccharides","Carbohydrates","Saccharides","Disaccharides"
+"1.509_371.02_RP","L3.1",NA,"C10H14N2O9S2",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"1.548_258.13116_RP","L3.1",NA,"C8H15N7O3",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alkaloids","Pseudoalkaloids","Purine alkaloids"
+"1.27_205.11823_RP","L3.3",NA,"C8H16N2O4",NA,NA,NA,NA,NA,NA,NA,NA
+"1.274_252.14413_RP","L3.1",NA,"C10H21NO6",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.281_462.18158_RP","L3.3",NA,"C16H31NO14",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Carbohydrates","Saccharides","Aminosugars"
+"1.294_438.04607_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1.295_707.22155_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1.296_707.22155_RP","L3.1",NA,"C25H40N4O18",NA,NA,NA,NA,NA,NA,NA,NA
+"1.297_443.04827_RP","L3.3",NA,"C14H18O14S",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Sugar acids and derivatives","Carbohydrates","Saccharides","Disaccharides"
+"1.298_325.11296_RP","M3.3",NA,"M",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Disaccharides","Carbohydrates","Saccharides","Disaccharides"
+"1.691_684.25563_RP","L3.3",NA,"C24H45NO21",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Aminosaccharides","Carbohydrates","Saccharides","Polysaccharides"
+"1.302_381.07946_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1.303_396.03496_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14.662_454.3639_RP","L3.1",NA,"C25H47N3O4",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Tripeptides"
+"1.807_174.08734_RP","L3.1",NA,"C6H11N3O3",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"17.919_297.13324_RP","M3.3",NA,"M",NA,"Organoheterocyclic compounds","Imidazopyrimidines","Purines and purine derivatives",NA,"Carbohydrates","Nucleosides","Purine nucleos(t)ides"
+"1.326_176.12814_RP","L3.3",NA,"C8H17NO3",NA,NA,NA,NA,NA,NA,NA,NA
+"1.331_192.12303_RP","L3.1",NA,"C8H17NO4",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Monosaccharides","Fatty acids","Fatty Acids and Conjugates","Hydroxy fatty acids"
+"1.339_532.22376_RP","L3.3",NA,"C20H37NO15",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty acyl glycosides","Fatty acyl glycosides of mono- and disaccharides","Carbohydrates","Saccharides","Disaccharides"
+"15.025_291.19545_RP","L3.3",NA,"C18H26O3",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates","Medium-chain fatty acids","Fatty acids","Octadecanoids","Other Octadecanoids"
+"15.043_284.14921_RP","L3.1",NA,"C14H21NO5",NA,"Lipids and lipid-like molecules","Fatty Acyls",NA,NA,"Alkaloids","Lysine alkaloids","Primary amides"
+"1.348_596.2398_RP","L3.3",NA,"C22H37N5O14",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Disaccharides","Carbohydrates","Aminosugars and aminoglycosides","Aminoglycosides"
+"1.919_511.16339_RP","L3.3",NA,"C20H30O15",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Oligosaccharides","Carbohydrates","Saccharides","Polysaccharides"
+"15.323_217.14344_RP","L3.3",NA,"C11H20O4",NA,NA,NA,NA,NA,NA,NA,NA
+"15.452_171.08048_RP","L3.1",NA,"C12H10O",NA,"Hydrocarbons","Unsaturated hydrocarbons","Olefins","Cyclic olefins","Shikimates and Phenylpropanoids","Flavonoids","Chalcones"
+"1.366_300.16529_RP","M3.3",NA,"M",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Monosaccharides","Carbohydrates","Aminosugars and aminoglycosides","Aminosugars"
+"1.367_543.15359_RP","L3.3",NA,"C21H22N10O6S",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Pseudoalkaloids","pteridine alkaloids"
+"18.341_297.13326_RP","L3.1",NA,"C15H20O6",NA,"Benzenoids","Benzene and substituted derivatives",NA,NA,"Polyketides","Macrolides","Cinnamic acids and derivatives"
+"15.474_323.09675_RP","L3.1",NA,"C12H18O10",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Glycosyl compounds","Shikimates and Phenylpropanoids","Saccharides","Monosaccharides"
+"10.091_307.20162_RP","L3.1",NA,"C17H26N2O3",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Dipeptides"
+"1.383_538.19803_RP","L3.3",NA,"C18H35NO17",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Oligosaccharides","Carbohydrates","Saccharides","Disaccharides"
+"10.197_328.22311_RP","L3.3",NA,"C16H29N3O4",NA,NA,NA,NA,NA,NA,NA,NA
+"15.737_310.12613_RP","M3.3",NA,"M",NA,"Organic acids and derivatives","Organic phosphoric acids and derivatives","Phosphate esters","Alkyl phosphates","Carbohydrates","Aminosugars and aminoglycosides","Aminoglycosides"
+"10.25_204.19577_RP","L3.1",NA,"C11H25NO2",NA,"Organic nitrogen compounds","Organonitrogen compounds","Amines","Alkanolamines","Fatty acids","Fatty amides","Fatty alcohols"
+"15.781_327.21662_RP","L3.1",NA,"C18H30O5",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates","Long-chain fatty acids","Fatty acids","Octadecanoids","Other Octadecanoids"
+"1.395_165.07576_RP","L3.3",NA,"C6H12O5",NA,NA,NA,NA,NA,NA,NA,NA
+"1.397_143.08153_RP","L3.1",NA,"C6H10N2O2",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"1.397_187.05774_RP","L3.3",NA,"C4H6N6O3",NA,NA,NA,NA,NA,NA,NA,NA
+"10.799_364.23302_RP","L3.1",NA,"C17H33NO7",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty acid esters","Acyl carnitines","Fatty acids","Fatty esters","Fatty acyl carnitines"
+"16.304_257.17473_RP","L3.1",NA,"C14H24O4",NA,"Lipids and lipid-like molecules","Fatty Acyls",NA,NA,"Terpenoids","Sesquiterpenoids","Hydroxy fatty acids"
+"13.712_241.1434_RP","L3.1",NA,"C13H20O4",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty acid esters",NA,"Fatty acids","Octadecanoids","Oxo fatty acids"
+"19.02_223.20561_RP","L3.3",NA,"C15H26O",NA,"Organic oxygen compounds","Organooxygen compounds","Alcohols and polyols",NA,"Terpenoids","Fatty esters","Lactones"
+"19.035_354.26387_RP","L3.1",NA,"C20H35NO4",NA,"Lipids and lipid-like molecules","Fatty Acyls","Eicosanoids","Hydroxyeicosatrienoic acids","Fatty acids","Fatty amides","N-acyl amines"
+"12.062_228.23217_RP","L3.1",NA,"C14H29NO",NA,"Organic nitrogen compounds","Organonitrogen compounds","Amines","Alkanolamines","Fatty acids","Fatty amides","Primary amides"
+"1.409_541.1378_RP","L3.3",NA,"C33H20N2O6",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Shikimates and Phenylpropanoids","Coumarins","Simple coumarins"
+"1.41_236.14922_RP","L3.1",NA,"C10H21NO5",NA,"Organic nitrogen compounds","Organonitrogen compounds","Quaternary ammonium salts","Cholines","Amino acids and Peptides","Fatty Acids and Conjugates","Fatty acyl carnitines"
+"16.778_235.13285_RP","L3.1",NA,"C14H18O3",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Carboxylic acid derivatives","Carboxylic acid esters","Polyketides","Macrolides","Phthalide derivatives"
+"1.411_487.1658_RP","L3.1",NA,"C18H30O15",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Oligosaccharides","Carbohydrates","Saccharides","Disaccharides"
+"12.447_269.0863_RP","M3.3",NA,"M",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Sugar acids and derivatives","Carbohydrates","Saccharides","Monosaccharides"
+"12.469_374.22861_RP","L3.1",NA,"C17H31N3O6",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Tripeptides"
+"12.634_193.08327_RP","M3.3",NA,"M",NA,"Benzenoids",NA,NA,NA,"Polyketides","Phenolic acids (C6-C1)","Simple phenolic acids"
+"12.777_374.22874_RP","L3.1",NA,"C17H31N3O6",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Tripeptides"
+"16.874_159.11686_RP","L3.3",NA,"C12H14",NA,"Hydrocarbons","Unsaturated hydrocarbons","Olefins","Cyclic olefins","Terpenoids","Sesquiterpenoids","Guaiane sesquiterpenoids"
+"1.415_198.09721_RP","L3.1",NA,"C6H15NO6",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Monosaccharides","Carbohydrates","Aminosugars and aminoglycosides","Aminosugars"
+"16.887_255.15907_RP","M3.3",NA,"M",NA,"Benzenoids","Benzene and substituted derivatives",NA,NA,"Alkaloids","Steroids","Estrane steroids"
+"13.464_255.12032_RP","L3.1",NA,"C9H14N6O3",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"13.547_318.19108_RP","L3.1",NA,"C15H27NO6",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Ornithine alkaloids","Acyclic monoterpenoids"
+"1.42_190.11859_RP","L3.1",NA,"C7H15N3O3",NA,"Organic oxygen compounds","Organooxygen compounds","Alcohols and polyols","Secondary alcohols","Amino acids and Peptides","Small peptides","Aminoacids"
+"14.852_311.22169_RP","L3.3",NA,"C18H30O4",NA,NA,NA,NA,NA,NA,NA,NA
+"1.458_187.05772_RP","L3.1",NA,"C4H6N6O3",NA,"Organic acids and derivatives","Organic carbonic acids and derivatives","Ureas","Ureides","Amino acids and Peptides","Small peptides","Purine alkaloids"
+"4.551_811.27142_RP","L3.3",NA,"C30H50O25",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Oligosaccharides","Carbohydrates","Saccharides","Polysaccharides"
+"13.69_173.0961_RP","L3.1",NA,"C12H12O",NA,"Benzenoids","Benzene and substituted derivatives",NA,NA,"Shikimates and Phenylpropanoids","Coumarins","Simple coumarins"
+"6.59_275.07506_RP","L3.3",NA,"C11H14O8",NA,NA,NA,NA,NA,NA,NA,NA
+"17.086_213.1486_RP","L3.1",NA,"C12H20O3",NA,"Organic oxygen compounds","Organooxygen compounds","Alcohols and polyols","Secondary alcohols","Polyketides","Linear polyketides","Simple aromatic polyketides"
+"17.18_221.15359_RP","L3.1",NA,"C14H20O2",NA,"Lipids and lipid-like molecules",NA,NA,NA,"Terpenoids","Sesquiterpenoids","Humulane sesquiterpenoids"
+"1.598_549.09316_RP","L3.3",NA,"C17H24O20",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Oligosaccharides","Carbohydrates","Saccharides","Disaccharides"
+"2.086_174.03867_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2.109_398.20204_RP","M3.3",NA,"M",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Glycosyl compounds","Amino acids and Peptides","Amino acid glycosides","Cyanogenic glycosides"
+"14.089_597.42233_RP","L3.1",NA,"C31H56N4O7",NA,"Organic acids and derivatives","Peptidomimetics","Depsipeptides",NA,"Amino acids and Peptides","Oligopeptides","Depsipeptides"
+"17.514_328.24826_RP","L3.1",NA,"C18H33NO4",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates","Long-chain fatty acids","Fatty acids","Fatty Acids and Conjugates","Other Octadecanoids"
+"2.173_487.1657_RP","L3.1",NA,"C18H30O15",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Oligosaccharides","Carbohydrates","Saccharides","Disaccharides"
+"1.641_157.01075_RP","L3.3",NA,"C10H4S",NA,NA,NA,NA,NA,NA,NA,NA
+"1.644_236.1492_RP","L3.1",NA,"C10H21NO5",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty acid esters",NA,"Fatty acids","Fatty esters","Fatty acyl carnitines"
+"14.316_223.09403_RP","M3.3",NA,"M",NA,"Organic oxygen compounds","Organooxygen compounds","Ethers","Alkyl aryl ethers","Polyketides","Cyclic polyketides","2-pyrone derivatives"
+"1.714_116.10697_RP","L3.1",NA,"C6H13NO",NA,"Organoheterocyclic compounds","Piperidines",NA,NA,"Alkaloids","Lysine alkaloids","Acetate-derived alkaloids"
+"1.738_220.11796_RP","L3.1",NA,"C9H17NO5",NA,"Organic acids and derivatives","Hydroxy acids and derivatives","Beta hydroxy acids and derivatives",NA,"Fatty acids","Fatty Acids and Conjugates","Fatty acyl carnitines"
+"1.746_622.25534_RP","L3.1",NA,"C23H43NO18",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Oligosaccharides","Carbohydrates","Saccharides","Disaccharides"
+"17.814_460.26942_RP","L3.1",NA,"C26H37NO6",NA,"Benzenoids",NA,NA,NA,"Polyketides","Linear polyketides","Open-chain polyketides"
+"1.776_784.30778_RP","L3.3",NA,"C36H49NO18",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Oligosaccharides","Alkaloids","Pseudoalkaloids (transamidation)","Terpenoid alkaloids"
+"17.904_279.19547_RP","L3.1",NA,"C17H26O3",NA,"Lipids and lipid-like molecules","Fatty Acyls",NA,NA,"Fatty acids","Octadecanoids","Monacolins and Monacolin derivatives"
+"2.384_218.17503_RP","L3.1",NA,"C11H23NO3",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Fatty acids","Fatty amides","Wax monoesters"
+"1.862_325.11295_RP","M3.3",NA,"M",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Disaccharides","Carbohydrates","Saccharides","Disaccharides"
+"1.865_189.1234_RP","L3.1",NA,"C8H16N2O3",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"6.593_527.16097_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2.434_231.09755_RP","L3.1",NA,"C9H14N2O5",NA,"Organoheterocyclic compounds","Pyrrolidines","Pyrrolidones","Pyrrolidine-2-ones","Amino acids and Peptides","Small peptides","Dipeptides"
+"19.056_349.27377_RP","L3.1",NA,"C22H36O3",NA,"Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Colensane and clerodane diterpenoids","Terpenoids","Diterpenoids","Colensane and Clerodane diterpenoids"
+"9.622_283.17511_RP","M3.3",NA,"M",NA,"Organic oxygen compounds","Organooxygen compounds","Ethers","Dialkyl ethers","Fatty acids","Glycerolipids","Monoacylglycerols"
+"19.122_235.20561_RP","L3.1",NA,"C16H26O",NA,"Lipids and lipid-like molecules","Prenol lipids","Sesquiterpenoids",NA,"Terpenoids","Fatty acyls","Apocarotenoids (Î¨-)"
+"6.97_138.09135_RP","L3.1",NA,"C8H11NO",NA,"Organoheterocyclic compounds","Pyridines and derivatives",NA,NA,"Alkaloids","Lysine alkaloids","Piperidine alkaloids"
+"15.457_332.20673_RP","M3.3",NA,"M",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alkaloids","Ornithine alkaloids","Pyrrolizidine alkaloids"
+"2.658_215.01619_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15.546_291.07062_RP","L3.3",NA,"C12H18O4S2",NA,NA,NA,NA,NA,NA,NA,NA
+"10.233_221.0669_RP","L3.1",NA,"C9H8N4O3",NA,"Organoheterocyclic compounds","Pteridines and derivatives",NA,NA,"Alkaloids","Pseudoalkaloids","pteridine alkaloids"
+"18.547_607.39711_RP","L3.3",NA,"C33H54N2O8",NA,NA,NA,NA,NA,NA,NA,NA
+"2.886_242.14989_RP","L3.1",NA,"C11H19N3O3",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alkaloids","Ornithine alkaloids","Pyrrolidine alkaloids"
+"15.823_291.19544_RP","L3.3",NA,"C18H26O3",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates",NA,"Fatty acids","Octadecanoids","Prostaglandins"
+"10.715_321.21727_RP","L3.1",NA,"C18H28N2O3",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Dipeptides"
+"10.779_388.25414_RP","L3.1",NA,"C17H33N5O5",NA,"Organic nitrogen compounds","Organonitrogen compounds","Amines","Tertiary amines","Alkaloids","Ornithine alkaloids","Polyamines"
+"16.091_381.22477_RP","L3.3",NA,"C21H32O6",NA,"Organic oxygen compounds","Organooxygen compounds","Alcohols and polyols","Cyclic alcohols and derivatives","Terpenoids","Sesquiterpenoids","Open-chain polyketides"
+"19.74_267.21073_RP","L3.1",NA,"C20H26",NA,"Lipids and lipid-like molecules","Prenol lipids",NA,NA,"Terpenoids","Diterpenoids","Unsaturated fatty acids"
+"8.996_261.14447_RP","L3.1",NA,"C11H20N2O5",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alkaloids","Ornithine alkaloids","Pyrrolidine alkaloids"
+"20.087_434.27492_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18.928_349.27373_RP","L3.1",NA,"C22H36O3",NA,"Lipids and lipid-like molecules","Prenol lipids","Diterpenoids",NA,"Terpenoids","Diterpenoids","Labdane diterpenoids"
+"17.031_808.46036_RP","L3.3",NA,"C42H61N7O9",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Oligopeptides","Cyclic peptides"
+"7.933_250.0822_RP","L3.1",NA,"C11H11N3O4",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alkaloids","Small peptides","Aminoacids"
+"7.993_309.18089_RP","M3.3",NA,"M",NA,"Organoheterocyclic compounds","Diazines","Pyrimidines and pyrimidine derivatives","Aminopyrimidines and derivatives","Alkaloids","Anthranilic acid alkaloids","Carboline alkaloids"
+"11.575_533.30697_RP","M3.3",NA,"M",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty amides","N-acyl amines","Carbohydrates","Macrolides","N-acyl amines"
+"2.035_370.09797_RP","L3.1",NA,"C12H19NO12",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Carbohydrates","Small peptides","Aminoacids"
+"5.535_649.21865_RP","L3.3",NA,"C24H40O20",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Oligosaccharides","Carbohydrates","Saccharides","Polysaccharides"
+"9.693_248.222_RP","L3.1",NA,"C13H29NO3",NA,"Organic nitrogen compounds","Organonitrogen compounds","Amines","Alkanolamines","Fatty acids","Fatty acyls","Fatty alcohols"
+"16.717_362.25372_RP","L3.3",NA,"C18H35NO6",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Fatty acids","Fatty Acids and Conjugates","Nitro fatty acids"
+"12.152_489.31716_RP","M3.3",NA,"M",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty amides","N-acyl amines","Polyketides","Fatty amides","N-acyl amines"
+"12.311_441.33235_RP","L3.1",NA,"C24H44N2O5",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","N-acyl amines"
+"16.804_297.20596_RP","L3.1",NA,"C17H28O4",NA,"Lipids and lipid-like molecules","Fatty Acyls","Lineolic acids and derivatives",NA,"Fatty acids","Octadecanoids","Other Octadecanoids"
+"8.297_346.22243_RP","L3.1",NA,"C17H31NO6",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Monosaccharides","Fatty acids","Ornithine alkaloids","Fatty acyl carnitines"
+"19.403_287.14051_RP","M3.3",NA,"M",NA,"Organic acids and derivatives","Organic phosphonic acids and derivatives","Phosphonic acid diesters",NA,"Terpenoids","Monoterpenoids","Acyclic monoterpenoids"
+"16.887_187.11177_RP","L3.1",NA,"C13H14O",NA,"Benzenoids","Phenols","1-hydroxy-2-unsubstituted benzenoids",NA,"Shikimates and Phenylpropanoids","Phenylpropanoids (C6-C3)","Neolignans"
+"16.89_349.11271_RP","L3.3",NA,"C15H24O5S2",NA,NA,NA,NA,NA,NA,NA,NA
+"6.49_202.18012_RP","L3.1",NA,"C11H23NO2",NA,"Organoheterocyclic compounds","Piperidines",NA,NA,"Alkaloids","Lysine alkaloids","Piperidine alkaloids"
+"13.576_455.13896_RP","M3.3",NA,"M",NA,"Lipids and lipid-like molecules","Saccharolipids",NA,NA,"Carbohydrates","Saccharides","Fatty acyl glycosides of mono- and disaccharides"
+"16.992_235.1306_RP","M3.3",NA,"M",NA,"Organoheterocyclic compounds","Azoles",NA,NA,"Alkaloids","Sesquiterpenoids","Menthane monoterpenoids"
+"19.902_247.22673_RP","L3.1",NA,"C14H30O3",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty alcohols","Long-chain fatty alcohols","Fatty acids","Fatty acyls","Fatty alcohols"
+"18.233_321.20377_RP","M3.3",NA,"M",NA,"Lipids and lipid-like molecules",NA,NA,NA,"Terpenoids","Diterpenoids","Caryophyllane sesquiterpenoids"
+"3.061_846.30819_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13.806_471.30653_RP","L3.1",NA,"C24H42N2O7",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Linear polyketides","Open-chain polyketides"
+"3.467_141.01559_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2.163_684.25555_RP","M3.3",NA,"M",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Oligosaccharides","Carbohydrates","Saccharides","Polysaccharides"
+"7.057_573.19027_RP","L3.3",NA,"C21H24N12O8",NA,"Organoheterocyclic compounds","Pteridines and derivatives","Pterins and derivatives","Pteroic acids and derivatives","Alkaloids","Pseudoalkaloids","pteridine alkaloids"
+"14.097_248.14922_RP","L3.3",NA,"C11H21NO5",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"17.696_429.1908_RP","L3.1",NA,"C25H24N4O3",NA,"Benzenoids","Benzene and substituted derivatives",NA,NA,"Alkaloids","Anthranilic acid alkaloids","Pyridine alkaloids"
+"14.616_440.34837_RP","L3.1",NA,"C24H45N3O4",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Tripeptides"
+"6.265_246.20635_RP","L3.1",NA,"C13H27NO3",NA,"Organoheterocyclic compounds","Piperidines",NA,NA,"Alkaloids","Lysine alkaloids","Piperidine alkaloids"
+"14.703_313.11254_RP","M3.3",NA,"M",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty alcohols",NA,"Fatty acids","Saccharides","Monosaccharides"
+"17.867_432.23804_RP","M3.3",NA,"M",NA,"Organoheterocyclic compounds","Oxepanes",NA,NA,"Terpenoids","Linear polyketides","Open-chain polyketides"
+"2.369_418.13435_RP","L3.1",NA,"C17H23NO11",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Disaccharides","Amino acids and Peptides","Amino acid glycosides","Cyanogenic glycosides"
+"15.915_346.25887_RP","L3.1",NA,"C18H35NO5",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates","Long-chain fatty acids","Fatty acids","Fatty Acids and Conjugates","Dicarboxylic acids"
+"16.891_259.19046_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8.869_316.21185_RP","L3.1",NA,"C16H29NO5",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty amides","N-acyl amines","Alkaloids","Fatty amides","N-acyl amines"
+"7.774_485.3585_RP","L3.1",NA,"C26H48N2O6",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Terpenoids","Linear polyketides","Open-chain polyketides"
+"4.858_259.05605_RP","L3.1",NA,"C9H10N2O7",NA,"Nucleosides, nucleotides, and analogues","Pyrimidine nucleosides",NA,NA,"Carbohydrates","Nucleosides","Pyrimidine nucleos(t)ides"
+"20.365_291.19546_RP","M3.3",NA,"M",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates","Unsaturated fatty acids","Fatty acids","Octadecanoids","Prostaglandins"
+"6.766_267.07238_RP","L3.3",NA,"C10H10N4O5",NA,"Benzenoids","Benzene and substituted derivatives",NA,NA,"Alkaloids","Pseudoalkaloids","Phenylalanine-derived alkaloids"
+"15.662_237.10972_RP","M3.3",NA,"M",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Nicotinic acid alkaloids","Aminoacids"
+"8.02_257.0768_RP","L3.1",NA,"C10H12N2O6",NA,"Nucleosides, nucleotides, and analogues","Pyrimidine nucleosides","Pyrimidine 2'-deoxyribonucleosides",NA,"Carbohydrates","Nucleosides","Pyrimidine nucleos(t)ides"
+"3.292_204.18628_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2.493_455.18841_RP","L3.1",NA,"C18H26N6O8",NA,"Nucleosides, nucleotides, and analogues","Pyrimidine nucleosides","Pyrimidine 2'-deoxyribonucleosides",NA,"Carbohydrates","Nucleosides","Pyrimidine nucleos(t)ides"
+"2.065_152.05671_RP","L3.3",NA,"C5H5N5O",NA,"Organic nitrogen compounds","Organonitrogen compounds","Amines","Tertiary amines","Fatty acids","Fatty acyls","Polyamines"
+"18.328_291.19545_RP","L3.1",NA,"C18H26O3",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates",NA,"Fatty acids","Octadecanoids","Prostaglandins"
+"7.526_261.14449_RP","M3.3",NA,"M",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alkaloids","Histidine alkaloids","Imidazole alkaloids"
+"8.199_332.13402_RP","L3.1",NA,"C14H21NO8",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Glycosyl compounds","Amino acids and Peptides","Amino acid glycosides","Cyanogenic glycosides"
+"2.664_236.99814_RP","M3.3",NA,"M",NA,"Organoheterocyclic compounds","Azolidines",NA,NA,"Amino acids and Peptides","Small peptides","Aminoacids"
+"2.975_295.06625_RP","L3.3",NA,"C10H14O10",NA,NA,NA,NA,NA,NA,NA,NA
+"8.75_314.20745_RP","L3.1",NA,"C15H27N3O4",NA,"Organic oxygen compounds","Organooxygen compounds","Ethers","Dialkyl ethers","Alkaloids","Small peptides","Dipeptides"
+"2.785_523.1271_RP","L3.3",NA,"C24H26O11S",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Monosaccharides","Polyketides","Polycyclic aromatic polyketides","Anthraquinones and anthrones"
+"18.58_297.13323_RP","M3.3",NA,"M",NA,"Organoheterocyclic compounds","Imidazopyrimidines","Purines and purine derivatives",NA,"Carbohydrates","Nucleosides","Purine nucleos(t)ides"
+"7.335_507.16984_RP","L3.3",NA,"C17H26N6O12",NA,NA,NA,NA,NA,NA,NA,NA
+"17.812_281.13835_RP","L3.1",NA,"C15H20O5",NA,"Lipids and lipid-like molecules","Prenol lipids","Terpene lactones",NA,"Terpenoids","Sesquiterpenoids","Prezizaane sesquiterpenoids"
+"16.886_223.13286_RP","L3.1",NA,"C13H18O3",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Carboxylic acid derivatives","Carboxylic acid esters","Polyketides","Linear polyketides","Phthalide derivatives"
+"5.349_221.09205_RP","L3.1",NA,"C11H12N2O3",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Aminoacids"
+"17.835_321.204_RP","L3.3",NA,"C17H30O4",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty alcohols",NA,"Polyketides","Octadecanoids","Other Octadecanoids"
+"2.927_208.06376_RP","M3.3",NA,"M",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Dipeptides"
+"6.813_282.08328_RP","L3.1",NA,"C10H11N5O5",NA,"Nucleosides, nucleotides, and analogues","Purine nucleosides","Purine 2'-deoxyribonucleosides",NA,"Carbohydrates","Nucleosides","Purine nucleos(t)ides"
+"19.742_247.22674_RP","L3.1",NA,"C14H30O3",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty alcohols","Long-chain fatty alcohols","Fatty acids","Fatty acyls","Fatty alcohols"
+"7.834_218.17506_RP","L3.1",NA,"C11H23NO3",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates","Branched fatty acids","Fatty acids","Fatty Acids and Conjugates","Fatty acyl carnitines"
+"2.424_172.09689_RP","L3.1",NA,"C8H13NO3",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates",NA,"Amino acids and Peptides","Small peptides","Dipeptides"
+"16.778_344.24316_RP","L3.1",NA,"C18H33NO5",NA,"Lipids and lipid-like molecules","Fatty Acyls","Lineolic acids and derivatives",NA,"Fatty acids","Linear polyketides","Open-chain polyketides"
+"19.214_339.25079_RP","M3.3",NA,"M",NA,"Lipids and lipid-like molecules","Fatty Acyls","Eicosanoids",NA,"Fatty acids","Eicosanoids","Hydroxy-hydroperoxyeicosatrienoic acids"
+"9.407_360.23812_RP","L3.1",NA,"C18H33NO6",NA,"Organic nitrogen compounds","Organonitrogen compounds","Amines","Tertiary amines","Fatty acids","Peptide alkaloids","Simple amide alkaloids"
+"2.435_549.09302_RP","L3.3",NA,"C17H24O20",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Oligosaccharides","Carbohydrates","Saccharides","Disaccharides"
+"7.636_155.03153_RP","L3.3",NA,"C3H2N6O2",NA,"Organoheterocyclic compounds","Diazines","Pyrimidines and pyrimidine derivatives",NA,"Alkaloids","Pseudoalkaloids","Purine alkaloids"
+"17.372_381.22484_RP","L3.3",NA,"C21H32O6",NA,"Lipids and lipid-like molecules",NA,NA,NA,"Polyketides","Cyclic polyketides","Open-chain polyketides"
+"8.086_258.16996_RP","L3.1",NA,"C13H23NO4",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Terpenoids","Ornithine alkaloids","Piperidine alkaloids"
+"5.748_81.03355_RP","L3.1",NA,"C5H4O",NA,"Organic oxygen compounds","Organooxygen compounds","Carbonyl compounds","Aldehydes","Shikimates and Phenylpropanoids","Cyclic polyketides","Simple phenolic acids"
+"17.812_514.31638_RP","M3.3",NA,"M",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alkaloids","Nicotinic acid alkaloids","Pyridine alkaloids"
+"3.946_189.00708_RP","L3.3",NA,"C4H4N4O3S",NA,NA,NA,NA,NA,NA,NA,NA
+"6.009_282.08327_RP","M3.3",NA,"M",NA,"Nucleosides, nucleotides, and analogues","Purine nucleosides",NA,NA,"Carbohydrates","Nucleosides","Purine nucleos(t)ides"
+"17.692_469.18322_RP","L3.3",NA,"C30H30OP2",NA,"Benzenoids","Phenol ethers",NA,NA,"Terpenoids","Triterpenoids","Limonoids"
+"19.332_315.19521_RP","L3.3",NA,"C14H27N4O2P",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Carboxylic acids",NA,"Fatty acids","Fatty Acids and Conjugates","Branched fatty acids"
+"2.213_203.13888_RP","L3.1",NA,"C9H18N2O3",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alkaloids","Ornithine alkaloids","Pyrrolidine alkaloids"
+"2.218_128.07059_RP","L3.1",NA,"C6H9NO2",NA,"Organoheterocyclic compounds","Piperidines","Piperidinones","Piperidinediones","Alkaloids","Lysine alkaloids","Piperidine alkaloids"
+"6.579_542.17194_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8.638_295.16521_RP","L3.3",NA,"C15H22N2O4",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Dipeptides"
+"7.629_302.19617_RP","L3.1",NA,"C15H27NO5",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty amides","N-acyl amines","Fatty acids","Small peptides","Dipeptides"
+"8.264_360.20167_RP","L3.1",NA,"C17H29NO7",NA,"Lipids and lipid-like molecules","Fatty Acyls","Fatty acid esters",NA,"Polyketides","Linear polyketides","Open-chain polyketides"
+"2.414_699.15903_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6.542_557.18276_RP","L3.3",NA,"C22H24N10O8",NA,"Nucleosides, nucleotides, and analogues","Purine nucleosides",NA,NA,"Carbohydrates","Nucleosides","Purine nucleos(t)ides"
+"17.711_297.13327_RP","M3.3",NA,"M",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Dicarboxylic acids and derivatives",NA,"Terpenoids","Sesquiterpenoids","Macrolide lactones"
+"5.921_203.13897_RP","L3.3",NA,"C9H18N2O3",NA,NA,NA,NA,NA,NA,NA,NA
+"19.257_385.1852_RP","L3.3",NA,"C19H28O8",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Monosaccharides","Terpenoids","Sesquiterpenoids","Drimane sesquiterpenoids"
+"2.367_280.13907_RP","L3.1",NA,"C11H21NO7",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Dipeptides"
+"6.148_497.19781_RP","L3.3",NA,"C19H32N2O13",NA,NA,NA,NA,NA,NA,NA,NA
+"6.343_298.0782_RP","L3.1",NA,"C10H11N5O6",NA,"Nucleosides, nucleotides, and analogues","Purine nucleosides",NA,NA,"Carbohydrates","Nucleosides","Purine nucleos(t)ides"
+"2.669_210.0608_RP","M3.3",NA,"M",NA,"Organoheterocyclic compounds","Pteridines and derivatives",NA,NA,"Alkaloids","Pseudoalkaloids","pteridine alkaloids"
+"2.183_816.27999_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3.541_518.17141_RP","L3.1",NA,"C18H31NO16",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Sugar acids and derivatives","Carbohydrates","Saccharides","Disaccharides"
+"2.054_201.12339_RP","L3.1",NA,"C9H16N2O3",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alkaloids","Small peptides","Dipeptides"
+"2.787_518.17167_RP","L3.1",NA,"C18H31NO16",NA,"Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Sugar acids and derivatives","Carbohydrates","Saccharides","Aminosugars"
+"4.537_218.17504_RP","L3.1",NA,"C11H23NO3",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Dipeptides"
+"2.052_232.16554_RP","L3.1",NA,"C10H21N3O3",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Dipeptides"
+"6.496_243.06113_RP","L3.1",NA,"C9H10N2O6",NA,"Nucleosides, nucleotides, and analogues","Pyrimidine nucleosides",NA,NA,"Carbohydrates","Nucleosides","Pyrimidine nucleos(t)ides"
+"3.945_127.03654_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8.501_323.19654_RP","L3.1",NA,"C17H26N2O4",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alkaloids","Small peptides","Simple amide alkaloids"
+"7.26_264.21694_RP","L3.1",NA,"C13H29NO4",NA,"Lipids and lipid-like molecules","Fatty Acyls",NA,NA,"Fatty acids","Fatty Acids and Conjugates","Monoacylglycerols"
+"6.136_340.19799_RP","M3.3",NA,"M",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Amino acids and Peptides","Small peptides","Tripeptides"
+"2.669_248.16044_RP","L3.1",NA,"C10H21N3O4",NA,"Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Amino acids and Peptides","Small peptides","Dipeptides"
+"2.262_673.21627_RP","Unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6.497_246.20634_RP","L3.1",NA,"C13H27NO3",NA,"Organoheterocyclic compounds","Oxazinanes","Morpholines",NA,"Alkaloids","Lysine alkaloids","Piperidine alkaloids"
