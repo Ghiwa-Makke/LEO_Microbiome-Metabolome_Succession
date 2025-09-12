@@ -1,0 +1,63 @@
+SampleID,SampleName,Type,Slope,Location
+Area: RP_Blank3_20220314172947.raw (F61),Blank,Blank,Blank,Blank
+Area: RP_Blank4.raw (F62),Blank,Blank,Blank,Blank
+Area: RP_Pooled1.raw (F41),Pooled,Pooled,Pooled,Pooled
+Area: RP_Pooled2.raw (F1),Pooled,Pooled,Pooled,Pooled
+Area: RP_Pooled3.raw (F20),Pooled,Pooled,Pooled,Pooled
+Area: RP_Pooled4.raw (F40),Pooled,Pooled,Pooled,Pooled
+Area: RP_Pooled5.raw (F59),Pooled,Pooled,Pooled,Pooled
+Area: RP_S1.raw (F42),Area: RP_S1_1WB.raw,Bare,West,L_1
+Area: RP_S2.raw (F43),Area: RP_S2_1WC.raw,Biocrust,West,L_1
+Area: RP_S3.raw (F44),Area: RP_S3_1WM.raw,Moss,West,L_1
+Area: RP_S4.raw (F45),Area: RP_S4_2WB.raw,Bare,West,L_2
+Area: RP_S5.raw (F46),Area: RP_S5_2WC.raw,Biocrust,West,L_2
+Area: RP_S6.raw (F47),Area: RP_S6_2WM.raw,Moss,West,L_2
+Area: RP_S7.raw (F48),Area: RP_S7_3WB.raw,Bare,West,L_3
+Area: RP_S8.raw (F49),Area: RP_S8_3WC.raw,Biocrust,West,L_3
+Area: RP_S9.raw (F50),Area: RP_S9_3WM.raw,Moss,West,L_3
+Area: RP_S10.raw (F51),Area: RP_S10_4WB.raw,Bare,West,L_4
+Area: RP_S11.raw (F52),Area: RP_S11_4WC.raw,Biocrust,West,L_4
+Area: RP_S12.raw (F53),Area: RP_S12_4WM.raw,Moss,West,L_4
+Area: RP_S13.raw (F54),Area: RP_S13_5WB.raw,Bare,West,L_5
+Area: RP_S14.raw (F55),Area: RP_S14_5WC.raw,Biocrust,West,L_5
+Area: RP_S15.raw (F56),Area: RP_S15_5WM.raw,Moss,West,L_5
+Area: RP_S16.raw (F57),Area: RP_S16_6WB.raw,Bare,West,L_6
+Area: RP_S17.raw (F60),Area: RP_S17_6WC.raw,Biocrust,West,L_6
+Area: RP_S18.raw (F58),Area: RP_S18_6WM.raw,Moss,West,L_6
+Area: RP_S19.raw (F2),Area: RP_S19_1CB.raw,Bare,Center,L_1
+Area: RP_S20.raw (F3),Area: RP_S20_1CC.raw,Biocrust,Center,L_1
+Area: RP_S21.raw (F4),Area: RP_S21_1CM.raw,Moss,Center,L_1
+Area: RP_S22.raw (F5),Area: RP_S22_2CB.raw,Bare,Center,L_2
+Area: RP_S23.raw (F6),Area: RP_S23_2CC.raw,Biocrust,Center,L_2
+Area: RP_S24.raw (F7),Area: RP_S24_2CM.raw,Moss,Center,L_2
+Area: RP_S25.raw (F8),Area: RP_S25_3CB.raw,Bare,Center,L_3
+Area: RP_S26.raw (F9),Area: RP_S26_3CC.raw,Biocrust,Center,L_3
+Area: RP_S27.raw (F10),Area: RP_S27_3CM.raw,Moss,Center,L_3
+Area: RP_S28.raw (F11),Area: RP_S28_4CB.raw,Bare,Center,L_4
+Area: RP_S29.raw (F12),Area: RP_S29_4CC.raw,Biocrust,Center,L_4
+Area: RP_S30.raw (F13),Area: RP_S30_4CM.raw,Moss,Center,L_4
+Area: RP_S31.raw (F14),Area: RP_S31_5CB.raw,Bare,Center,L_5
+Area: RP_S32.raw (F15),Area: RP_S32_5CC.raw,Biocrust,Center,L_5
+Area: RP_S33.raw (F16),Area: RP_S33_5CM.raw,Moss,Center,L_5
+Area: RP_S34.raw (F17),Area: RP_S34_6CB.raw,Bare,Center,L_6
+Area: RP_S35.raw (F18),Area: RP_S35_6CC.raw,Biocrust,Center,L_6
+Area: RP_S36.raw (F19),Area: RP_S36_6CM.raw,Moss,Center,L_6
+Area: RP_S37.raw (F21),Area: RP_S37_1EB.raw,Bare,East,L_1
+Area: RP_S38.raw (F22),Area: RP_S38_1EC.raw,Biocrust,East,L_1
+Area: RP_S39.raw (F23),Area: RP_S39_1EM.raw,Moss,East,L_1
+Area: RP_S40.raw (F24),Area: RP_S40_2EB.raw,Bare,East,L_2
+Area: RP_S41.raw (F25),Area: RP_S41_2EC.raw,Biocrust,East,L_2
+Area: RP_S42.raw (F26),Area: RP_S42_2EM.raw,Moss,East,L_2
+Area: RP_S43.raw (F27),Area: RP_S43_3EB.raw,Bare,East,L_3
+Area: RP_S44.raw (F28),Area: RP_S44_3EC.raw,Biocrust,East,L_3
+Area: RP_S45.raw (F29),Area: RP_S45_3EM.raw,Moss,East,L_3
+Area: RP_S46.raw (F30),Area: RP_S46_4EB.raw,Bare,East,L_4
+Area: RP_S47.raw (F31),Area: RP_S47_4EC.raw,Biocrust,East,L_4
+Area: RP_S48.raw (F32),Area: RP_S48_4EM.raw,Moss,East,L_4
+Area: RP_S49.raw (F33),Area: RP_S49_5EB.raw,Bare,East,L_5
+Area: RP_S50.raw (F34),Area: RP_S50_5EC.raw,Biocrust,East,L_5
+Area: RP_S51.raw (F35),Area: RP_S51_5EM.raw,Moss,East,L_5
+Area: RP_S52.raw (F36),Area: RP_S52_6EB.raw,Bare,East,L_6
+Area: RP_S53.raw (F37),Area: RP_S53_6EC.raw,Biocrust,East,L_6
+Area: RP_S54.raw (F38),Area: RP_S54_6EM.raw,Moss,East,L_6
+Area: RP_S55.raw (F39),Not,Not,Not,Not
