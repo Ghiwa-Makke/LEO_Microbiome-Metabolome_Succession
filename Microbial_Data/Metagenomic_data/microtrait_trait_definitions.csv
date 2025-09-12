@@ -1,0 +1,976 @@
+microtrait_rule-name,microtrait_trait-name1,microtrait_trait-name2,microtrait_trait-name3
+fdhC,,,
+aaeB,,,
+aap_full,,,
+aap_key,,,
+abgT,,,
+acrD,,,
+acrF,,,
+actP,,,
+ade_full,,,
+ade_partial,,,
+adiC,,,
+afu_full,,,
+afu_key,,,
+aga_full,,,
+aga_partial,,,
+agl_full,,,
+agl_key,,,
+agu_full,,,
+agu_key,,,
+algE,,,
+allP,,,
+als_full,,,
+als_key,,,
+ameC,,,
+amiS,,,
+ampG,,,
+amsL,,,
+amt,,,
+ansP,,,
+aot_full,,,
+aot_key,,,
+ara-1_full,,,
+ara-1_key,,,
+ara-2_full,,,
+ara-2_key,,,
+araE,,,
+araJ,,,
+arcD,,,
+arg_full,,,
+arg_key,,,
+argT,,,
+arnE,,,
+arsB-1,,,
+arsB-2,,,
+art-1_full,,,
+art-1_partial,,,
+art-2_full,,,
+art-2_key,,,
+asc_full,,,
+asc_partial,,,
+atoE_key,,,
+att_full,,,
+att_key,,,
+bce_full,,,
+bce_key,,,
+bcr_full,,,
+bcr_key,,,
+benE,,,
+betL,,,
+betT,,,
+bgl_full,,,
+bgl_partial,,,
+bglH,,,
+bgt_full,,,
+bgt_key,,,
+bica,,,
+bio-1_full,,,
+bio-1_key,,,
+bio-2_full,,,
+bio-2_key,,,
+blpA,,,
+bpeEF-oprC_full,,,
+bpeEF-oprC_partial,,,
+bra_full,,,
+bra_partial,,,
+btu_full,,,
+btu_key,,,
+btuB,,,
+bxl_full,,,
+bxl_key,,,
+cbi-1_full,,,
+cbi-1_partial,,,
+cbi-2_full,,,
+cbi-2_key,,,
+ccm-1_full,,,
+ccm-1_partial,,,
+ceb_full,,,
+ceb_key,,,
+cel_full,,,
+cel_partial,,,
+cfrA,,,
+chaA,,,
+chi_full,,,
+chi_key,,,
+chrA,,,
+citA,,,
+citT,,,
+cmlA,,,
+cmp_full,,,
+cmp_key,,,
+codB,,,
+corA,,,
+cusA,,,
+cusC,,,
+cycA,,,
+cyd_full,,,
+cyd_partial,,,
+cys_full,,,
+cys_partial,,,
+czcA,,,
+czcC,,,
+czcD,,,
+das_full,,,
+das_key,,,
+dct_full,,,
+dct_key,,,
+dctA,,,
+dcuA,,,
+dcuB,,,
+dcuC,,,
+dev_full,,,
+dev_partial,,,
+dga_full,,,
+dga_partial,,,
+dgl_full,,,
+dgl_partial,,,
+dltB,,,
+dpp-1_full,,,
+dpp-1_key,,,
+dpp-2_full,,,
+dpp-2_key,,,
+dsdX,,,
+eamA,,,
+eamB,,,
+ebr-1_full,,,
+ebr-1_partial,,,
+ebr-2,,,
+ecfA1,,,
+eexD_key,,,
+efeB,,,
+efeO,,,
+emrK,,,
+emrY,,,
+entS,,,
+eps_full,,,
+eps_partial,,,
+ery_full,,,
+ery_key,,,
+exb_full,,,
+exb_key,,,
+exbD_full,,,
+exbD_key,,,
+exoF,,,
+exoT,,,
+fadL,,,
+fdhC,,,
+fec_full,,,
+fec_key,,,
+fecA,,,
+fep_full,,,
+fep_key,,,
+fepA,,,
+fev_full,,,
+fev_key,,,
+fhu_full,,,
+fhu_key,,,
+fieF,,,
+fiu,,,
+flq_full,,,
+flq_partial,,,
+focA,,,
+focB,,,
+fpvA,,,
+frc_full,,,
+frc_key,,,
+fru1_full,,,
+fru1_partial,,,
+fru2_full,,,
+fru2_partial,,,
+ftrA,,,
+gal_full,,,
+gal_partial,,,
+galP,,,
+gam_full,,,
+gam_partial,,,
+gan_full,,,
+gan_key,,,
+gat_full,,,
+gat_partial,,,
+gesB,,,
+gfr_full,,,
+gfr_partial,,,
+ggu_full,,,
+ggu_key,,,
+glc_full,,,
+glc_key,,,
+glc-1_full,,,
+glc-1_partial,,,
+glc-2_full,,,
+glc-2_partial,,,
+glcT1,,,
+glcU,,,
+glf,,,
+gln_full,,,
+gln_key,,,
+glp_full,,,
+glp_key,,,
+glpF,,,
+glt_full,,,
+glt_key,,,
+gltP,,,
+glu_full,,,
+glu_key,,,
+glucP,,,
+glv_full,,,
+glv_partial,,,
+glycA,,,
+gntP,,,
+gntT,,,
+gntU,,,
+gsi_full,,,
+gsi_key,,,
+gts_full,,,
+gts_key,,,
+gut_full,,,
+gut_partial,,,
+gutA,,,
+hasA,,,
+hasR,,,
+hcaT,,,
+his_full,,,
+his_key,,,
+hpt,,,
+hrt_full,,,
+hrt_key,,,
+hutM,,,
+hutT,,,
+hxt,,,
+idnT,,,
+ino_full,,,
+ino_key,,,
+iolF,,,
+itsp-1_full,,,
+itsp-1_key,,,
+itsp-2_full,,,
+itsp-2_key,,,
+kdgM,,,
+kdgT,,,
+kgtP,,,
+kps_full,,,
+kps_key,,,
+kup,,,
+lac-1_full,,,
+lac-1_partial,,,
+lac-2_full,,,
+lac-2_key,,,
+lacS,,,
+lacY,,,
+lamB,,,
+lctB,,,
+lctP-1,,,
+lctP-2,,,
+leuE,,,
+lhp_full,,,
+lhp_key,,,
+liv_full,,,
+liv_key,,,
+lpiT,,,
+lpl_full,,,
+lpl_key,,,
+lys_full,,,
+lys_key,,,
+lysE,,,
+lysP,,,
+macA_full,,,
+macA_partial,,,
+macB_full,,,
+macB_partial,,,
+maeN,,,
+mal-1_full,,,
+mal-1_partial,,,
+mal-2_full,,,
+mal-2_key,,,
+malglc_full,,,
+malglc_partial,,,
+malY,,,
+man_full,,,
+man_partial,,,
+marC,,,
+mdcF,,,
+mdt_full,,,
+mdt_partial,,,
+mdtD,,,
+mdtF,,,
+mdtO,,,
+mdtP,,,
+melB,,,
+mer_full,,,
+mer_partial,,,
+merC,,,
+merE,,,
+met_full,,,
+met_key,,,
+mfs.cp,,,
+mfs.set,,,
+mgl_full,,,
+mgl_key,,,
+mgtE,,,
+mhpT,,,
+mla-1_full,,,
+mla-1_partial,,,
+mla-2,,,
+mleP,,,
+mmpL10,,,
+mmpL11,,,
+mmr,,,
+mmuP,,,
+mn_full,,,
+mn_key,,,
+mng_full,,,
+mng_partial,,,
+mnh_full,,,
+mnh_partial,,,
+mnt-1_full,,,
+mnt-1_key,,,
+mnt-2_full,,,
+mnt-2_key,,,
+mntH,,,
+mntP_key,,,
+mod_full,,,
+mod_key,,,
+msbA,,,
+mscL,,,
+msm-1_full,,,
+msm-1_key,,,
+msm-2_full,,,
+msm-2_key,,,
+mthK,,,
+mtl-1_full,,,
+mtl-1_partial,,,
+mtl-2_full,,,
+mtl-2_partial,,,
+mtr-2,,,
+mtrD,,,
+mts_full,,,
+mts_key,,,
+mur_full,,,
+mur_partial,,,
+nag_full,,,
+nag_partial,,,
+nat-1_full,,,
+nat-1_key,,,
+nat-2_full,,,
+nat-2_key,,,
+nepI,,,
+ngc_full,,,
+ngc_key,,,
+nhaA,,,
+nhaB,,,
+nhaC,,,
+niaX,,,
+nik_full,,,
+nik_key,,,
+nirC,,,
+nis_full,,,
+nis_partial,,,
+nisA,,,
+nitregulatory_full,,,
+nitregulatory_partial,,,
+nixA,,,
+nod_full,,,
+nod_partial,,,
+nos_full,,,
+nos_key,,,
+nrsA,,,
+nrt_full,,,
+nrt_key,,,
+nuk_full,,,
+nuk_partial,,,
+nupC,,,
+nupG,,,
+nupX,,,
+occ_full,,,
+occ_key,,,
+oleC_full,,,
+oleC_key,,,
+ompA,,,
+opmD_key,,,
+opmE,,,
+opp-1_full,,,
+opp-1_key,,,
+oprB,,,
+oprD,,,
+oprN,,,
+oprO_P,,,
+opu_and,,,
+opu_key,,,
+oqxB,,,
+oxlT,,,
+pa_full,,,
+pa_partial,,,
+paa,,,
+panF,,,
+pbuE,,,
+pbuG,,,
+peb_full,,,
+peb_key,,,
+pha_full,,,
+pha_partial,,,
+pheP,,,
+phn-1_full,,,
+phn-1_partial,,,
+phn-2_full,,,
+phn-2_partial,,,
+pho84,,,
+phoE,,,
+pit,,,
+pro_and,,,
+pro_key,,,
+proP,,,
+proY,,,
+pslD,,,
+pst_full,,,
+pst_partial,,,
+psuT,,,
+pucJ,,,
+putP,,,
+puuP,,,
+pvdE,,,
+rbs_full,,,
+rbs_key,,,
+rbsU,,,
+rcnA,,,
+rha-1_full,,,
+rha-1_key,,,
+rha-2,,,
+rhtA,,,
+rhtB,,,
+rhtC,,,
+rib_full,,,
+rib_partial,,,
+rocE,,,
+rutG,,,
+sam,,,
+sap_full,,,
+sap_key,,,
+satP,,,
+scr_full,,,
+scr_partial,,,
+scrY,,,
+sdaC,,,
+sit_full,,,
+sit_key,,,
+sme_full,,,
+sme_partial,,,
+sor_full,,,
+sor_partial,,,
+sotB,,,
+sstT,,,
+ssu_full,,,
+ssu_key,,,
+ste_full,,,
+ste_partial,,,
+sug-1_full,,,
+sug-1_partial,,,
+sug-2_full,,,
+sug-2_partial,,,
+syrD,,,
+tag_full,,,
+tag_key,,,
+tau_full,,,
+tau_key,,,
+tc_2.A.76.1.6,,,
+tc.aat,,,
+tc.agcs,,,
+tc.apa,,,
+tc.bat2,,,
+tc.citmhs,,,
+tc.cnt,,,
+tc.dass,,,
+tc.dme,,,
+tc.fev,,,
+tc.gntp,,,
+tc.gph,,,
+tc.hae1,,,
+tc.livcs,,,
+tc.ncs1,,,
+tc.ncs2,,,
+tc.nss,,,
+tc.pot,,,
+tc.sss,,,
+tc.sulp,,,
+tc2.A.86.1.7,,,
+tct_full,,,
+tct_partial,,,
+tcy-1_full,,,
+tcy-1_key,,,
+tcy-2_full,,,
+tcy-2_partial,,,
+tdcC,,,
+tehA,,,
+tet35,,,
+thi_full,,,
+thi_key,,,
+thiT,,,
+thu_full,,,
+thu_key,,,
+tnaB,,,
+tog_full,,,
+tog_key,,,
+togT,,,
+tol_full,,,
+tol_partial,,,
+treE_full,,,
+treE_partial,,,
+triC,,,
+trkA,,,
+trkH,,,
+tro_full,,,
+tro_key,,,
+trp_full,,,
+trp_key,,,
+tsx,,,
+ttdT,,,
+tuaB,,,
+tup_full,,,
+tup_key,,,
+tutB,,,
+tyrP,,,
+ugp_and,,,
+ugp_key,,,
+uhpC,,,
+uid-1,,,
+uid-2,,,
+ula_full,,,
+ula_partial,,,
+uraA,,,
+urt_full,,,
+urt_key,,,
+utp,,,
+vb1x_and,,,
+vb1x_key,,,
+vex_full,,,
+vex_key,,,
+vexA,,,
+vexF,,,
+vpsM,,,
+vpsN,,,
+wtp_full,,,
+wtp_key,,,
+wza,,,
+wzxC,,,
+xanP,,,
+xanQ,,,
+xapB,,,
+xlt_full,,,
+xlt_key,,,
+xyl_full,,,
+xyl_key,,,
+xylE,,,
+yad_full,,,
+yad_partial,,,
+yahN,,,
+ydjE,,,
+yia_full,,,
+yia_partial,,,
+yjbB,,,
+yjeH,,,
+ykk_full,,,
+ykk_partial,,,
+ylnA,,,
+ynfM,,,
+yojI,,,
+yqgE,,,
+yrbG,,,
+ytr_full,,,
+ytr_partial,,,
+yuiF,,,
+yxjA,,,
+yyd_full,,,
+yyd_partial,,,
+zipB,,,
+zm_full,,,
+zm_key,,,
+zntB,,,
+znu_full,,,
+znu_key,,,
+GH1,,,
+GH2,,,
+GH3,,,
+GH4,,,
+GH5,,,
+GH6,,,
+GH7,,,
+GH8,,,
+GH9,,,
+GH10,,,
+GH11,,,
+GH12,,,
+GH16,,,
+GH18,,,
+GH19,,,
+GH20,,,
+GH23,,,
+GH26,,,
+GH27,,,
+GH30,,,
+GH31,,,
+GH36,,,
+GH39,,,
+GH43,,,
+GH44,,,
+GH45,,,
+GH48,,,
+GH51,,,
+GH52,,,
+GH54,,,
+GH62,,,
+GH74,,,
+GH79,,,
+GH97,,,
+GH98,,,
+GH124,,,
+GH110,,,
+GH113,,,
+GH116,,,
+GH120,,,
+GH134,,,
+ggt,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+pepA_M17,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+pepN,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+pepT,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+pip,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+pepA_M42,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+pepP,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+map,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+dmpA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+pepD_M20,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+pepD_S1,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+pepQ,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+pepX,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+dcp,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+cpg,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+ldcA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+E3.4.17.19,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+pcp,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+iadA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+yqgT,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+sspA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+E3.4.21.50,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+lon,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+iga_hap,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+ptrB,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+clpP,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+iga_zmpA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+ptrA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+prlC,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+hslV,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+bepA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+cpaA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+hofD,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+pilD,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+lepB,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+lspA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+psmA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+psmB,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+hyaD,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+prc,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+hflB,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+lonB,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+hhoB,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+lonH,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+degP,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+degQ,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+sppA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+sohB,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+ydgD,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+pfpI,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+E3.4.11.10,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+pepE,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+cpt,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+gpr,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+spoIIGA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+preP,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+dacC,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+dacB,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+vanY,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+mepA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+pbpG,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+pqqL,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+pepO,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+loiP,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+pepB,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+flaK,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+prtC_M10,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+prtC_U32,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+hycI,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+ypdF,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+pgtE,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+tpr,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+yopJ,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+yopT,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+pepF,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+E3.4.17.14,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+vanX,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+lasA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+zmpB_M26,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+zmpB_M4,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+lef,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+scpA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+pepDA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+tri,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+nprB,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+mtfA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+rseP,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+cps,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+iaaA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+wprA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+isp,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+bpr,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+epr,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+sipW,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+avrRpt2,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+avrPphB,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+icsP,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+mepS,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+trf2_3,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+aprE1,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+aprE2,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+vpr,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+dppA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+erfK,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+yydH,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+cwlK,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+aprX,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+frvX,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+sprE,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+ptpA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+vanXY,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+ampH,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+cwlS,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+lytF,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+lytE,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+gluP,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+ynhG,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+ybiS,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+ycfS,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+mepH,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+mepM,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+mpl,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+ampS,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+ywaD,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+E3.4.11.24,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+zmp1,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+alpha-LP,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+zmpA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+nisP,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+tet,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+sgcX,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+ykfC,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+E3.4.24.32,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+bapA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+E3.4.21.121,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+impA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+pbp4b,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+ycbB,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+cwlO,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+lytH,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+ripA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+ripB,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+hpxW,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+E3.4.24.33,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+pipA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+tpdA,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+prsW,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+patG,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation,Resource Acquisition:Substrate degradation:simple compound degradation:protein degradation
+glycolysis-ED_full,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation,Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation:ED pathway
+glycolysis-EMP_full,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation,Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation:EMP pathway
+fructose degradation,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation,Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation:fructose degradation
+fucose degradation,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation,Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation:fucose degradation
+maltose degradation,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation,Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation:maltose degradation
+galactose degradation,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation,Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation:galactose degradation
+mannose degradation,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation,Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation:mannose degradation
+trehalose degradation,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation,Resource Acquisition:Substrate degradation:simple compound degradation:carbohydrate degradation:trehalose degradation
+galacturonate degradation,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:sugar acid degradation,Resource Acquisition:Substrate degradation:simple compound degradation:sugar acid degradation:galacturonate degradation
+glucuronate degradation,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:sugar acid degradation,Resource Acquisition:Substrate degradation:simple compound degradation:sugar acid degradation:glucuronate degradation
+glycerol degradation,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:alcohol degradation,Resource Acquisition:Substrate degradation:simple compound degradation:alcohol degradation:glycerol degradation
+resorcinol degradation,Resource Acquisition:Substrate degradation:simple compound degradation,Resource Acquisition:Substrate degradation:simple compound degradation:phenol degradation,Resource Acquisition:Substrate degradation:simple compound degradation:phenol degradation:resorcinol degradation
+cc_key,Resource Acquisition:Substrate assimilation:C1 compounds,Resource Acquisition:Substrate assimilation:C1 compounds:CO2 fixation,Resource Acquisition:Substrate assimilation:C1 compounds:CO2 fixation:Calvin Cycle
+3hpb1_key1,Resource Acquisition:Substrate assimilation:C1 compounds,Resource Acquisition:Substrate assimilation:C1 compounds:CO2 fixation,Resource Acquisition:Substrate assimilation:C1 compounds:CO2 fixation:3-hydroxypropionate pathway
+3hp4hb_key1,Resource Acquisition:Substrate assimilation:C1 compounds,Resource Acquisition:Substrate assimilation:C1 compounds:CO2 fixation,Resource Acquisition:Substrate assimilation:C1 compounds:CO2 fixation:3-hydroxypropionate/4-hydroxybutyrate pathway
+dicarb-4hb_CO2fixation,Resource Acquisition:Substrate assimilation:C1 compounds,Resource Acquisition:Substrate assimilation:C1 compounds:CO2 fixation,Resource Acquisition:Substrate assimilation:C1 compounds:CO2 fixation:dicarboxylate-hydroxybutyrate pathway
+rac_key1,Resource Acquisition:Substrate assimilation:C1 compounds,Resource Acquisition:Substrate assimilation:C1 compounds:CO2 fixation,Resource Acquisition:Substrate assimilation:C1 compounds:CO2 fixation:reductive acetyl-CoA pathway
+rca_key1,Resource Acquisition:Substrate assimilation:C1 compounds,Resource Acquisition:Substrate assimilation:C1 compounds:CO2 fixation,Resource Acquisition:Substrate assimilation:C1 compounds:CO2 fixation:reductive citric acid pathway
+carboxysome,Resource Acquisition:Substrate assimilation:C1 compounds,Resource Acquisition:Substrate assimilation:C1 compounds:CO2 fixation,Resource Acquisition:Substrate assimilation:C1 compounds:CO2 fixation:carboxysome
+CH2O->HCOO-,Resource Acquisition:Substrate assimilation:C1 compounds,Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy,Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy:formaldehyde oxidation pathway
+CH4->CH3OH,Resource Acquisition:Substrate assimilation:C1 compounds,Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy,Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy:methane oxidation pathway
+CH3OH->CH2O,Resource Acquisition:Substrate assimilation:C1 compounds,Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy,Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy:methanol oxidation pathway
+serine pathway,Resource Acquisition:Substrate assimilation:C1 compounds,Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy,Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy:formaldehyde assimilation with serine pathway
+RuMP pathway,Resource Acquisition:Substrate assimilation:C1 compounds,Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy,Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy:formaldehyde assimilation with RuMP pathway
+PHB cycle,Resource Acquisition:Substrate assimilation:C1 compounds,Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy,Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy:PHB cycle
+H4MPT pathway,Resource Acquisition:Substrate assimilation:C1 compounds,Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy,Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy:H4MPT pathway
+H4F pathway,Resource Acquisition:Substrate assimilation:C1 compounds,Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy,Resource Acquisition:Substrate assimilation:C1 compounds:methanotrophy:H4F pathway
+nitrate->nitrite_assimilatory_full,Resource Acquisition:Substrate assimilation:N compounds,Resource Acquisition:Substrate assimilation:N compounds:assimilatory nitrate reduction,Resource Acquisition:Substrate assimilation:N compounds:assimilatory nitrate reduction
+nitrogen fixation_key,Resource Acquisition:Substrate assimilation:N compounds,Resource Acquisition:Substrate assimilation:N compounds:nitrogen fixation,Resource Acquisition:Substrate assimilation:N compounds:nitrogen fixation
+glutamine to aspartate,Resource Acquisition:Substrate assimilation:N compounds,Resource Acquisition:Substrate assimilation:N compounds:ammonia assimilation,Resource Acquisition:Substrate assimilation:N compounds:ammonia assimilation to aspartate
+ammonia assimilation to glutamate,Resource Acquisition:Substrate assimilation:N compounds,Resource Acquisition:Substrate assimilation:N compounds:ammonia assimilation,Resource Acquisition:Substrate assimilation:N compounds:ammonia assimilation to glutamate
+ammonia assimilation to glutamine-GS,Resource Acquisition:Substrate assimilation:N compounds,Resource Acquisition:Substrate assimilation:N compounds:ammonia assimilation,Resource Acquisition:Substrate assimilation:N compounds:ammonia assimilation to glutamine
+sulfite->sulfide-assimilatory_or,Resource Acquisition:Substrate assimilation:S compounds,Resource Acquisition:Substrate assimilation:S compounds:assimilatory sulfate reduction,Resource Acquisition:Substrate assimilation:S compounds:assimilatory sulfate reduction
+phosphatase,Resource Acquisition:Substrate assimilation:P compounds,Resource Acquisition:Substrate assimilation:P compounds,Resource Acquisition:Substrate assimilation:P compounds:phosphatase
+phytase,Resource Acquisition:Substrate assimilation:P compounds,Resource Acquisition:Substrate assimilation:P compounds,Resource Acquisition:Substrate assimilation:P compounds:phytase
+katE,Stress Tolerance:General,Stress Tolerance:General:scavenging of reactive oxygen species,Stress Tolerance:General:scavenging of reactive oxygen species:ROS scavenging enzymes
+katG,Stress Tolerance:General,Stress Tolerance:General:scavenging of reactive oxygen species,Stress Tolerance:General:scavenging of reactive oxygen species:ROS scavenging enzymes
+alginate biosynthesis/transport,Stress Tolerance:General,Stress Tolerance:General:biofilm formation,Stress Tolerance:General:biofilm formation:EPS biosynthesis/export
+Psl polysaccharide biosynthesis/export,Stress Tolerance:General,Stress Tolerance:General:biofilm formation,Stress Tolerance:General:biofilm formation:EPS biosynthesis/export
+Pel polysaccharide biosynthesis/export,Stress Tolerance:General,Stress Tolerance:General:biofilm formation,Stress Tolerance:General:biofilm formation:EPS biosynthesis/export
+Vi polysaccharide biosynthesis/export,Stress Tolerance:General,Stress Tolerance:General:biofilm formation,Stress Tolerance:General:biofilm formation:EPS biosynthesis/export
+lipopolysaccharide assembly/export,Stress Tolerance:General,Stress Tolerance:General:biofilm formation,Stress Tolerance:General:biofilm formation:EPS biosynthesis/export
+colanic acid biosynthesis/exporter,Stress Tolerance:General,Stress Tolerance:General:biofilm formation,Stress Tolerance:General:biofilm formation:EPS biosynthesis/export
+exopolysaccharide production,Stress Tolerance:General,Stress Tolerance:General:biofilm formation,Stress Tolerance:General:biofilm formation:EPS biosynthesis/export
+hsp10,Stress Tolerance:General,"Stress Tolerance:General:protection, repair, degradation of denatured/misfolded proteins","Stress Tolerance:General:protection, repair, degradation of denatured/misfolded proteins:heat shock proteins"
+hsp24,Stress Tolerance:General,"Stress Tolerance:General:protection, repair, degradation of denatured/misfolded proteins","Stress Tolerance:General:protection, repair, degradation of denatured/misfolded proteins:heat shock proteins"
+hsp40,Stress Tolerance:General,"Stress Tolerance:General:protection, repair, degradation of denatured/misfolded proteins","Stress Tolerance:General:protection, repair, degradation of denatured/misfolded proteins:heat shock proteins"
+hsp60,Stress Tolerance:General,"Stress Tolerance:General:protection, repair, degradation of denatured/misfolded proteins","Stress Tolerance:General:protection, repair, degradation of denatured/misfolded proteins:heat shock proteins"
+hsp70,Stress Tolerance:General,"Stress Tolerance:General:protection, repair, degradation of denatured/misfolded proteins","Stress Tolerance:General:protection, repair, degradation of denatured/misfolded proteins:heat shock proteins"
+hsp100_or,Stress Tolerance:General,"Stress Tolerance:General:protection, repair, degradation of denatured/misfolded proteins","Stress Tolerance:General:protection, repair, degradation of denatured/misfolded proteins:ATP-dependent proteases"
+lon_or,Stress Tolerance:General,"Stress Tolerance:General:protection, repair, degradation of denatured/misfolded proteins","Stress Tolerance:General:protection, repair, degradation of denatured/misfolded proteins:ATP-dependent proteases"
+hsp10,Stress Tolerance:Specific:temperature:high,"Stress Tolerance:Specific:temperature:high:protection, repair, degradation of denatured/misfolded proteins","Stress Tolerance:Specific:temperature:high:protection, repair, degradation of denatured/misfolded proteins:heat shock proteins"
+hsp24,Stress Tolerance:Specific:temperature:high,"Stress Tolerance:Specific:temperature:high:protection, repair, degradation of denatured/misfolded proteins","Stress Tolerance:Specific:temperature:high:protection, repair, degradation of denatured/misfolded proteins:heat shock proteins"
+hsp40,Stress Tolerance:Specific:temperature:high,"Stress Tolerance:Specific:temperature:high:protection, repair, degradation of denatured/misfolded proteins","Stress Tolerance:Specific:temperature:high:protection, repair, degradation of denatured/misfolded proteins:heat shock proteins"
+hsp60,Stress Tolerance:Specific:temperature:high,"Stress Tolerance:Specific:temperature:high:protection, repair, degradation of denatured/misfolded proteins","Stress Tolerance:Specific:temperature:high:protection, repair, degradation of denatured/misfolded proteins:heat shock proteins"
+hsp70,Stress Tolerance:Specific:temperature:high,"Stress Tolerance:Specific:temperature:high:protection, repair, degradation of denatured/misfolded proteins","Stress Tolerance:Specific:temperature:high:protection, repair, degradation of denatured/misfolded proteins:heat shock proteins"
+hsp100_or,Stress Tolerance:Specific:temperature:high,"Stress Tolerance:Specific:temperature:high:protection, repair, degradation of denatured/misfolded proteins","Stress Tolerance:Specific:temperature:high:protection, repair, degradation of denatured/misfolded proteins:ATP-dependent proteases"
+lon_or,Stress Tolerance:Specific:temperature:high,"Stress Tolerance:Specific:temperature:high:protection, repair, degradation of denatured/misfolded proteins","Stress Tolerance:Specific:temperature:high:protection, repair, degradation of denatured/misfolded proteins:ATP-dependent proteases"
+heatinducibleTF,Stress Tolerance:Specific:temperature:high,Stress Tolerance:Specific:temperature:high:heat-induced transcriptional regulation,Stress Tolerance:Specific:temperature:high:heat-induced transcriptional regulation:heat induced transcription factor
+desA,Stress Tolerance:Specific:temperature:low,Stress Tolerance:Specific:temperature:low:membrane stabilization,Stress Tolerance:Specific:temperature:low:membrane stabilization:fatty acid desaturase
+cspA,Stress Tolerance:Specific:temperature:low,Stress Tolerance:Specific:temperature:low:destabilization of secondary structures in mRNAs,Stress Tolerance:Specific:temperature:low:destabilization of secondary structures in mRNAs:mRNA chaperone
+pnp,Stress Tolerance:Specific:temperature:low,Stress Tolerance:Specific:temperature:low:destabilization of secondary structures in mRNAs,Stress Tolerance:Specific:temperature:low:destabilization of secondary structures in mRNAs:mRNA stabilization
+deaD,Stress Tolerance:Specific:temperature:low,Stress Tolerance:Specific:temperature:low:destabilization of secondary structures in mRNAs,Stress Tolerance:Specific:temperature:low:destabilization of secondary structures in mRNAs:RNA degradation
+rnr,Stress Tolerance:Specific:temperature:low,Stress Tolerance:Specific:temperature:low:destabilization of secondary structures in mRNAs,Stress Tolerance:Specific:temperature:low:destabilization of secondary structures in mRNAs:RNA degradation
+desKR,Stress Tolerance:Specific:temperature:low,Stress Tolerance:Specific:temperature:low:cold-sensing machinery,Stress Tolerance:Specific:temperature:low:cold-sensing machinery:cold sensing two-component system
+proline_biosynthesis,Stress Tolerance:Specific:desiccation/osmotic/salt stress,Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes,Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes:synthesis of compatible solutes
+trehalose_biosynthesis,Stress Tolerance:Specific:desiccation/osmotic/salt stress,Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes,Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes:synthesis of compatible solutes
+betaine_biosynthesis,Stress Tolerance:Specific:desiccation/osmotic/salt stress,Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes,Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes:synthesis of compatible solutes
+glucosylglycerate_biosynthesis,Stress Tolerance:Specific:desiccation/osmotic/salt stress,Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes,Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes:synthesis of compatible solutes
+mannosylglucosylglycerate_biosynthesis,Stress Tolerance:Specific:desiccation/osmotic/salt stress,Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes,Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes:synthesis of compatible solutes
+mannosylglycerate_biosynthesis,Stress Tolerance:Specific:desiccation/osmotic/salt stress,Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes,Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes:synthesis of compatible solutes
+proline transport,Stress Tolerance:Specific:desiccation/osmotic/salt stress,Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes,Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes:transport of compatible solutes
+glycine betaine/proline transport system,Stress Tolerance:Specific:desiccation/osmotic/salt stress,Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes,Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes:transport of compatible solutes
+glycine betaine transporter,Stress Tolerance:Specific:desiccation/osmotic/salt stress,Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes,Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes:transport of compatible solutes
+choline/glycine/proline betaine transport,Stress Tolerance:Specific:desiccation/osmotic/salt stress,Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes,Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes:transport of compatible solutes
+mechanosensitive channel,Stress Tolerance:Specific:desiccation/osmotic/salt stress,Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes,Stress Tolerance:Specific:desiccation/osmotic/salt stress:accumulation of compatible solutes:transport of compatible solutes
+alginate biosynthesis/transport,Stress Tolerance:Specific:desiccation/osmotic/salt stress,Stress Tolerance:Specific:desiccation/osmotic/salt stress:enhancement of microenvironment,Stress Tolerance:Specific:desiccation/osmotic/salt stress:enhancement of microenvironment:EPS biosynthesis/export
+Psl polysaccharide biosynthesis/export,Stress Tolerance:Specific:desiccation/osmotic/salt stress,Stress Tolerance:Specific:desiccation/osmotic/salt stress:enhancement of microenvironment,Stress Tolerance:Specific:desiccation/osmotic/salt stress:enhancement of microenvironment:EPS biosynthesis/export
+Pel polysaccharide biosynthesis/export,Stress Tolerance:Specific:desiccation/osmotic/salt stress,Stress Tolerance:Specific:desiccation/osmotic/salt stress:enhancement of microenvironment,Stress Tolerance:Specific:desiccation/osmotic/salt stress:enhancement of microenvironment:EPS biosynthesis/export
+Vi polysaccharide biosynthesis/export,Stress Tolerance:Specific:desiccation/osmotic/salt stress,Stress Tolerance:Specific:desiccation/osmotic/salt stress:enhancement of microenvironment,Stress Tolerance:Specific:desiccation/osmotic/salt stress:enhancement of microenvironment:EPS biosynthesis/export
+lipopolysaccharide assembly/export,Stress Tolerance:Specific:desiccation/osmotic/salt stress,Stress Tolerance:Specific:desiccation/osmotic/salt stress:enhancement of microenvironment,Stress Tolerance:Specific:desiccation/osmotic/salt stress:enhancement of microenvironment:EPS biosynthesis/export
+colanic acid biosynthesis/exporter,Stress Tolerance:Specific:desiccation/osmotic/salt stress,Stress Tolerance:Specific:desiccation/osmotic/salt stress:enhancement of microenvironment,Stress Tolerance:Specific:desiccation/osmotic/salt stress:enhancement of microenvironment:EPS biosynthesis/export
+exopolysaccharide production,Stress Tolerance:Specific:desiccation/osmotic/salt stress,Stress Tolerance:Specific:desiccation/osmotic/salt stress:enhancement of microenvironment,Stress Tolerance:Specific:desiccation/osmotic/salt stress:enhancement of microenvironment:EPS biosynthesis/export
+phoQP_and,Stress Tolerance:Specific:desiccation/osmotic/salt stress,Stress Tolerance:Specific:desiccation/osmotic/salt stress:osmotic sensing,"Stress Tolerance:Specific:desiccation/osmotic/salt stress:osmotic sensing:two-component systems, osmotic sensors salt/potassium sensors"
+hsp100_or,Stress Tolerance:Specific:pH stress,"Stress Tolerance:Specific:pH stress:protection, repair, degradation of denatured/misfolded proteins","Stress Tolerance:Specific:pH stress:protection, repair, degradation of denatured/misfolded proteins:ATP-dependent proteases"
+lon_or,Stress Tolerance:Specific:pH stress,"Stress Tolerance:Specific:pH stress:protection, repair, degradation of denatured/misfolded proteins","Stress Tolerance:Specific:pH stress:protection, repair, degradation of denatured/misfolded proteins:ATP-dependent proteases"
+hdeAB,Stress Tolerance:Specific:pH stress,"Stress Tolerance:Specific:pH stress:protection, repair, degradation of denatured/misfolded proteins","Stress Tolerance:Specific:pH stress:protection, repair, degradation of denatured/misfolded proteins:periplasmic acid resistance protein"
+cfa,Stress Tolerance:Specific:pH stress,Stress Tolerance:Specific:pH stress:membrane stabilization,Stress Tolerance:Specific:pH stress:membrane stabilization:cyclopropane fatty acid (CFA) synthase
+TF_redox,Stress Tolerance:Specific:pH stress,Stress Tolerance:Specific:pH stress:redox sensing,Stress Tolerance:Specific:pH stress:redox sensing:redox sensitive transcription factor
+nrsSR,Stress Tolerance:Specific:pH stress,Stress Tolerance:Specific:pH stress:redox sensing,Stress Tolerance:Specific:pH stress:redox sensing:redox sensing two component systems
+arcAB,Stress Tolerance:Specific:pH stress,Stress Tolerance:Specific:pH stress:redox sensing,Stress Tolerance:Specific:pH stress:redox sensing:redox sensing two component systems
+devSR,Stress Tolerance:Specific:pH stress,Stress Tolerance:Specific:pH stress:redox sensing,Stress Tolerance:Specific:pH stress:redox sensing:redox sensing two component systems
+regAB,Stress Tolerance:Specific:pH stress,Stress Tolerance:Specific:pH stress:redox sensing,Stress Tolerance:Specific:pH stress:redox sensing:redox sensing two component systems
+urease,Stress Tolerance:Specific:pH stress,Stress Tolerance:Specific:pH stress:consumption of excessive cytoplasmic protons,Stress Tolerance:Specific:pH stress:consumption of excessive cytoplasmic protons:urease system
+arginine amidinase,Stress Tolerance:Specific:pH stress,Stress Tolerance:Specific:pH stress:consumption of excessive cytoplasmic protons,Stress Tolerance:Specific:pH stress:consumption of excessive cytoplasmic protons:decarboxylase and antiporter systems
+arginine decarboxylase,Stress Tolerance:Specific:pH stress,Stress Tolerance:Specific:pH stress:consumption of excessive cytoplasmic protons,Stress Tolerance:Specific:pH stress:consumption of excessive cytoplasmic protons:decarboxylase and antiporter systems
+arginine antiporter,Stress Tolerance:Specific:pH stress,Stress Tolerance:Specific:pH stress:consumption of excessive cytoplasmic protons,Stress Tolerance:Specific:pH stress:consumption of excessive cytoplasmic protons:decarboxylase and antiporter systems
+glutamate dependent acid tolerance,Stress Tolerance:Specific:pH stress,Stress Tolerance:Specific:pH stress:consumption of excessive cytoplasmic protons,Stress Tolerance:Specific:pH stress:consumption of excessive cytoplasmic protons:decarboxylase and antiporter systems
+glutaminase,Stress Tolerance:Specific:pH stress,Stress Tolerance:Specific:pH stress:consumption of excessive cytoplasmic protons,Stress Tolerance:Specific:pH stress:consumption of excessive cytoplasmic protons:decarboxylase and antiporter systems
+lysine decarboxylase,Stress Tolerance:Specific:pH stress,Stress Tolerance:Specific:pH stress:consumption of excessive cytoplasmic protons,Stress Tolerance:Specific:pH stress:consumption of excessive cytoplasmic protons:decarboxylase and antiporter systems
+lysine antiporter,Stress Tolerance:Specific:pH stress,Stress Tolerance:Specific:pH stress:consumption of excessive cytoplasmic protons,Stress Tolerance:Specific:pH stress:consumption of excessive cytoplasmic protons:decarboxylase and antiporter systems
+ornithine decarboxylase,Stress Tolerance:Specific:pH stress,Stress Tolerance:Specific:pH stress:consumption of excessive cytoplasmic protons,Stress Tolerance:Specific:pH stress:consumption of excessive cytoplasmic protons:decarboxylase and antiporter systems
+ornithine antiporter,Stress Tolerance:Specific:pH stress,Stress Tolerance:Specific:pH stress:consumption of excessive cytoplasmic protons,Stress Tolerance:Specific:pH stress:consumption of excessive cytoplasmic protons:decarboxylase and antiporter systems
+katE,Stress Tolerance:Specific:oxidative stress,Stress Tolerance:Specific:oxidative stress:scavenging of reactive oxygen species,Stress Tolerance:Specific:oxidative stress:scavenging of reactive oxygen species:ROS scavenging enzymes
+katG,Stress Tolerance:Specific:oxidative stress,Stress Tolerance:Specific:oxidative stress:scavenging of reactive oxygen species,Stress Tolerance:Specific:oxidative stress:scavenging of reactive oxygen species:ROS scavenging enzymes
+sodA,Stress Tolerance:Specific:oxidative stress,Stress Tolerance:Specific:oxidative stress:scavenging of reactive oxygen species,Stress Tolerance:Specific:oxidative stress:scavenging of reactive oxygen species:ROS scavenging enzymes
+ahpCF,Stress Tolerance:Specific:oxidative stress,Stress Tolerance:Specific:oxidative stress:scavenging of reactive oxygen species,Stress Tolerance:Specific:oxidative stress:scavenging of reactive oxygen species:ROS scavenging enzymes
+nrsSR,Stress Tolerance:Specific:oxidative stress,Stress Tolerance:Specific:oxidative stress:redox sensing,Stress Tolerance:Specific:oxidative stress:redox sensing:redox sensing two component systems
+arcAB,Stress Tolerance:Specific:oxidative stress,Stress Tolerance:Specific:oxidative stress:redox sensing,Stress Tolerance:Specific:oxidative stress:redox sensing:redox sensing two component systems
+devSR,Stress Tolerance:Specific:oxidative stress,Stress Tolerance:Specific:oxidative stress:redox sensing,Stress Tolerance:Specific:oxidative stress:redox sensing:redox sensing two component systems
+regAB,Stress Tolerance:Specific:oxidative stress,Stress Tolerance:Specific:oxidative stress:redox sensing,Stress Tolerance:Specific:oxidative stress:redox sensing:redox sensing two component systems
+nrsSR,Stress Tolerance:Specific:oxygen limitation,Stress Tolerance:Specific:oxygen limitation:redox sensing,Stress Tolerance:Specific:oxygen limitation:redox sensing:redox sensing two component systems
+arcAB,Stress Tolerance:Specific:oxygen limitation,Stress Tolerance:Specific:oxygen limitation:redox sensing,Stress Tolerance:Specific:oxygen limitation:redox sensing:redox sensing two component systems
+devSR,Stress Tolerance:Specific:oxygen limitation,Stress Tolerance:Specific:oxygen limitation:redox sensing,Stress Tolerance:Specific:oxygen limitation:redox sensing:redox sensing two component systems
+regAB,Stress Tolerance:Specific:oxygen limitation,Stress Tolerance:Specific:oxygen limitation:redox sensing,Stress Tolerance:Specific:oxygen limitation:redox sensing:redox sensing two component systems
+resED,Stress Tolerance:Specific:oxygen limitation,Stress Tolerance:Specific:oxygen limitation:oxygen sensing,Stress Tolerance:Specific:oxygen limitation:oxygen sensing:oxygen sensing two component systems
+prrAB,Stress Tolerance:Specific:oxygen limitation,Stress Tolerance:Specific:oxygen limitation:oxygen sensing,Stress Tolerance:Specific:oxygen limitation:oxygen sensing:oxygen sensing two component systems
+nreB,Stress Tolerance:Specific:oxygen limitation,Stress Tolerance:Specific:oxygen limitation:oxygen sensing,Stress Tolerance:Specific:oxygen limitation:oxygen sensing:oxygen sensing two component systems
+baeRS,Stress Tolerance:Specific:envelope stress,Stress Tolerance:Specific:envelope stress:misfolded protein/secretion stress sensing,Stress Tolerance:Specific:envelope stress:misfolded protein/secretion stress sensing:misfolded proteins/secretion stress two component systems
+cpxAR,Stress Tolerance:Specific:envelope stress,Stress Tolerance:Specific:envelope stress:misfolded protein/secretion stress sensing,Stress Tolerance:Specific:envelope stress:misfolded protein/secretion stress sensing:misfolded proteins/secretion stress two component systems
+cpxP,Stress Tolerance:Specific:envelope stress,Stress Tolerance:Specific:envelope stress:misfolded protein/secretion stress sensing,Stress Tolerance:Specific:envelope stress:misfolded protein/secretion stress sensing:misfolded proteins/secretion stress two component systems
+phage shock protein,Stress Tolerance:Specific:envelope stress,Stress Tolerance:Specific:envelope stress:phage resistance,Stress Tolerance:Specific:envelope stress:phage resistance:phage-shock system
+acetoacetyl-CoA->acetone,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation:fermentation of pyruvate,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation of pyruvate to acetone
+pyruvate->lactate and ethanol,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation:fermentation of pyruvate,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation of pyruvate to lactate and ethanol
+pyruvate->alcohols,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation:fermentation of pyruvate,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation of pyruvate to alcohols
+pyruvate->SCFAs,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation:fermentation of pyruvate,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation of pyruvate to SCFAs
+pyruvate->butyleneglycol,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation:fermentation of pyruvate,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation of pyruvate to butylene glycol
+pyruvate->butanol,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation:fermentation of pyruvate,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation of pyruvate to isobutanol
+acetylene->acetate,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation:fermentation of acetylene,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation of acetylene to acetate
+acetylene->acetate+ethanol,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation:fermentation of acetylene,Resource Use:Chemotrophy:chemoorganoheterotrophy:fermentation of acetylene to acetate and ethanol
+oxppp,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration:oxidative pentose phosphate pathway
+nonoxppp,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration:nonoxidative pentose phosphate pathway
+glyoxylatecycle_full,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration:glyoxylate cycle
+TCA cycle_full,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration:TCA cycle
+ETC_complexI,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration:electron transport chain: ETC complex I
+ETC_complexII,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration:electron transport chain: ETC complex II
+ETC_complexIII,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration:electron transport chain: ETC complex III
+ETC_complexIV,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration,Resource Use:Chemotrophy:chemoorganoheterotrophy:aerobic respiration:electron transport chain: ETC complex IV
+nitrate->nitrite_dissimilatory_full,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:N (denitrification),Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:N (denitrification):denitrification to nitrite
+nitrate->nitricoxide_complete,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:N (denitrification),Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:N (denitrification):denitrification to nitric oxide
+nitrate->nitrousoxide_complete,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:N (denitrification),Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:N (denitrification):denitrification to nitrous oxide
+nitrate->dinitrogen_complete,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:N (denitrification),Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:N (denitrification):denitrification to nitrogen
+sulfur->sulfide-reduction,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:S compounds,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:S as terminal electron acceptor:sulfur
+sulfate->sulfide-reduction,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:S compounds,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:S as terminal electron acceptor:sulfate
+sulfite->sulfide-reduction,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:S compounds,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:S as terminal electron acceptor:sulfite
+DMSO->DMS_and,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:S compounds,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:S as terminal electron acceptor:DMSO
+DMSP->DMS,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:S compounds,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:S as terminal electron acceptor:DMSP
+thiosulfate->sulfite+sulfide-disproportionation,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:S compounds,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:S as terminal electron acceptor:thiosulfate
+tetrathionate->thiosulfate-reduction,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:S compounds,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:S as terminal electron acceptor:tetrathionate
+iron reduction,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:Fe,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:Fe as terminal electron acceptor:ferric ion
+arsenate->arsenite,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:As,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:As as terminal electron acceptor:arsenate
+selenate->selenite_and,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:Se,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:Se as terminal electron acceptor:selenate
+hydrogenotrophic methanogenesis_partial,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:hydrogenotrophic methanogenesis,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:hydrogenotrophic methanogenesis
+acetoclastic methanogenesis_key,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:acetoclastic methanogenesis,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:acetoclastic methanogenesis
+methanethiol->methylCoM,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:methylotrophic methanogenesis,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:methylotrophic methanogenesis:from methanethiol
+methanol->methylCoM_or,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:methylotrophic methanogenesis,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:methylotrophic methanogenesis:from methanol
+TMAO->trimethylamine,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:methylotrophic methanogenesis,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:methylotrophic methanogenesis:from TMAO
+monomethylamine->methylCoM-direct_or,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:methylotrophic methanogenesis,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:methylotrophic methanogenesis:from monomethylamine
+dimethylamine->methylCoM,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:methylotrophic methanogenesis,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:methylotrophic methanogenesis:from dimethylamine
+trimethylamine->methylCoM,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:methylotrophic methanogenesis,Resource Use:Chemotrophy:chemolithoheterotrophy:anaerobic respiration:methylotrophic methanogenesis:from trimethylamine
+ammonia oxidation to dinitrogen_partial,Resource Use:Chemotrophy:chemolithoautotrophy,Resource Use:Chemotrophy:chemolithoautotrophy:N compounds as electron donor:ammonia oxidation,Resource Use:Chemotrophy:chemolithoautotrophy:anaerobic ammonia oxidation
+ammonia oxidation to nitrite_partial,Resource Use:Chemotrophy:chemolithoautotrophy,Resource Use:Chemotrophy:chemolithoautotrophy:N compounds as electron donor:ammonia oxidation,Resource Use:Chemotrophy:chemolithoautotrophy:aerobic ammonia oxidation
+nitrite->nitrate_full,Resource Use:Chemotrophy:chemolithoautotrophy,Resource Use:Chemotrophy:chemolithoautotrophy:N compounds as electron donor:nitrite oxidation,Resource Use:Chemotrophy:chemolithoautotrophy:nitrite oxidation
+sulfide->sulfur-oxidation,Resource Use:Chemotrophy:chemolithoautotrophy,Resource Use:Chemotrophy:chemolithoautotrophy:S compounds as electron donor,Resource Use:Chemotrophy:chemolithoautotrophy:sulfide oxidation
+sulfur->sulfite-oxidation,Resource Use:Chemotrophy:chemolithoautotrophy,Resource Use:Chemotrophy:chemolithoautotrophy:S compounds as electron donor,Resource Use:Chemotrophy:chemolithoautotrophy:sulfur oxidation
+sulfite->sulfate-oxidation,Resource Use:Chemotrophy:chemolithoautotrophy,Resource Use:Chemotrophy:chemolithoautotrophy:S compounds as electron donor,Resource Use:Chemotrophy:chemolithoautotrophy:sulfite oxidation
+thiosulfate->tetrathionate-oxidation,Resource Use:Chemotrophy:chemolithoautotrophy,Resource Use:Chemotrophy:chemolithoautotrophy:S compounds as electron donor,Resource Use:Chemotrophy:chemolithoautotrophy:thiosulfate oxidation
+iron oxidation,Resource Use:Chemotrophy:chemolithoautotrophy,Resource Use:Chemotrophy:chemolithoautotrophy:Fe compounds as electron donor,Resource Use:Chemotrophy:chemolithoautotrophy:iron oxidation
+hydrogenotrophic methanogenesis_partial,Resource Use:Chemotrophy:chemolithoautotrophy,Resource Use:Chemotrophy:chemolithoautotrophy:H as electron donor,Resource Use:Chemotrophy:chemolithoautotrophy:hydrogenotrophy from H2/CO2
+oxygenic photosystem I,Resource Use:Phototrophy:photosystem,Resource Use:Phototrophy:photosystem:oxygenic,Resource Use:Phototrophy:photosystem:oxygenic:oxygenic photosystem I
+oxygenic photosystem II,Resource Use:Phototrophy:photosystem,Resource Use:Phototrophy:photosystem:oxygenic,Resource Use:Phototrophy:photosystem:oxygenic:oxygenic photosystem II
+cytochrome b6f,Resource Use:Phototrophy:photosystem,Resource Use:Phototrophy:photosystem:oxygenic,Resource Use:Phototrophy:photosystem:oxygenic:cytochrome b6f complex
+photosynthetic ETC,Resource Use:Phototrophy:photosystem,Resource Use:Phototrophy:photosystem:oxygenic,Resource Use:Phototrophy:photosystem:oxygenic:photosynthetic electron transport
+anoxygenic photosystem I RC,Resource Use:Phototrophy:photosystem,Resource Use:Phototrophy:photosystem:anoxygenic,Resource Use:Phototrophy:photosystem:anoxygenic:anoxygenic photosystem I
+anoxygenic photosystem II RC,Resource Use:Phototrophy:photosystem,Resource Use:Phototrophy:photosystem:anoxygenic,Resource Use:Phototrophy:photosystem:anoxygenic:anoxygenic photosystem II
+oxygenic chlorophyll a synthesis,Resource Use:Phototrophy:pigments:core,Resource Use:Phototrophy:pigments:core,Resource Use:Phototrophy:pigments:core:chlorophyll a
+bacteriochlorophyll a synthesis,Resource Use:Phototrophy:pigments:core,Resource Use:Phototrophy:pigments:core:anoxygenic,Resource Use:Phototrophy:pigments:core:anoxygenic:bacteriochlorophyll a
+bacteriochlorophyll b synthesis,Resource Use:Phototrophy:pigments:core,Resource Use:Phototrophy:pigments:core:anoxygenic,Resource Use:Phototrophy:pigments:core:anoxygenic:bacteriochlorophyll b
+bacteriochlorophyll c synthesis,Resource Use:Phototrophy:pigments:core,Resource Use:Phototrophy:pigments:core:anoxygenic,Resource Use:Phototrophy:pigments:core:anoxygenic:bacteriochlorophyll c
+bacteriochlorophyll d synthesis,Resource Use:Phototrophy:pigments:core,Resource Use:Phototrophy:pigments:core:anoxygenic,Resource Use:Phototrophy:pigments:core:anoxygenic:bacteriochlorophyll d
+bacteriochlorophyll e synthesis,Resource Use:Phototrophy:pigments:core,Resource Use:Phototrophy:pigments:core:anoxygenic,Resource Use:Phototrophy:pigments:core:anoxygenic:bacteriochlorophyll e
+bacteriochlorophyll g synthesis,Resource Use:Phototrophy:pigments:core,Resource Use:Phototrophy:pigments:core:anoxygenic,Resource Use:Phototrophy:pigments:core:anoxygenic:bacteriochlorophyll g
+neurosporene biosynthesis,Resource Use:Phototrophy:pigments:accessory,Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene,Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene:neurosporene
+lycopene biosynthesis,Resource Use:Phototrophy:pigments:accessory,Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene,Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene:lycopene
+gammacarotene biosynthesis,Resource Use:Phototrophy:pigments:accessory,Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene,Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene:gammacarotene
+chlorobactene biosynthesis,Resource Use:Phototrophy:pigments:accessory,Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene,Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene:chlorobactene
+betacarotene biosynthesis,Resource Use:Phototrophy:pigments:accessory,Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene,Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene:betacarotene
+betaisorenieratene biosynthesis,Resource Use:Phototrophy:pigments:accessory,Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene,Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene:betaisorenieratene
+isorenieratene biosynthesis,Resource Use:Phototrophy:pigments:accessory,Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene,Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene:isorenieratene
+diaponeurosporene biosynthesis,Resource Use:Phototrophy:pigments:accessory,Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene,Resource Use:Phototrophy:pigments:accessory:carotenoid:carotene:diaponeurosporene
+okenone biosynthesis,Resource Use:Phototrophy:pigments:accessory,Resource Use:Phototrophy:pigments:accessory:carotenoid:xanthophyll,Resource Use:Phototrophy:pigments:accessory:carotenoid:xanthophyll:okenone
+spirilloxanthin biosynthesis,Resource Use:Phototrophy:pigments:accessory,Resource Use:Phototrophy:pigments:accessory:carotenoid:xanthophyll,Resource Use:Phototrophy:pigments:accessory:carotenoid:xanthophyll:spirilloxanthin
+spheroidenone biosynthesis,Resource Use:Phototrophy:pigments:accessory,Resource Use:Phototrophy:pigments:accessory:carotenoid:xanthophyll,Resource Use:Phototrophy:pigments:accessory:carotenoid:xanthophyll:spheroidenone
+hydroxyspheroidenone biosynthesis,Resource Use:Phototrophy:pigments:accessory,Resource Use:Phototrophy:pigments:accessory:carotenoid:xanthophyll,Resource Use:Phototrophy:pigments:accessory:carotenoid:xanthophyll:OH-spheroidenone
+phycobilisome allophycocyanin,Resource Use:Phototrophy:pigments:accessory,Resource Use:Phototrophy:pigments:accessory:phycobiliprotein,Resource Use:Phototrophy:pigments:accessory:phycobiliprotein:allophycocyanin
+phycobilisome phycocyanin,Resource Use:Phototrophy:pigments:accessory,Resource Use:Phototrophy:pigments:accessory:phycobiliprotein,Resource Use:Phototrophy:pigments:accessory:phycobiliprotein:phycocyanin
+phycobilisome phycoerythrocyanin,Resource Use:Phototrophy:pigments:accessory,Resource Use:Phototrophy:pigments:accessory:phycobiliprotein,Resource Use:Phototrophy:pigments:accessory:phycobiliprotein:phycoerythrocyanin
+phycobilisome phycoerythrin,Resource Use:Phototrophy:pigments:accessory,Resource Use:Phototrophy:pigments:accessory:phycobiliprotein,Resource Use:Phototrophy:pigments:accessory:phycobiliprotein:phycoerythrin
+phycobilisome chlorophyll a/b,Resource Use:Phototrophy:pigments:accessory,Resource Use:Phototrophy:pigments:accessory:phycobiliprotein,Resource Use:Phototrophy:pigments:accessory:phycobiliprotein:chlorophyll a/b binding light-harvesting protein
