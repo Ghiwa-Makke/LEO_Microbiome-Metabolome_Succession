@@ -1,15 +1,15 @@
 FeatureID,Annotation_Confidence,Final_name,Final_formula,InChIKey,Final_Superclass,Final_Class,Final_Subclass,ClassyFire.level.5,NPC.pathway,NPC.superclass,NPC.class
 5.622_95.9881_HILIC,L2,Methanesulfonic acid,CH4O3S,AFVFQIVMOAPDHO-UHFFFAOYSA-N,Organic acids and derivatives,Organic sulfonic acids and derivatives,Organosulfonic acids and derivatives,NA,NA,NA,NA
-1.838_118.06303_HILIC,L2.3,3-Hydroxyisovalerate,C5H10O3,AXFYFNCPONWUHW-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Branched fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+1.838_118.06303_HILIC,L3,3-Hydroxyisovalerate,C5H10O3,AXFYFNCPONWUHW-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Branched fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
 10.808_119.05828_HILIC,L1,L-Threonine,C4H9NO3,AYFVYJQAPQTCCC-GBXIJSLDSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",NA,NA,NA,NA
 1.452_188.10488_HILIC,L1,Azelaic acid,C9H16O4,BDJRBEYXGGNYIS-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,NA,NA,NA,NA
-3.006_148.07364_HILIC,L2.3,"Butanoic acid, 4-hydroxy-3-(hydroxymethyl)-3-methyl-",C6H12O4,BFWKQDMSPGJDGS-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+3.006_148.07364_HILIC,L3,"Butanoic acid, 4-hydroxy-3-(hydroxymethyl)-3-methyl-",C6H12O4,BFWKQDMSPGJDGS-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
 12.062_134.02157_HILIC,L2,L-(-)-Malic acid,C4H6O5,BJEPYKJPYRNKOW-REOHCLBHSA-N,Organic acids and derivatives,Hydroxy acids and derivatives,Beta hydroxy acids and derivatives,NA,NA,NA,NA
 12.858_133.03755_HILIC,L2,L-Aspartic acid,C4H7NO4,CKLJMWTZIZZHCS-REOHCLBHSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",NA,NA,NA,NA
 7.766_165.0789_HILIC,L1,L-Phenylalanine,C9H11NO2,COLNVLDHVKWLRT-QMMMGPOBSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",NA,NA,NA,NA
 11.209_342.11641_HILIC,L1,Sucrose,C12H22O11,CZMRCDWAGMRECN-UGDNZRGBSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,NA,NA,NA,NA
-15.008_260.84676_HILIC,L2.3,O-Phospho-L-tyrosine,C9H12NO6P,DCWXELXMIBXGTH-QMMMGPOBSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",NA,NA,NA,NA
-14.957_666.22171_HILIC,L2.3,Epitope ID:153762,C24H42O21,DFKPJBWUFOESDV-JCFPIJKISA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Polysaccharides
+15.008_260.84676_HILIC,L3,O-Phospho-L-tyrosine,C9H12NO6P,DCWXELXMIBXGTH-QMMMGPOBSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",NA,NA,NA,NA
+14.957_666.22171_HILIC,L3,Epitope ID:153762,C24H42O21,DFKPJBWUFOESDV-JCFPIJKISA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Polysaccharides
 3.682_230.11534_HILIC,L2,2-(6-Hydroxyhexyl)-3-methylenesuccinic acid,C11H18O5,DHVXMTMJTVCPBB-UHFFFAOYSA-N,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,NA,NA,NA
 3.567_230.11533_HILIC,L2,2-(6-Hydroxyhexyl)-3-methylenesuccinic acid,C11H18O5,DHVXMTMJTVCPBB-UHFFFAOYSA-N,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,NA,NA,NA
 9.96_188.11607_HILIC,L1,Glycyl-L-leucine,C8H16N2O3,DKEXFJVMVGETOO-LURJTMIESA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",NA,NA,NA,NA
@@ -18,593 +18,537 @@ FeatureID,Annotation_Confidence,Final_name,Final_formula,InChIKey,Final_Supercla
 1.242_330.2409_HILIC,L2,"(15Z)-9,12,13-Trihydroxy-15-octadecenoic acid",C18H34O5,DNWUYCUUEGGVPR-CLTKARDFSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,NA,NA,NA,NA
 4.005_244.06952_HILIC,L1,Uridine,C9H12N2O6,DRTQHJPVMGBUCF-XVFCMESISA-N,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides,NA,NA,NA,NA,NA
 1.269_244.16746_HILIC,L1,Tridecanedioic acid,C13H24O4,DXNCZXXFRKPEPY-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,NA,NA,NA,NA
-3.003_192.08053_HILIC,L2.3,4-Ethoxycinnamic Acid,C11H12O3,DZLOUWYGNATKKZ-VMPITWQZSA-N,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acids,NA,Shikimates and Phenylpropanoids,Phenylpropanoids (C6-C3),Cinnamic acids and derivatives
+3.003_192.08053_HILIC,L3,4-Ethoxycinnamic Acid,C11H12O3,DZLOUWYGNATKKZ-VMPITWQZSA-N,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acids,NA,Shikimates and Phenylpropanoids,Phenylpropanoids (C6-C3),Cinnamic acids and derivatives
 9.123_182.07901_HILIC,L1,Mannitol,C6H14O6,FBPFZTCFMRRESA-KVTDHHQDSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,NA,NA,NA,NA
 3.88_136.03855_HILIC,L2,Hypoxanthine,C5H4N4O,FDGQSTZJBFJUBT-UHFFFAOYSA-N,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,NA,NA,NA,NA
 1.12_322.25118_HILIC,L2,"5-[(1S,2R,4aR)-5-(Hydroxymethyl)-1,2,4a-trimethyl-1,2,3,4,4a,7,8,8a-octahydro-1-naphthalenyl]-3-methylpentanoic acid",C20H34O3,FVXAJZRADGVLQM-FVUCEDHYSA-N,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,NA,NA,NA
 13.794_550.1748_HILIC,L1,Maltotriose,C18H32O16,FYGDTMLNYKFZSV-DZOUCCHMSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,NA,NA,NA,NA
 13.799_504.16931_HILIC,L1,Maltotriose,C18H32O16,FYGDTMLNYKFZSV-DZOUCCHMSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,NA,NA,NA,NA
-1.239_246.1467_HILIC,L2.3,3-Hydroxydodecanedioate,C12H22O5,FYVQCLGZFXHEGL-UHFFFAOYSA-N,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+1.239_246.1467_HILIC,L3,3-Hydroxydodecanedioate,C12H22O5,FYVQCLGZFXHEGL-UHFFFAOYSA-N,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
 3.364_135.05454_HILIC,L1,Adenine,C5H5N5,GFFGJBXGBJISGV-UHFFFAOYSA-N,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,NA,NA,NA,NA
 3.327_219.1106_HILIC,L1,D-Pantothenic acid,C9H17NO5,GHOKWGTUZJEAQD-ZETCQYMHSA-N,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,NA,NA,NA,NA
-11.432_190.09534_HILIC,L2.3,meso-DAP,C7H14N2O4,GMKMEZVLHJARHF-SYDPRGILSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Aminoacids
-1.223_282.18326_HILIC,L2.3,hexadec-8-ynedioic acid,C16H26O4,GPDLAFPBSUMUJY-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,NA,Fatty acids,Octadecanoids,Other Octadecanoids
+11.432_190.09534_HILIC,L3,meso-DAP,C7H14N2O4,GMKMEZVLHJARHF-SYDPRGILSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Aminoacids
+1.223_282.18326_HILIC,L3,hexadec-8-ynedioic acid,C16H26O4,GPDLAFPBSUMUJY-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,NA,Fatty acids,Octadecanoids,Other Octadecanoids
 1.513_308.1989_HILIC,L2,"2,3-Dinor prostaglandin E1",C18H30O5,GTUGBRJEKVKOKQ-LRSAKWJDSA-N,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,NA,NA,NA,NA
 1.204_308.19893_HILIC,L2,"2,3-Dinor prostaglandin E1",C18H30O5,GTUGBRJEKVKOKQ-LRSAKWJDSA-N,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,NA,NA,NA,NA
 1.354_326.20952_HILIC,L2,"2,3-Dinor prostaglandin E1",C18H30O5,GTUGBRJEKVKOKQ-LRSAKWJDSA-N,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,NA,NA,NA,NA
 13.798_342.11641_HILIC,L2,D-(+)-Maltose,C12H22O11,GUBGYTABKSRVRQ-PICCSMPSSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,NA,NA,NA,NA
 9.54_180.06335_HILIC,L2,D-(+)-Glucose,C6H12O6,GZCGUPFRVQAUEE-SLPGGIOYSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,NA,NA,NA,NA
-1.524_302.20948_HILIC,L2.3,"Hexadecanedioic acid, 8-hydroxy-",C16H30O5,GZQVGXLMHGPBET-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Octadecanoids,Other Octadecanoids
-8.795_129.04263_HILIC,L2.3,4-Oxoproline,C5H7NO3,HFXAFXVXPMUQCQ-BYPYZUCNSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",NA,NA,NA,NA
+1.524_302.20948_HILIC,L3,"Hexadecanedioic acid, 8-hydroxy-",C16H30O5,GZQVGXLMHGPBET-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Octadecanoids,Other Octadecanoids
 1.301_258.18322_HILIC,L2,Tetradecanedioic acid,C14H26O4,HQHCYKULIHKCEB-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,NA,NA,NA,NA
-1.319_298.16048_HILIC,L2.3,Ostruthin,C19H22O3,INBMTJJPUABOQJ-VGOFMYFVSA-N,Lipids and lipid-like molecules,Prenol lipids,Terpene lactones,NA,NA,NA,NA
+1.319_298.16048_HILIC,L3,Ostruthin,C19H22O3,INBMTJJPUABOQJ-VGOFMYFVSA-N,Lipids and lipid-like molecules,Prenol lipids,Terpene lactones,NA,NA,NA,NA
 2.292_112.02729_HILIC,L1,Uracil,C4H4N2O2,ISAKRJDGNUQOIC-UHFFFAOYSA-N,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,NA,NA,NA,NA
 1.124_302.22485_HILIC,L2,Eicosapentaenoic acid,C20H30O2,JAZBEHYOTPTENJ-JLNKQSITSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,NA,NA,NA,NA
 2.683_132.04228_HILIC,L1,Glutaric acid,C5H8O4,JFCQEDHGNNZCLN-UHFFFAOYSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,NA,NA,NA,NA
 1.209_145.05279_HILIC,L2,4-Indolecarbaldehyde,C9H7NO,JFDDFGLNZWNJTK-UHFFFAOYSA-N,Organoheterocyclic compounds,Indoles and derivatives,Indoles,NA,NA,NA,NA
 1.312_298.17812_HILIC,L2,(2E)-4-Hydroxy-4-{4-hydroxy-2-[(1E)-6-hydroxy-1-hepten-1-yl]cyclopentyl}-2-butenoic acid,C16H26O5,JFMRAARESGPLQF-GFGVWQOPSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,NA,NA,NA,NA
-1.189_316.26159_HILIC,L2.3,"8,9-dihydroxy stearic acid",C18H36O4,JIUABTQMUFTVLS-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Octadecanoids,Other Octadecanoids
-16.146_828.27434_HILIC,L2.3,Epitope ID:153763,C30H52O26,JKJNEIZIUZSCIE-LVHGYZJTSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Polysaccharides
+1.189_316.26159_HILIC,L3,"8,9-dihydroxy stearic acid",C18H36O4,JIUABTQMUFTVLS-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Octadecanoids,Other Octadecanoids
+16.146_828.27434_HILIC,L3,Epitope ID:153763,C30H52O26,JKJNEIZIUZSCIE-LVHGYZJTSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Polysaccharides
 10.522_136.03721_HILIC,L2,L-Threonic acid,C4H8O5,JPIJQSOTBSSVTP-STHAYSLISA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,NA,NA,NA,NA
-2.42_130.06304_HILIC,L2.3,2-oxoisoleucine,C6H10O3,JVQYSWDUAOAHFM-UHFFFAOYSA-N,Organic acids and derivatives,Keto acids and derivatives,Short-chain keto acids and derivatives,Branched fatty acids,Fatty acids,Fatty Acids and Conjugates,Oxo fatty acids
 4.654_90.03167_HILIC,L2,L-(+)-Lactic acid,C3H6O3,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Organic acids and derivatives,Hydroxy acids and derivatives,Alpha hydroxy acids and derivatives,NA,NA,NA,NA
 4.495_90.03168_HILIC,L2,L-(+)-Lactic acid,C3H6O3,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Organic acids and derivatives,Hydroxy acids and derivatives,Alpha hydroxy acids and derivatives,NA,NA,NA,NA
-1.354_254.15183_HILIC,L2.3,"4,7-bis(ethenyl)-2-ethyloctanedioic acid",C14H22O4,JWLWROXTAUCQTJ-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Tertiary alcohols,Terpenoids,Sesquiterpenoids,Bisabolane sesquiterpenoids
+1.354_254.15183_HILIC,L3,"4,7-bis(ethenyl)-2-ethyloctanedioic acid",C14H22O4,JWLWROXTAUCQTJ-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Tertiary alcohols,Terpenoids,Sesquiterpenoids,Bisabolane sesquiterpenoids
 3.521_118.02665_HILIC,L1,Succinic acid,C4H6O4,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,NA,NA,NA,NA
-1.143_340.26162_HILIC,L2.3,"15-hydroperoxyicosa-11,13-dienoic acid",C20H36O4,KEXNVBSLXJLOPR-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,NA,Fatty acids,Octadecanoids,Other Octadecanoids
-2.881_148.0736_HILIC,L2.3,mevalonate,C6H12O4,KJTLQQUUPVSXIM-ZCFIWIBFSA-M,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Branched fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+1.143_340.26162_HILIC,L3,"15-hydroperoxyicosa-11,13-dienoic acid",C20H36O4,KEXNVBSLXJLOPR-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,NA,Fatty acids,Octadecanoids,Other Octadecanoids
+2.881_148.0736_HILIC,L3,mevalonate,C6H12O4,KJTLQQUUPVSXIM-ZCFIWIBFSA-M,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Branched fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
 1.677_368.2202_HILIC,L2,11-Dehydro thromboxane B2,C20H32O6,KJYIVXDPWBUJBQ-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,NA,NA,NA,NA
 1.138_294.21958_HILIC,L2,13(S)-HOTrE,C18H30O3,KLLGGGQNRTVBSU-FQSPHKRJSA-N,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,NA,NA,NA
 1.709_244.13105_HILIC,L2,"3,8,9-trihydroxy-10-propyl-3,4,5,8,9,10-hexahydro-2H-oxecin-2-one",C12H20O5,KQJGPGHQDDZVHJ-UHFFFAOYSA-N,Organoheterocyclic compounds,Oxocins,NA,NA,NA,NA,NA
 1.489_244.13102_HILIC,L2,"3,8,9-trihydroxy-10-propyl-3,4,5,8,9,10-hexahydro-2H-oxecin-2-one",C12H20O5,KQJGPGHQDDZVHJ-UHFFFAOYSA-N,Organoheterocyclic compounds,Oxocins,NA,NA,NA,NA,NA
 1.26_270.05289_HILIC,L1,Apigenin,C15H10O5,KZNIFHPLKGYRTM-UHFFFAOYSA-N,Phenylpropanoids and polyketides,Flavonoids,Flavones,NA,NA,NA,NA
-14.742_666.2217_HILIC,L2.3,Sesamose,C24H42O21,LAOVEVDFIVNYLQ-QDQSDLQTSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Polysaccharides
-15.125_666.22175_HILIC,L2.3,Sesamose,C24H42O21,LAOVEVDFIVNYLQ-QDQSDLQTSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Polysaccharides
-14.534_666.2217_HILIC,L2.3,Sesamose,C24H42O21,LAOVEVDFIVNYLQ-QDQSDLQTSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Polysaccharides
+14.742_666.2217_HILIC,L3,Sesamose,C24H42O21,LAOVEVDFIVNYLQ-QDQSDLQTSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Polysaccharides
+15.125_666.22175_HILIC,L3,Sesamose,C24H42O21,LAOVEVDFIVNYLQ-QDQSDLQTSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Polysaccharides
+14.534_666.2217_HILIC,L3,Sesamose,C24H42O21,LAOVEVDFIVNYLQ-QDQSDLQTSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Polysaccharides
 4.752_88.01602_HILIC,L2,Pyruvic acid,C3H4O3,LCTONWCANYUPML-UHFFFAOYSA-N,Organic acids and derivatives,Keto acids and derivatives,Alpha-keto acids and derivatives,NA,NA,NA,NA
 8.068_180.06335_HILIC,L1,L-Sorbose,C6H12O6,LKDRXBCSQODPBY-AMVSKUEXSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,NA,NA,NA,NA
 4.684_152.03345_HILIC,L1,Xanthine,C5H4N4O2,LRFVTYWOQMYALW-UHFFFAOYSA-N,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,NA,NA,NA,NA
-15.487_666.22182_HILIC,L2.3,Mannan,C24H42O21,LUEWUZLMQUOBSB-GFVSVBBRSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Polysaccharides
-15.345_666.22186_HILIC,L2.3,Mannan,C24H42O21,LUEWUZLMQUOBSB-GFVSVBBRSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Polysaccharides
+15.487_666.22182_HILIC,L3,Mannan,C24H42O21,LUEWUZLMQUOBSB-GFVSVBBRSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Polysaccharides
+15.345_666.22186_HILIC,L3,Mannan,C24H42O21,LUEWUZLMQUOBSB-GFVSVBBRSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Polysaccharides
 2.045_132.07867_HILIC,L1,L-Leucic acid,C6H12O3,LVRFTAZAXQPQHI-YFKPBYRVSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,NA,NA,NA,NA
-1.342_228.13612_HILIC,L2.3,Traumatate,C12H20O4,MAZWDMBCPDUFDJ-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
-1.281_228.13618_HILIC,L2.3,Traumatate,C12H20O4,MAZWDMBCPDUFDJ-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
+1.342_228.13612_HILIC,L3,Traumatate,C12H20O4,MAZWDMBCPDUFDJ-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
+1.281_228.13618_HILIC,L3,Traumatate,C12H20O4,MAZWDMBCPDUFDJ-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
 1.696_402.22593_HILIC,L2,MAB-CHMINACA metabolite M11,C21H30N4O4,MMWWZPQJJXIPQB-UHFFFAOYSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",NA,NA,NA,NA
-8.073_90.03167_HILIC,L2.3,an aldose,C3H6O3,MNQZXJOMYWMBOU-UHFFFAOYSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Monosaccharides,Carbohydrates,Saccharides,Monosaccharides
+8.073_90.03167_HILIC,L3,an aldose,C3H6O3,MNQZXJOMYWMBOU-UHFFFAOYSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Monosaccharides,Carbohydrates,Saccharides,Monosaccharides
 11.6_105.0426_HILIC,L1,L-Serine,C3H7NO3,MTCFGRXMJLQNBG-REOHCLBHSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",NA,NA,NA,NA
 14.168_504.16936_HILIC,L1,D-(+)-Raffinose,C18H32O16,MUPFEKGTMRGPLJ-ZQSKZDJDSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,NA,NA,NA,NA
 14.013_504.16934_HILIC,L1,D-(+)-Raffinose,C18H32O16,MUPFEKGTMRGPLJ-ZQSKZDJDSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,NA,NA,NA,NA
-12.059_166.04766_HILIC,L2.3,1-Methylxanthine,C6H6N4O2,MVOYJPOZRLFTCP-UHFFFAOYSA-N,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,NA,NA,NA,NA
-11.209_166.04765_HILIC,L2.3,1-Methylxanthine,C6H6N4O2,MVOYJPOZRLFTCP-UHFFFAOYSA-N,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,NA,NA,NA,NA
-1.381_172.10986_HILIC,L3.1,NA,C9H16O3,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+12.059_166.04766_HILIC,L3,1-Methylxanthine,C6H6N4O2,MVOYJPOZRLFTCP-UHFFFAOYSA-N,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,NA,NA,NA,NA
+11.209_166.04765_HILIC,L3,1-Methylxanthine,C6H6N4O2,MVOYJPOZRLFTCP-UHFFFAOYSA-N,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,NA,NA,NA,NA
+1.381_172.10986_HILIC,L3,NA,C9H16O3,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
 1.098_99.95633_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.106_196.14628_HILIC,L3.1,NA,C12H20O2,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbonyl compounds,Aldehydes,Fatty acids,Fatty acyls,Fatty aldehydes
-1.109_195.08958_HILIC,L3.3,NA,C10H13NO3,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.109_240.13615_HILIC,M3.3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Alkaloids,Small peptides,Pyridine alkaloids
-1.113_474.29006_HILIC,M3.3,NA,M,Name not found,Benzenoids,Benzene and substituted derivatives,Phenoxy compounds,NA,Fatty acids,Fatty amides,N-acyl amines
-1.399_278.19164_HILIC,L3.1,NA,C14H30O3S,Name not found,Organic acids and derivatives,Organic sulfonic acids and derivatives,Organosulfonic acids and derivatives,Alkanesulfonic acids and derivatives,Fatty acids,Fatty acyls,Hydrocarbons
-1.121_420.16075_HILIC,M3.3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Tripeptides
+1.106_196.14628_HILIC,L3,NA,C12H20O2,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbonyl compounds,Aldehydes,Fatty acids,Fatty acyls,Fatty aldehydes
+1.109_195.08958_HILIC,L3,NA,C10H13NO3,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.109_240.13615_HILIC,L3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Alkaloids,Small peptides,Pyridine alkaloids
+1.113_474.29006_HILIC,L3,NA,M,Name not found,Benzenoids,Benzene and substituted derivatives,Phenoxy compounds,NA,Fatty acids,Fatty amides,N-acyl amines
+1.399_278.19164_HILIC,L3,NA,C14H30O3S,Name not found,Organic acids and derivatives,Organic sulfonic acids and derivatives,Organosulfonic acids and derivatives,Alkanesulfonic acids and derivatives,Fatty acids,Fatty acyls,Hydrocarbons
+1.121_420.16075_HILIC,L3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Tripeptides
 1.408_328.2252_HILIC,L2,Corchorifatty acid F,C18H32O5,Name not found,NA,NA,NA,NA,NA,NA,NA
 1.41_300.19387_HILIC,L2,NP-004917,C15H26O3,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.124_353.9965_HILIC,L2.3,"5-[(2,5-dichloro-3-thienyl)carbonyl]-4-methyl-1,3,4,5-tetrahydro-2H-1,5-benzodiazepin-2-one",C15H12Cl2N2O2S,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.124_353.9965_HILIC,L3,"5-[(2,5-dichloro-3-thienyl)carbonyl]-4-methyl-1,3,4,5-tetrahydro-2H-1,5-benzodiazepin-2-one",C15H12Cl2N2O2S,Name not found,NA,NA,NA,NA,NA,NA,NA
 1.127_318.21966_HILIC,L2,Prostaglandin F2α 1-11-lactone,C20H32O4,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.129_394.14506_HILIC,M3.3,NA,M,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Prostaglandins and related compounds,Fatty acids,Eicosanoids,Prostaglandins
-1.132_296.23519_HILIC,M3.3,NA,M,Name not found,Lipids and lipid-like molecules,Fatty Acyls,NA,NA,Fatty acids,Fatty amides,Primary amides
-1.132_396.1609_HILIC,M3.3,NA,M,Name not found,Organoheterocyclic compounds,Lactams,NA,NA,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids
+1.129_394.14506_HILIC,L3,NA,M,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Prostaglandins and related compounds,Fatty acids,Eicosanoids,Prostaglandins
+1.132_296.23519_HILIC,L3,NA,M,Name not found,Lipids and lipid-like molecules,Fatty Acyls,NA,NA,Fatty acids,Fatty amides,Primary amides
+1.132_396.1609_HILIC,L3,NA,M,Name not found,Organoheterocyclic compounds,Lactams,NA,NA,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids
 1.134_298.25094_HILIC,L2,NP-011548,C18H34O3,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.451_314.24606_HILIC,M3.3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",NA,Fatty acids,Sphingolipids,Sphingoid bases
+1.451_314.24606_HILIC,L3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",NA,Fatty acids,Sphingolipids,Sphingoid bases
 11.214_410.10395_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.149_336.23035_HILIC,L3.3,NA,C20H32O4,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.149_336.23035_HILIC,L3,NA,C20H32O4,Name not found,NA,NA,NA,NA,NA,NA,NA
 1.453_212.1048_HILIC,L2,NP-020205,C11H16O4,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.158_380.21784_HILIC,L3.3,NA,C18H37O4PS,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,Fatty acids,Octadecanoids,Other Octadecanoids
-1.159_324.19388_HILIC,L3.1,NA,C18H28O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Prostaglandins and related compounds,Fatty acids,Octadecanoids,Prostaglandins
+1.158_380.21784_HILIC,L3,NA,C18H37O4PS,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,Fatty acids,Octadecanoids,Other Octadecanoids
+1.159_324.19388_HILIC,L3,NA,C18H28O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Prostaglandins and related compounds,Fatty acids,Octadecanoids,Prostaglandins
 1.163_312.23021_HILIC,L2,(+/-)9-HpODE,C18H32O4,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.163_412.15575_HILIC,M3.3,NA,M,Name not found,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Pyrimidones,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids
-1.459_246.08676_HILIC,M3.3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Peptides,Amino acids and Peptides,Small peptides,Dipeptides
+1.163_412.15575_HILIC,L3,NA,M,Name not found,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Pyrimidones,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids
+1.459_246.08676_HILIC,L3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Peptides,Amino acids and Peptides,Small peptides,Dipeptides
 1.167_282.21973_HILIC,L2,Corchorifatty acid F,C18H32O5,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.167_378.20222_HILIC,M3.3,NA,M,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,Fatty acids,Octadecanoids,Other Octadecanoids
+1.167_378.20222_HILIC,L3,NA,M,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,Fatty acids,Octadecanoids,Other Octadecanoids
 1.169_338.2461_HILIC,L2,(+/-)14(15)-DiHET,C20H34O4,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.17_268.20409_HILIC,L3.3,"[Similar to: (+/-)9,10-dihydroxy-12Z-octadecenoic acid; ΔMass: -46.0416 Da]",C16H28O3,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.171_310.21456_HILIC,L3.3,[Similar to: Prostaglandin F2α; ΔMass: -44.0261 Da],C18H30O4,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.171_410.13999_HILIC,M3.3,NA,M,Name not found,Organic acids and derivatives,Organic phosphonic acids and derivatives,Organic phosphonic acids,NA,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids
-1.173_370.19939_HILIC,L3.3,NA,C19H30O7,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Octadecanoids,Thromboxanes
-1.51_196.03725_HILIC,L3.1,NA,C9H8O5,Name not found,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Hydroxybenzoic acid derivatives,Shikimates and Phenylpropanoids,Phenolic acids (C6-C1),Simple phenolic acids
-1.177_266.18835_HILIC,L3.1,NA,C16H26O3,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,Fatty acids,Octadecanoids,Other Octadecanoids
-11.688_438.01041_HILIC,L3.3,NA,C11H14N6O7S3,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Cephalosporins
-1.184_298.21453_HILIC,L3.1,NA,C17H30O4,Name not found,Lipids and lipid-like molecules,Fatty Acyls,NA,NA,Fatty acids,Octadecanoids,Oxo fatty acids
+1.17_268.20409_HILIC,L3,"[Similar to: (+/-)9,10-dihydroxy-12Z-octadecenoic acid; ΔMass: -46.0416 Da]",C16H28O3,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.171_310.21456_HILIC,L3,[Similar to: Prostaglandin F2α; ΔMass: -44.0261 Da],C18H30O4,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.171_410.13999_HILIC,L3,NA,M,Name not found,Organic acids and derivatives,Organic phosphonic acids and derivatives,Organic phosphonic acids,NA,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids
+1.173_370.19939_HILIC,L3,NA,C19H30O7,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Octadecanoids,Thromboxanes
+1.51_196.03725_HILIC,L3,NA,C9H8O5,Name not found,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Hydroxybenzoic acid derivatives,Shikimates and Phenylpropanoids,Phenolic acids (C6-C1),Simple phenolic acids
+1.177_266.18835_HILIC,L3,NA,C16H26O3,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,Fatty acids,Octadecanoids,Other Octadecanoids
+11.688_438.01041_HILIC,L3,NA,C11H14N6O7S3,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Cephalosporins
+1.184_298.21453_HILIC,L3,NA,C17H30O4,Name not found,Lipids and lipid-like molecules,Fatty Acyls,NA,NA,Fatty acids,Octadecanoids,Oxo fatty acids
 1.188_314.24592_HILIC,L2,NP-008993,C18H34O4,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.537_274.17806_HILIC,L3.1,NA,C14H26O5,Name not found,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
-1.19_296.19889_HILIC,L3.1,NA,C17H28O4,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,Fatty acids,Octadecanoids,Other Octadecanoids
+1.537_274.17806_HILIC,L3,NA,C14H26O5,Name not found,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+1.19_296.19889_HILIC,L3,NA,C17H28O4,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,Fatty acids,Octadecanoids,Other Octadecanoids
 1.191_358.2725_HILIC,L2,"13,14-dihydro Prostaglandin F1?",C20H38O5,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.194_210.16181_HILIC,L3.3,NA,C13H22O2,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.194_254.15181_HILIC,L3.3,NA,C14H22O4,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.194_210.16181_HILIC,L3,NA,C13H22O2,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.194_254.15181_HILIC,L3,NA,C14H22O4,Name not found,NA,NA,NA,NA,NA,NA,NA
 1.195_476.26898_HILIC,L2,"1-(3-Cyanophenyl)-3-{[(2R,4S,5S)-5-{[4-(4-fluorophenyl)-1-piperazinyl]methyl}-1-azabicyclo[2.2.2]oct-2-yl]methyl}urea",C27H33FN6O,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.2_354.24089_HILIC,M3.3,NA,M,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Prostaglandins and related compounds,Fatty acids,Eicosanoids,Prostaglandins
+1.2_354.24089_HILIC,L3,NA,M,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Prostaglandins and related compounds,Fatty acids,Eicosanoids,Prostaglandins
 1.202_356.25678_HILIC,L2,Prostaglandin F1α,C20H36O5,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.57_113.9929_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.208_290.18831_HILIC,L3.3,[Similar to: 15-keto Prostaglandin F2?; ΔMass: -62.0367 Da],C18H26O3,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.208_290.18831_HILIC,L3,[Similar to: 15-keto Prostaglandin F2?; ΔMass: -62.0367 Da],C18H26O3,Name not found,NA,NA,NA,NA,NA,NA,NA
 1.57_249.96763_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.209_300.23019_HILIC,L3.1,NA,C17H32O4,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,Fatty acids,Octadecanoids,Other Octadecanoids
-1.211_394.19729_HILIC,M3.3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Aminoglycosides
-1.215_426.13504_HILIC,M3.3,NA,M,Name not found,Organoheterocyclic compounds,Indoles and derivatives,Carbazoles,Pyrrolocarbazoles,Alkaloids,Tryptophan alkaloids,Carbazole alkaloids
-1.217_198.12576_HILIC,M3.3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Alkaloids,Small peptides,Aminoacids
-1.574_444.14552_HILIC,L3.3,NA,C24H20N4O5,Name not found,Organoheterocyclic compounds,Indoles and derivatives,Carbazoles,Pyrrolocarbazoles,Alkaloids,Tryptophan alkaloids,Carbazole alkaloids
-1.578_256.13112_HILIC,M3.3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Alkaloids,Small peptides,Aminoacids
+1.209_300.23019_HILIC,L3,NA,C17H32O4,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,Fatty acids,Octadecanoids,Other Octadecanoids
+1.211_394.19729_HILIC,L3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Aminoglycosides
+1.215_426.13504_HILIC,L3,NA,M,Name not found,Organoheterocyclic compounds,Indoles and derivatives,Carbazoles,Pyrrolocarbazoles,Alkaloids,Tryptophan alkaloids,Carbazole alkaloids
+1.217_198.12576_HILIC,L3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Alkaloids,Small peptides,Aminoacids
+1.574_444.14552_HILIC,L3,NA,C24H20N4O5,Name not found,Organoheterocyclic compounds,Indoles and derivatives,Carbazoles,Pyrrolocarbazoles,Alkaloids,Tryptophan alkaloids,Carbazole alkaloids
+1.578_256.13112_HILIC,L3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Alkaloids,Small peptides,Aminoacids
 1.578_281.90566_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 12.041_203.93617_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.225_284.1989_HILIC,L3.1,NA,C16H28O4,Name not found,Organic acids and derivatives,Hydroxy acids and derivatives,Alpha hydroxy acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+1.225_284.1989_HILIC,L3,NA,C16H28O4,Name not found,Organic acids and derivatives,Hydroxy acids and derivatives,Alpha hydroxy acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
 1.592_370.23581_HILIC,L2,19(R)-Hydroxy prostaglandin F2α,C20H34O6,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.232_289.07406_HILIC,L3.3,NA,C10H15N3O5S,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Dipeptides
+1.232_289.07406_HILIC,L3,NA,C10H15N3O5S,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Dipeptides
 1.594_328.2252_HILIC,L2,Corchorifatty acid F,C18H32O5,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.598_204.13579_HILIC,M3.3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Aminoacids
-1.243_310.21461_HILIC,L3.3,[Similar to: Prostaglandin F2α; ΔMass: -44.0260 Da],C18H30O4,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.598_204.13579_HILIC,L3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Aminoacids
+1.243_310.21461_HILIC,L3,[Similar to: Prostaglandin F2α; ΔMass: -44.0260 Da],C18H30O4,Name not found,NA,NA,NA,NA,NA,NA,NA
 1.243_328.22522_HILIC,L2,Corchorifatty acid F,C18H32O5,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.243_396.21295_HILIC,L3.3,NA,C18H32N6S2,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.244_428.15065_HILIC,M3.3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Tripeptides
-1.252_344.22008_HILIC,L3.1,NA,C18H32O6,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Thromboxanes,Fatty acids,Octadecanoids,Thromboxanes
-1.253_172.10987_HILIC,L3.1,NA,C9H16O3,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
-1.253_340.20731_HILIC,M3.3,NA,M,Name not found,Lipids and lipid-like molecules,NA,NA,NA,Terpenoids,Steroids,Androstane steroids
-1.256_316.2252_HILIC,L3.1,NA,C17H32O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Octadecanoids,Other Octadecanoids
-1.258_482.1711_HILIC,L3.3,NA,C25H27ClN4O4,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.258_492.19992_HILIC,L3.1,NA,C25H32O10,Name not found,"Lignans, neolignans and related compounds",Lignan glycosides,NA,NA,Shikimates and Phenylpropanoids,Lignans,Neolignans
-1.67_170.09435_HILIC,L2.3,(E)-5-ethyl-4-oxohept-2-enoate,C9H14O3,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Unsaturated fatty acids,Fatty acids,Fatty Acids and Conjugates,Unsaturated fatty acids
+1.243_396.21295_HILIC,L3,NA,C18H32N6S2,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.244_428.15065_HILIC,L3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Tripeptides
+1.252_344.22008_HILIC,L3,NA,C18H32O6,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Thromboxanes,Fatty acids,Octadecanoids,Thromboxanes
+1.253_172.10987_HILIC,L3,NA,C9H16O3,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+1.253_340.20731_HILIC,L3,NA,M,Name not found,Lipids and lipid-like molecules,NA,NA,NA,Terpenoids,Steroids,Androstane steroids
+1.256_316.2252_HILIC,L3,NA,C17H32O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Octadecanoids,Other Octadecanoids
+1.258_482.1711_HILIC,L3,NA,C25H27ClN4O4,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.258_492.19992_HILIC,L3,NA,C25H32O10,Name not found,"Lignans, neolignans and related compounds",Lignan glycosides,NA,NA,Shikimates and Phenylpropanoids,Lignans,Neolignans
+1.67_170.09435_HILIC,L3,(E)-5-ethyl-4-oxohept-2-enoate,C9H14O3,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Unsaturated fatty acids,Fatty acids,Fatty Acids and Conjugates,Unsaturated fatty acids
 12.263_442.0419_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.672_330.20462_HILIC,L2.3,"2,4-Bis(2-phenyl-2-propanyl)phenol",C24H26O,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.269_314.20958_HILIC,L2.3,"[(1R,2R,4aR,5R,8R,8aS)-5,8-dihydroxy-2-(2-hydroxypropan-2-yl)-4a,8-dimethyl-1,2,3,4,5,6,7,8a-octahydronaphthalen-1-yl] acetate",C17H30O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
-1.269_326.19191_HILIC,L3.1,NA,C18H30O3S,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Eicosanoids,Isoprostanes
-1.271_312.19392_HILIC,L3.1,NA,C17H28O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,Fatty acids,Octadecanoids,Other Octadecanoids
+1.672_330.20462_HILIC,L3,"2,4-Bis(2-phenyl-2-propanyl)phenol",C24H26O,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.269_314.20958_HILIC,L3,"[(1R,2R,4aR,5R,8R,8aS)-5,8-dihydroxy-2-(2-hydroxypropan-2-yl)-4a,8-dimethyl-1,2,3,4,5,6,7,8a-octahydronaphthalen-1-yl] acetate",C17H30O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+1.269_326.19191_HILIC,L3,NA,C18H30O3S,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Eicosanoids,Isoprostanes
+1.271_312.19392_HILIC,L3,NA,C17H28O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,Fatty acids,Octadecanoids,Other Octadecanoids
 1.272_296.23523_HILIC,L2,(+/-)12(13)-DiHOME,C18H34O4,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.274_238.15679_HILIC,L3.1,NA,C14H22O3,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Unsaturated fatty acids,Terpenoids,Apocarotenoids,Apocarotenoids(Îµ-)
-1.279_270.21967_HILIC,L3.1,NA,C16H30O3,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,Fatty acids,Octadecanoids,Other Octadecanoids
-1.681_344.21997_HILIC,L3.1,NA,C18H32O6,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Thromboxanes,Fatty acids,Octadecanoids,Phytofurans
-1.684_384.21517_HILIC,L3.3,NA,C20H32O7,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,NA,Fatty acids,Eicosanoids,Leukotrienes
+1.274_238.15679_HILIC,L3,NA,C14H22O3,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Unsaturated fatty acids,Terpenoids,Apocarotenoids,Apocarotenoids(Îµ-)
+1.279_270.21967_HILIC,L3,NA,C16H30O3,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,Fatty acids,Octadecanoids,Other Octadecanoids
+1.681_344.21997_HILIC,L3,NA,C18H32O6,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Thromboxanes,Fatty acids,Octadecanoids,Phytofurans
+1.684_384.21517_HILIC,L3,NA,C20H32O7,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,NA,Fatty acids,Eicosanoids,Leukotrienes
 1.282_314.24591_HILIC,L2,NP-008993,C18H34O4,Name not found,NA,NA,NA,NA,NA,NA,NA
 1.287_294.21962_HILIC,L2,(+/-)9-HpODE,C18H32O4,Name not found,NA,NA,NA,NA,NA,NA,NA
-12.791_567.16485_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.292_242.15174_HILIC,L3.1,NA,C13H22O4,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
-1.292_312.17617_HILIC,L3.3,[Similar to: (±)9-HpODE; ΔMass: -0.0539 Da],C17H28O3S,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.292_242.15174_HILIC,L3,NA,C13H22O4,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
+1.292_312.17617_HILIC,L3,[Similar to: (±)9-HpODE; ΔMass: -0.0539 Da],C17H28O3S,Name not found,NA,NA,NA,NA,NA,NA,NA
 1.297_300.19386_HILIC,L2,NP-004917,C15H26O3,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.301_208.14617_HILIC,L3.1,NA,C13H20O2,Name not found,Lipids and lipid-like molecules,NA,NA,NA,Terpenoids,Sesquiterpenoids,Allohimachalane sesquiterpenoids
-1.688_256.13114_HILIC,L3.1,NA,C13H20O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,Jasmonic acids,Fatty acids,Octadecanoids,Dicarboxylic acids
+1.301_208.14617_HILIC,L3,NA,C13H20O2,Name not found,Lipids and lipid-like molecules,NA,NA,NA,Terpenoids,Sesquiterpenoids,Allohimachalane sesquiterpenoids
+1.688_256.13114_HILIC,L3,NA,C13H20O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,Jasmonic acids,Fatty acids,Octadecanoids,Dicarboxylic acids
 1.688_316.18881_HILIC,L2,NP-002676,C15H26O4,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.689_272.16243_HILIC,L3.1,NA,C14H24O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
-1.315_324.19389_HILIC,M3.3,NA,M,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Prostaglandins and related compounds,Fatty acids,Eicosanoids,Prostaglandins
-1.69_362.23104_HILIC,L3.1,NA,C18H34O7,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
-1.323_256.16748_HILIC,L3.1,NA,C14H24O4,Name not found,Lipids and lipid-like molecules,Fatty Acyls,NA,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+1.689_272.16243_HILIC,L3,NA,C14H24O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+1.315_324.19389_HILIC,L3,NA,M,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Prostaglandins and related compounds,Fatty acids,Eicosanoids,Prostaglandins
+1.69_362.23104_HILIC,L3,NA,C18H34O7,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+1.323_256.16748_HILIC,L3,NA,C14H24O4,Name not found,Lipids and lipid-like molecules,Fatty Acyls,NA,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
 1.325_238.1203_HILIC,L2,NP-020515,C13H20O5,Name not found,NA,NA,NA,NA,NA,NA,NA
 1.326_356.25675_HILIC,L2,Prostaglandin F1α,C20H36O5,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.327_216.136_HILIC,L2.3,NP-018716,C11H20O4,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.328_170.13052_HILIC,L2.3,NP-018716,C11H20O4,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.334_252.13616_HILIC,L2.3,2-[[4-(2-carboxyprop-2-enyl)cyclohexyl]methyl]prop-2-enoic acid,C14H20O4,Name not found,Lipids and lipid-like molecules,Prenol lipids,Terpene lactones,NA,Terpenoids,Sesquiterpenoids,Secogermacrane sesquiterpenoids
-1.695_386.23079_HILIC,L3.3,NA,C20H34O7,Name not found,Lipids and lipid-like molecules,NA,NA,NA,Polyketides,Macrolides,Macrolide lactones
-1.341_492.19997_HILIC,M3.3,NA,M,Name not found,"Lignans, neolignans and related compounds",Lignan glycosides,NA,NA,Shikimates and Phenylpropanoids,Lignans,Neolignans
+1.334_252.13616_HILIC,L3,2-[[4-(2-carboxyprop-2-enyl)cyclohexyl]methyl]prop-2-enoic acid,C14H20O4,Name not found,Lipids and lipid-like molecules,Prenol lipids,Terpene lactones,NA,Terpenoids,Sesquiterpenoids,Secogermacrane sesquiterpenoids
+1.695_386.23079_HILIC,L3,NA,C20H34O7,Name not found,Lipids and lipid-like molecules,NA,NA,NA,Polyketides,Macrolides,Macrolide lactones
+1.341_492.19997_HILIC,L3,NA,M,Name not found,"Lignans, neolignans and related compounds",Lignan glycosides,NA,NA,Shikimates and Phenylpropanoids,Lignans,Neolignans
 13.376_203.93618_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.343_196.14633_HILIC,L3.1,NA,C12H20O2,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Unsaturated fatty acids
-1.344_342.20433_HILIC,L3.3,NA,C18H30O6,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Thromboxanes,Fatty acids,Octadecanoids,Thromboxanes
-1.345_184.14632_HILIC,L3.1,NA,C11H20O2,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Unsaturated fatty acids
-1.345_194.13064_HILIC,L3.1,NA,C12H18O2,Name not found,Lipids and lipid-like molecules,NA,NA,NA,Fatty acids,Fatty Acids and Conjugates,Unsaturated fatty acids
-1.346_240.13612_HILIC,L3.1,NA,C13H20O4,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,Jasmonic acids,Fatty acids,Fatty Acids and Conjugates,Jasmonic acids
-1.714_344.05651_HILIC,M3.3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids
-1.349_426.13495_HILIC,L3.1,NA,C24H18N4O4,Name not found,Organoheterocyclic compounds,Indoles and derivatives,Carbazoles,Pyrrolocarbazoles,Alkaloids,Tryptophan alkaloids,Carbazole alkaloids
-1.353_332.25689_HILIC,L3.1,NA,C18H36O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Octadecanoids,Other Octadecanoids
-1.354_210.16184_HILIC,L3.1,NA,C13H22O2,Name not found,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,NA,Terpenoids,Monoterpenoids,Acyclic monoterpenoids
+1.344_342.20433_HILIC,L3,NA,C18H30O6,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Thromboxanes,Fatty acids,Octadecanoids,Thromboxanes
+1.345_184.14632_HILIC,L3,NA,C11H20O2,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Unsaturated fatty acids
+1.346_240.13612_HILIC,L3,NA,C13H20O4,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,Jasmonic acids,Fatty acids,Fatty Acids and Conjugates,Jasmonic acids
+1.714_344.05651_HILIC,L3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids
+1.349_426.13495_HILIC,L3,NA,C24H18N4O4,Name not found,Organoheterocyclic compounds,Indoles and derivatives,Carbazoles,Pyrrolocarbazoles,Alkaloids,Tryptophan alkaloids,Carbazole alkaloids
+1.353_332.25689_HILIC,L3,NA,C18H36O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Octadecanoids,Other Octadecanoids
+1.354_210.16184_HILIC,L3,NA,C13H22O2,Name not found,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,NA,Terpenoids,Monoterpenoids,Acyclic monoterpenoids
 3.002_217.96877_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.354_290.18829_HILIC,L3.3,[Similar to: 15-Keto prostaglandin F2α; ΔMass: -62.0367 Da],C18H26O3,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.354_290.18829_HILIC,L3,[Similar to: 15-Keto prostaglandin F2α; ΔMass: -62.0367 Da],C18H26O3,Name not found,NA,NA,NA,NA,NA,NA,NA
 13.634_560.08845_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 1.355_354.24079_HILIC,L2,6α-Prostaglandin I1,C20H34O5,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.362_272.16237_HILIC,L2.3,7-oxotetradecanedioic Acid,C14H24O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
-10.496_227.94743_HILIC,L3.3,NA,C3H4NO7P2,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Aminoacids
-1.372_344.22005_HILIC,L3.1,NA,C18H32O6,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Thromboxanes,Fatty acids,Octadecanoids,Thromboxanes
+1.362_272.16237_HILIC,L3,7-oxotetradecanedioic Acid,C14H24O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
+10.496_227.94743_HILIC,L3,NA,C3H4NO7P2,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Aminoacids
+1.372_344.22005_HILIC,L3,NA,C18H32O6,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Thromboxanes,Fatty acids,Octadecanoids,Thromboxanes
 10.496_280.02073_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 1.376_324.19391_HILIC,L2,NP-005397,C18H30O6,Name not found,NA,NA,NA,NA,NA,NA,NA
-10.594_258.04887_HILIC,L2.3,"5-(2,4-dioxopyrimidin-1-yl)-3,4-dihydroxyoxolane-2-carboxylic acid",C9H10N2O7,Name not found,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides,NA,NA,Carbohydrates,Nucleosides,Pyrimidine nucleos(t)ides
-1.383_226.12055_HILIC,L3.3,[Similar to: NP-020916; ΔMass: -180.0633 Da],C12H18O4,Name not found,NA,NA,NA,NA,NA,NA,NA
-10.741_245.08994_HILIC,M3.3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Aminoacids
-1.394_430.16633_HILIC,L3.3,NA,C24H22N4O4,Name not found,NA,NA,NA,NA,NA,NA,NA
-13.797_426.13772_HILIC,M3.3,NA,M,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Disaccharides,Carbohydrates,Saccharides,Disaccharides
-1.396_398.22847_HILIC,M3.3,NA,M,Name not found,Lipids and lipid-like molecules,Fatty Acyls,NA,NA,Fatty acids,Octadecanoids,Fatty alcohols
+10.594_258.04887_HILIC,L3,"5-(2,4-dioxopyrimidin-1-yl)-3,4-dihydroxyoxolane-2-carboxylic acid",C9H10N2O7,Name not found,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides,NA,NA,Carbohydrates,Nucleosides,Pyrimidine nucleos(t)ides
+1.383_226.12055_HILIC,L3,[Similar to: NP-020916; ΔMass: -180.0633 Da],C12H18O4,Name not found,NA,NA,NA,NA,NA,NA,NA
+10.741_245.08994_HILIC,L3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Aminoacids
+1.394_430.16633_HILIC,L3,NA,C24H22N4O4,Name not found,NA,NA,NA,NA,NA,NA,NA
+13.797_426.13772_HILIC,L3,NA,M,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Disaccharides,Carbohydrates,Saccharides,Disaccharides
+1.396_398.22847_HILIC,L3,NA,M,Name not found,Lipids and lipid-like molecules,Fatty Acyls,NA,NA,Fatty acids,Octadecanoids,Fatty alcohols
 11.075_223.96048_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.402_270.14672_HILIC,L3.1,NA,C14H22O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Branched fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
-11.204_399.03421_HILIC,L3.3,NA,C11H10N7O8P,Name not found,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Purine ribonucleotides,Purine ribonucleoside monophosphates,Carbohydrates,Nucleosides,Purine nucleos(t)ides
+1.402_270.14672_HILIC,L3,NA,C14H22O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Branched fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+11.204_399.03421_HILIC,L3,NA,C11H10N7O8P,Name not found,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Purine ribonucleotides,Purine ribonucleoside monophosphates,Carbohydrates,Nucleosides,Purine nucleos(t)ides
 11.207_456.10943_HILIC,Unknown,NA,NA,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Monosaccharides,Carbohydrates,Aminosugars and aminoglycosides,Pyrimidine nucleos(t)ides
-1.412_396.21278_HILIC,L3.1,NA,C17H28N6O5,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Carbohydrates,Nucleosides,Purine nucleos(t)ides
-1.419_428.15062_HILIC,L3.1,NA,C24H20N4O4,Name not found,Organoheterocyclic compounds,Indoles and derivatives,Carbazoles,Pyrrolocarbazoles,Alkaloids,Anthranilic acid alkaloids,Quinazoline alkaloids
-11.209_405.11214_HILIC,L3.3,NA,C12H23NO14,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.424_272.1624_HILIC,L2.3,7-oxotetradecanedioic Acid,C14H24O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
+1.412_396.21278_HILIC,L3,NA,C17H28N6O5,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Carbohydrates,Nucleosides,Purine nucleos(t)ides
+1.419_428.15062_HILIC,L3,NA,C24H20N4O4,Name not found,Organoheterocyclic compounds,Indoles and derivatives,Carbazoles,Pyrrolocarbazoles,Alkaloids,Anthranilic acid alkaloids,Quinazoline alkaloids
+11.209_405.11214_HILIC,L3,NA,C12H23NO14,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.424_272.1624_HILIC,L3,7-oxotetradecanedioic Acid,C14H24O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
 1.427_312.23024_HILIC,L2,(±)9-HpODE,C18H32O4,Name not found,NA,NA,NA,NA,NA,NA,NA
 1.431_372.25154_HILIC,L2,19(R)-Hydroxy prostaglandin F1α,C20H36O6,Name not found,NA,NA,NA,NA,NA,NA,NA
 11.21_740.15178_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 14.307_550.17484_HILIC,L2,"3-[2-(1,3-Benzodioxol-5-yl)-7-methoxy-1-benzofuran-5-yl]-3-hydroxypropyl hexopyranoside",C25H28O11,Name not found,NA,NA,NA,NA,NA,NA,NA
-11.401_297.14252_HILIC,L3.3,NA,C11H23NO8,Name not found,NA,NA,NA,NA,NA,NA,NA
-14.537_729.21725_HILIC,L2.3,"2-({4-[4-(2,4-dimethoxy-6-methylbenzoyloxy)-2-methyl-6-{[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}benzoyloxy]-2-hydroxy-6-methylphenyl}formamido)propanoic acid",C35H39NO16,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.456_200.10503_HILIC,L3.1,NA,C10H16O4,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
-1.457_254.15188_HILIC,M3.3,NA,M,Name not found,Organoheterocyclic compounds,Azoles,NA,NA,Alkaloids,Small peptides,Dipeptides
-1.458_168.11499_HILIC,L3.3,[Similar to: Allethrin; ΔMass: -134.0732 Da],C10H16O2,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.459_224.10477_HILIC,M3.3,NA,M,Name not found,Organoheterocyclic compounds,Azoles,NA,NA,Alkaloids,Small peptides,Aminoacids
-14.813_131.99096_HILIC,L3.3,NA,C3H5N2PS,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.46_180.115_HILIC,L2.3,"(5E,8E)-undeca-5,8,10-trienoic acid",C11H16O2,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Straight chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Unsaturated fatty acids
-1.461_210.16183_HILIC,M3.3,NA,M,Name not found,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Aminopyrimidines and derivatives,Alkaloids,Pseudoalkaloids,pteridine alkaloids
-1.463_356.25659_HILIC,M3.3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Peptides,Amino acids and Peptides,Small peptides,Tripeptides
-1.465_316.22515_HILIC,L3.1,NA,C17H32O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Octadecanoids,Other Octadecanoids
-11.685_338.08529_HILIC,L3.1,NA,C12H18O11,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Sugar acids and derivatives,Carbohydrates,Saccharides,Disaccharides
-1.494_314.2096_HILIC,L3.1,NA,C17H30O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,Fatty acids,Octadecanoids,Other Octadecanoids
+11.401_297.14252_HILIC,L3,NA,C11H23NO8,Name not found,NA,NA,NA,NA,NA,NA,NA
+14.537_729.21725_HILIC,L3,"2-({4-[4-(2,4-dimethoxy-6-methylbenzoyloxy)-2-methyl-6-{[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}benzoyloxy]-2-hydroxy-6-methylphenyl}formamido)propanoic acid",C35H39NO16,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.456_200.10503_HILIC,L3,NA,C10H16O4,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
+1.457_254.15188_HILIC,L3,NA,M,Name not found,Organoheterocyclic compounds,Azoles,NA,NA,Alkaloids,Small peptides,Dipeptides
+1.458_168.11499_HILIC,L3,[Similar to: Allethrin; ΔMass: -134.0732 Da],C10H16O2,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.459_224.10477_HILIC,L3,NA,M,Name not found,Organoheterocyclic compounds,Azoles,NA,NA,Alkaloids,Small peptides,Aminoacids
+14.813_131.99096_HILIC,L3,NA,C3H5N2PS,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.46_180.115_HILIC,L3,"(5E,8E)-undeca-5,8,10-trienoic acid",C11H16O2,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Straight chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Unsaturated fatty acids
+1.461_210.16183_HILIC,L3,NA,M,Name not found,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Aminopyrimidines and derivatives,Alkaloids,Pseudoalkaloids,pteridine alkaloids
+1.463_356.25659_HILIC,L3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Peptides,Amino acids and Peptides,Small peptides,Tripeptides
+1.465_316.22515_HILIC,L3,NA,C17H32O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Octadecanoids,Other Octadecanoids
+11.685_338.08529_HILIC,L3,NA,C12H18O11,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Sugar acids and derivatives,Carbohydrates,Saccharides,Disaccharides
+1.494_314.2096_HILIC,L3,NA,C17H30O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,Fatty acids,Octadecanoids,Other Octadecanoids
 11.685_733.08749_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 2.235_203.97237_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 1.512_328.2252_HILIC,L2,Corchorifatty acid F,C18H32O5,Name not found,NA,NA,NA,NA,NA,NA,NA
-14.987_764.18893_HILIC,L3.3,NA,C42H40N2O4S4,Name not found,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroidal alkaloids,NA,Terpenoids,Steroids,Steroidal alkaloids
+14.987_764.18893_HILIC,L3,NA,C42H40N2O4S4,Name not found,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroidal alkaloids,NA,Terpenoids,Steroids,Steroidal alkaloids
 15.005_195.93484_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.527_356.18375_HILIC,M3.3,NA,M,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+1.527_356.18375_HILIC,L3,NA,M,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
 11.783_460.05237_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 1.54_300.19383_HILIC,L2,"13,14-dihydro-15-keto-tetranor Prostaglandin F1β",C16H28O5,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.548_342.20433_HILIC,L3.1,NA,C18H30O6,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Thromboxanes,Fatty acids,Fatty Acids and Conjugates,Thromboxanes
-11.79_388.12206_HILIC,L2.3,α-D-Lactose,C12H22O11,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.567_284.16247_HILIC,L3.1,NA,C15H24O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Branched fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+1.548_342.20433_HILIC,L3,NA,C18H30O6,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Thromboxanes,Fatty acids,Fatty Acids and Conjugates,Thromboxanes
+1.567_284.16247_HILIC,L3,NA,C15H24O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Branched fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
 1.569_349.89294_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 1.569_385.94279_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.569_70.00302_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-11.854_226.06886_HILIC,L3.3,NA,C7H14O8,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.57_181.9802_HILIC,L3.3,NA,C2H2N2O8,Name not found,NA,NA,NA,NA,NA,NA,NA
-12.008_445.0396_HILIC,L3.3,NA,C10H17N5O11P2,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Monosaccharides,Carbohydrates,Saccharides,Monosaccharides
+11.854_226.06886_HILIC,L3,NA,C7H14O8,Name not found,NA,NA,NA,NA,NA,NA,NA
+12.008_445.0396_HILIC,L3,NA,C10H17N5O11P2,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Monosaccharides,Carbohydrates,Saccharides,Monosaccharides
 1.57_521.91735_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.571_213.91797_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 12.016_342.1165_HILIC,L1,α-D-Lactose,C12H22O11,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.574_214.91755_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-6.84_165.84691_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-12.017_405.11216_HILIC,L3.3,NA,C12H23NO14,Name not found,NA,NA,NA,NA,NA,NA,NA
+12.017_405.11216_HILIC,L3,NA,C12H23NO14,Name not found,NA,NA,NA,NA,NA,NA,NA
 12.03_460.05236_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 16.45_203.93615_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.589_272.16243_HILIC,L2.3,7-oxotetradecanedioic Acid,C14H24O5,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
-12.053_489.16969_HILIC,M3.3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Alkaloids,Small peptides,Dipeptides
-1.593_396.21276_HILIC,M3.3,NA,M,Name not found,Organoheterocyclic compounds,Dithiolanes,Lipoamides,NA,Fatty acids,Fatty amides,N-acyl amines
-16.741_518.1486_HILIC,M3.3,NA,M,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Disaccharides
-12.065_350.02639_HILIC,L3.3,NA,C11H6N6O8,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Alkaloids,Pseudoalkaloids,pteridine alkaloids
-1.6_288.19386_HILIC,L3.1,NA,C15H28O5,Name not found,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
-1.603_230.11532_HILIC,L3.1,NA,C11H18O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
+1.589_272.16243_HILIC,L3,7-oxotetradecanedioic Acid,C14H24O5,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
+12.053_489.16969_HILIC,L3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Alkaloids,Small peptides,Dipeptides
+1.593_396.21276_HILIC,L3,NA,M,Name not found,Organoheterocyclic compounds,Dithiolanes,Lipoamides,NA,Fatty acids,Fatty amides,N-acyl amines
+16.741_518.1486_HILIC,L3,NA,M,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Disaccharides
+12.065_350.02639_HILIC,L3,NA,C11H6N6O8,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Alkaloids,Pseudoalkaloids,pteridine alkaloids
+1.6_288.19386_HILIC,L3,NA,C15H28O5,Name not found,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+1.603_230.11532_HILIC,L3,NA,C11H18O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
 12.068_195.91315_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 1.633_324.19395_HILIC,L2,NP-005397,C18H30O6,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.638_270.13858_HILIC,L3.1,NA,C14H23O3P,Name not found,Lipids and lipid-like molecules,Fatty Acyls,NA,NA,Fatty acids,Fatty Acids and Conjugates,Unsaturated fatty acids
-1.645_458.28826_HILIC,L2.3,"1-(3-Cyanophenyl)-3-({(2R,4S,5S)-5-[(4-phenyl-1-piperazinyl)methyl]-1-azabicyclo[2.2.2]oct-2-yl}methyl)urea",C27H34N6O,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.647_373.21034_HILIC,L3.1,NA,C18H31NO7,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Fatty esters,Pyrrolizidine alkaloids
+1.638_270.13858_HILIC,L3,NA,C14H23O3P,Name not found,Lipids and lipid-like molecules,Fatty Acyls,NA,NA,Fatty acids,Fatty Acids and Conjugates,Unsaturated fatty acids
+1.645_458.28826_HILIC,L3,"1-(3-Cyanophenyl)-3-({(2R,4S,5S)-5-[(4-phenyl-1-piperazinyl)methyl]-1-azabicyclo[2.2.2]oct-2-yl}methyl)urea",C27H34N6O,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.647_373.21034_HILIC,L3,NA,C18H31NO7,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Fatty esters,Pyrrolizidine alkaloids
 1.65_328.2252_HILIC,L2,Corchorifatty acid F,C18H32O5,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.654_270.14681_HILIC,M3.3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Alkaloids,Small peptides,Dipeptides
-1.658_186.08919_HILIC,L3.1,NA,C9H14O4,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
-12.262_445.03958_HILIC,L3.3,NA,C20H16NO7PS,Name not found,Benzenoids,Benzene and substituted derivatives,NA,NA,Shikimates and Phenylpropanoids,Flavonoids,Pyridine alkaloids
-14.954_729.21735_HILIC,L2.3,"2-({4-[4-(2,4-dimethoxy-6-methylbenzoyloxy)-2-methyl-6-{[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}benzoyloxy]-2-hydroxy-6-methylphenyl}formamido)propanoic acid",C35H39NO16,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.654_270.14681_HILIC,L3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Alkaloids,Small peptides,Dipeptides
+1.658_186.08919_HILIC,L3,NA,C9H14O4,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
+12.262_445.03958_HILIC,L3,NA,C20H16NO7PS,Name not found,Benzenoids,Benzene and substituted derivatives,NA,NA,Shikimates and Phenylpropanoids,Flavonoids,Pyridine alkaloids
+14.954_729.21735_HILIC,L3,"2-({4-[4-(2,4-dimethoxy-6-methylbenzoyloxy)-2-methyl-6-{[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}benzoyloxy]-2-hydroxy-6-methylphenyl}formamido)propanoic acid",C35H39NO16,Name not found,NA,NA,NA,NA,NA,NA,NA
 12.263_456.10947_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.676_444.14556_HILIC,M3.3,NA,M,Name not found,Lipids and lipid-like molecules,Steroids and steroid derivatives,Oxosteroids,3-oxosteroids,Terpenoids,Sesquiterpenoids,Farnesane sesquiterpenoids
-1.677_242.11537_HILIC,L3.1,NA,C12H18O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Branched fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
+1.676_444.14556_HILIC,L3,NA,M,Name not found,Lipids and lipid-like molecules,Steroids and steroid derivatives,Oxosteroids,3-oxosteroids,Terpenoids,Sesquiterpenoids,Farnesane sesquiterpenoids
+1.677_242.11537_HILIC,L3,NA,C12H18O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Branched fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
 12.651_388.12208_HILIC,L1,α-D-Lactose,C12H22O11,Name not found,NA,NA,NA,NA,NA,NA,NA
 1.678_370.23579_HILIC,L2,19(R)-Hydroxy prostaglandin F2α,C20H34O6,Name not found,NA,NA,NA,NA,NA,NA,NA
-12.696_268.07949_HILIC,L3.1,NA,C9H16O9,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Sugar acids and derivatives,Carbohydrates,Saccharides,Monosaccharides
-1.68_258.14687_HILIC,L3.1,NA,C13H22O5,Name not found,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+12.696_268.07949_HILIC,L3,NA,C9H16O9,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Sugar acids and derivatives,Carbohydrates,Saccharides,Monosaccharides
+1.68_258.14687_HILIC,L3,NA,C13H22O5,Name not found,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
 12.785_560.08855_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 12.788_622.10468_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.685_400.21014_HILIC,L3.1,NA,C20H32O8,Name not found,Organoheterocyclic compounds,Furofurans,NA,NA,Terpenoids,Sesquiterpenoids,Prezizaane sesquiterpenoids
-1.686_268.13111_HILIC,L3.3,[Similar to: NP-008095; ΔMass: 15.9586 Da],C14H20O5,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.685_400.21014_HILIC,L3,NA,C20H32O8,Name not found,Organoheterocyclic compounds,Furofurans,NA,NA,Terpenoids,Sesquiterpenoids,Prezizaane sesquiterpenoids
+1.686_268.13111_HILIC,L3,[Similar to: NP-008095; ΔMass: 15.9586 Da],C14H20O5,Name not found,NA,NA,NA,NA,NA,NA,NA
 2.316_244.90661_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 1.686_388.24771_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.686_460.17365_HILIC,M3.3,NA,M,Name not found,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,Terpenoids,Sesquiterpenoids,Germacrane sesquiterpenoids
-1.687_204.13576_HILIC,L3.3,NA,C10H20O4,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.687_274.17809_HILIC,L3.1,NA,C14H26O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
-12.974_416.15334_HILIC,L3.1,NA,C15H28O13,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acyl glycosides,Alkyl glycosides,Carbohydrates,Saccharides,Disaccharides
-12.975_479.14894_HILIC,L3.3,NA,C15H29NO16,Name not found,NA,NA,NA,NA,NA,NA,NA
-12.986_463.09992_HILIC,L3.3,NA,C14H25NO14S,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Monosaccharides,Carbohydrates,Aminosugars and aminoglycosides,Aminosugars
-1.69_358.19957_HILIC,L2.3,N1-[5-Methyl-2-(1H-pyrrol-1-yl)phenyl]-2-cyclopentyl-2-phenylacetamide,C24H26N2O,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.686_460.17365_HILIC,L3,NA,M,Name not found,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,Terpenoids,Sesquiterpenoids,Germacrane sesquiterpenoids
+1.687_204.13576_HILIC,L3,NA,C10H20O4,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.687_274.17809_HILIC,L3,NA,C14H26O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+12.974_416.15334_HILIC,L3,NA,C15H28O13,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acyl glycosides,Alkyl glycosides,Carbohydrates,Saccharides,Disaccharides
+12.975_479.14894_HILIC,L3,NA,C15H29NO16,Name not found,NA,NA,NA,NA,NA,NA,NA
+12.986_463.09992_HILIC,L3,NA,C14H25NO14S,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Monosaccharides,Carbohydrates,Aminosugars and aminoglycosides,Aminosugars
+1.69_358.19957_HILIC,L3,N1-[5-Methyl-2-(1H-pyrrol-1-yl)phenyl]-2-cyclopentyl-2-phenylacetamide,C24H26N2O,Name not found,NA,NA,NA,NA,NA,NA,NA
 13.094_567.16491_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.691_360.21511_HILIC,L3.1,NA,C18H32O7,Name not found,Lipids and lipid-like molecules,Fatty Acyls,NA,NA,Polyketides,Macrolides,Macrolide lactones
-1.692_342.20438_HILIC,L2.3,"2,4-Tetradecadienedioicacid, 12-hydroxy-13-(hydroxymethyl)-3,5,7-trimethyl- (9CI)",C18H30O6,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
-1.692_470.2519_HILIC,L3.3,NA,C24H38O9,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,NA,Polyketides,Linear polyketides,Open-chain polyketides
-13.14_268.07952_HILIC,L3.1,NA,C9H16O9,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Sugar acids and derivatives,Carbohydrates,Saccharides,Disaccharides
-1.694_190.12049_HILIC,L3.1,NA,C9H18O4,Name not found,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
-1.695_302.17309_HILIC,M3.3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Carbohydrates,Small peptides,Aminoacids
-13.351_504.16934_HILIC,L2.3,"3-[2-(1,3-Benzodioxol-5-yl)-7-methoxy-1-benzofuran-5-yl]-3-hydroxypropyl hexopyranoside",C25H28O11,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.696_374.19443_HILIC,L3.3,NA,C18H30O8,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,NA,Fatty acids,Macrolides,Macrolide lactones
-2.707_254.07096_HILIC,M3.3,NA,M,Name not found,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Pyrimidones,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids
-1.7_260.16236_HILIC,L3.3,NA,C11H22N3O4,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Alkaloids,Small peptides,Dipeptides
-1.702_146.09433_HILIC,L3.1,NA,C7H14O3,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Branched fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+1.691_360.21511_HILIC,L3,NA,C18H32O7,Name not found,Lipids and lipid-like molecules,Fatty Acyls,NA,NA,Polyketides,Macrolides,Macrolide lactones
+1.692_342.20438_HILIC,L3,"2,4-Tetradecadienedioicacid, 12-hydroxy-13-(hydroxymethyl)-3,5,7-trimethyl- (9CI)",C18H30O6,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+1.692_470.2519_HILIC,L3,NA,C24H38O9,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,NA,Polyketides,Linear polyketides,Open-chain polyketides
+13.14_268.07952_HILIC,L3,NA,C9H16O9,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Sugar acids and derivatives,Carbohydrates,Saccharides,Disaccharides
+1.694_190.12049_HILIC,L3,NA,C9H18O4,Name not found,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+1.695_302.17309_HILIC,L3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Carbohydrates,Small peptides,Aminoacids
+13.351_504.16934_HILIC,L3,"3-[2-(1,3-Benzodioxol-5-yl)-7-methoxy-1-benzofuran-5-yl]-3-hydroxypropyl hexopyranoside",C25H28O11,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.696_374.19443_HILIC,L3,NA,C18H30O8,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,NA,Fatty acids,Macrolides,Macrolide lactones
+2.707_254.07096_HILIC,L3,NA,M,Name not found,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Pyrimidones,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids
+1.7_260.16236_HILIC,L3,NA,C11H22N3O4,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Alkaloids,Small peptides,Dipeptides
+1.702_146.09433_HILIC,L3,NA,C7H14O3,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Branched fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
 13.441_567.16493_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.709_357.10089_HILIC,L3.1,NA,C22H15NO4,Name not found,Benzenoids,Benzene and substituted derivatives,NA,NA,Shikimates and Phenylpropanoids,Flavonoids,Chalcones
-1.712_266.11308_HILIC,L3.3,[Similar to: NP-004844; ΔMass: -30.0129 Da],C10H14N6O3,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.709_357.10089_HILIC,L3,NA,C22H15NO4,Name not found,Benzenoids,Benzene and substituted derivatives,NA,NA,Shikimates and Phenylpropanoids,Flavonoids,Chalcones
+1.712_266.11308_HILIC,L3,[Similar to: NP-004844; ΔMass: -30.0129 Da],C10H14N6O3,Name not found,NA,NA,NA,NA,NA,NA,NA
 13.629_618.16156_HILIC,Unknown,NA,NA,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Glycosyl compounds,Terpenoids,Monoterpenoids,Secoiridoid monoterpenoids
-1.733_254.11543_HILIC,L3.1,NA,C13H18O5,Name not found,Organic acids and derivatives,Keto acids and derivatives,Medium-chain keto acids and derivatives,NA,Fatty acids,Octadecanoids,Jasmonic acids
-1.794_232.13099_HILIC,L3.1,NA,C11H20O5,Name not found,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+1.733_254.11543_HILIC,L3,NA,C13H18O5,Name not found,Organic acids and derivatives,Keto acids and derivatives,Medium-chain keto acids and derivatives,NA,Fatty acids,Octadecanoids,Jasmonic acids
+1.794_232.13099_HILIC,L3,NA,C11H20O5,Name not found,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
 13.633_622.10469_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-2.234_172.0347_HILIC,L3.1,NA,C3H4N6O3,Name not found,"Organic 1,3-dipolar compounds","Allyl-type 1,3-dipolar organic compounds",Organic nitro compounds,NA,Alkaloids,Pseudoalkaloids,Aminoacids
+2.234_172.0347_HILIC,L3,NA,C3H4N6O3,Name not found,"Organic 1,3-dipolar compounds","Allyl-type 1,3-dipolar organic compounds",Organic nitro compounds,NA,Alkaloids,Pseudoalkaloids,Aminoacids
 1.9_217.9881_HILIC,Unknown,NA,NA,Name not found,Organic acids and derivatives,Organic phosphoric acids and derivatives,Phosphate esters,Phosphoethanolamines,Amino acids and Peptides,Small peptides,Aminoacids
-9.567_368.11271_HILIC,L2.3,ethyl 4-[2-(4-methylbenzoyl)hydrazino]-2-(trifluoromethyl)pyrimidine-5-carboxylate,C16H15F3N4O3,Name not found,NA,NA,NA,NA,NA,NA,NA
-1.995_144.07867_HILIC,L3.1,NA,C7H12O3,Name not found,Organic acids and derivatives,Hydroxy acids and derivatives,NA,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
-10.361_266.06518_HILIC,M3.3,NA,M,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Monosaccharides,Carbohydrates,Saccharides,Monosaccharides
-13.656_500.13822_HILIC,L3.3,NA,C18H28O16,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Glycosyl compounds,Carbohydrates,Saccharides,Disaccharides
+9.567_368.11271_HILIC,L3,ethyl 4-[2-(4-methylbenzoyl)hydrazino]-2-(trifluoromethyl)pyrimidine-5-carboxylate,C16H15F3N4O3,Name not found,NA,NA,NA,NA,NA,NA,NA
+1.995_144.07867_HILIC,L3,NA,C7H12O3,Name not found,Organic acids and derivatives,Hydroxy acids and derivatives,NA,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+10.361_266.06518_HILIC,L3,NA,M,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Monosaccharides,Carbohydrates,Saccharides,Monosaccharides
+13.656_500.13822_HILIC,L3,NA,C18H28O16,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Glycosyl compounds,Carbohydrates,Saccharides,Disaccharides
 10.496_237.97616_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-13.764_500.138_HILIC,L3.1,NA,C18H28O16,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Disaccharides
-3.485_346.1265_HILIC,M3.3,NA,M,Name not found,"Nucleosides, nucleotides, and analogues",Purine nucleosides,NA,NA,Carbohydrates,Nucleosides,Purine nucleos(t)ides
-13.795_384.12711_HILIC,M,Sucrose 6''-Acetate,M,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Disaccharides
-10.594_357.97429_HILIC,L3.3,NA,C13H11O6PS2,Name not found,NA,NA,NA,NA,NA,NA,NA
-13.796_618.16186_HILIC,L3.3,NA,C29H30O15,Name not found,Phenylpropanoids and polyketides,Flavonoids,Flavones,NA,Shikimates and Phenylpropanoids,Flavonoids,Flavones
+13.764_500.138_HILIC,L3,NA,C18H28O16,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Disaccharides
+3.485_346.1265_HILIC,L3,NA,M,Name not found,"Nucleosides, nucleotides, and analogues",Purine nucleosides,NA,NA,Carbohydrates,Nucleosides,Purine nucleos(t)ides
+10.594_357.97429_HILIC,L3,NA,C13H11O6PS2,Name not found,NA,NA,NA,NA,NA,NA,NA
+13.796_618.16186_HILIC,L3,NA,C29H30O15,Name not found,Phenylpropanoids and polyketides,Flavonoids,Flavones,NA,Shikimates and Phenylpropanoids,Flavonoids,Flavones
 13.796_622.10485_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 15.123_723.14045_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-10.886_260.13727_HILIC,M3.3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Peptides,Amino acids and Peptides,Small peptides,Dipeptides
+10.886_260.13727_HILIC,L3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Peptides,Amino acids and Peptides,Small peptides,Dipeptides
 3.525_258.74089_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-11.123_281.0761_HILIC,L3.1,NA,C10H11N5O5,Name not found,"Nucleosides, nucleotides, and analogues",Purine nucleosides,NA,NA,Carbohydrates,Nucleosides,Purine nucleos(t)ides
-13.863_500.13799_HILIC,L3.1,NA,C18H28O16,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Disaccharides
-13.939_430.1326_HILIC,L3.1,NA,C15H26O14,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Disaccharides,Carbohydrates,Saccharides,Disaccharides
-13.996_384.12712_HILIC,M3.3,NA,M,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Disaccharides,Carbohydrates,Saccharides,Disaccharides
+11.123_281.0761_HILIC,L3,NA,C10H11N5O5,Name not found,"Nucleosides, nucleotides, and analogues",Purine nucleosides,NA,NA,Carbohydrates,Nucleosides,Purine nucleos(t)ides
+13.863_500.13799_HILIC,L3,NA,C18H28O16,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Disaccharides
+13.939_430.1326_HILIC,L3,NA,C15H26O14,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Disaccharides,Carbohydrates,Saccharides,Disaccharides
+13.996_384.12712_HILIC,L3,NA,M,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Disaccharides,Carbohydrates,Saccharides,Disaccharides
 12.016_388.12205_HILIC,L1,α-D-Lactose,C12H22O11,Name not found,NA,NA,NA,NA,NA,NA,NA
 14.014_567.16493_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 11.209_460.05234_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-11.209_684.23215_HILIC,M3.3,NA,M,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acyl glycosides,Fatty acyl glycosides of mono- and disaccharides,Fatty acids,Glycerolipids,Glycosylmonoacylglycerols
+11.209_684.23215_HILIC,L3,NA,M,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acyl glycosides,Fatty acyl glycosides of mono- and disaccharides,Fatty acids,Glycerolipids,Glycosylmonoacylglycerols
 11.21_442.04181_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-14.171_353.00489_HILIC,M3.3,NA,M,Name not found,Organoheterocyclic compounds,Thiophenes,Thiophene carboxylic acids and derivatives,NA,Amino acids and Peptides,Small peptides,Aminoacids
+14.171_353.00489_HILIC,L3,NA,M,Name not found,Organoheterocyclic compounds,Thiophenes,Thiophene carboxylic acids and derivatives,NA,Amino acids and Peptides,Small peptides,Aminoacids
 3.953_188.06845_HILIC,L2,NP-022068,C8H12O5,Name not found,NA,NA,NA,NA,NA,NA,NA
-16.473_828.2743_HILIC,L3.3,NA,C34H40N10O15,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aminosaccharides,Carbohydrates,Aminosugars and aminoglycosides,Amino cyclitols
 4.004_307.06537_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 16.746_828.27449_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 14.8_501.92717_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-11.502_246.12161_HILIC,L3.3,NA,C10H18N2O5,Name not found,NA,NA,NA,NA,NA,NA,NA
-11.553_405.11217_HILIC,L3.3,NA,C13H19N5O10,Name not found,NA,NA,NA,NA,NA,NA,NA
+11.502_246.12161_HILIC,L3,NA,C10H18N2O5,Name not found,NA,NA,NA,NA,NA,NA,NA
+11.553_405.11217_HILIC,L3,NA,C13H19N5O10,Name not found,NA,NA,NA,NA,NA,NA,NA
 4.472_158.01904_HILIC,Unknown,NA,NA,Name not found,Organoheterocyclic compounds,Azoles,NA,NA,Alkaloids,Pseudoalkaloids,pteridine alkaloids
-11.682_394.005_HILIC,L3.3,NA,C14H18O5S4,Name not found,Organosulfur compounds,Thioacetals,NA,NA,Fatty acids,Fatty acyls,Oxygenated hydrocarbons
-11.682_395.0028_HILIC,L3.3,NA,C11H14N3O7PS2,Name not found,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Thiamines,Carbohydrates,Nicotinic acid alkaloids,Pyridine alkaloids
-11.682_406.07285_HILIC,L3.3,NA,C19H18O8S,Name not found,Benzenoids,Naphthalenes,NA,NA,Shikimates and Phenylpropanoids,Naphthalenes,Naphthoquinones
-11.682_421.00789_HILIC,L3.3,NA,C13H15N3O7S3,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Dipeptides
+11.682_394.005_HILIC,L3,NA,C14H18O5S4,Name not found,Organosulfur compounds,Thioacetals,NA,NA,Fatty acids,Fatty acyls,Oxygenated hydrocarbons
+11.682_395.0028_HILIC,L3,NA,C11H14N3O7PS2,Name not found,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Thiamines,Carbohydrates,Nicotinic acid alkaloids,Pyridine alkaloids
+11.682_406.07285_HILIC,L3,NA,C19H18O8S,Name not found,Benzenoids,Naphthalenes,NA,NA,Shikimates and Phenylpropanoids,Naphthalenes,Naphthoquinones
+11.682_421.00789_HILIC,L3,NA,C13H15N3O7S3,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Dipeptides
 14.844_203.93614_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-11.685_698.1515_HILIC,L3.3,NA,C33H30O17,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Glycosyl compounds,Shikimates and Phenylpropanoids,Phenolic acids (C6-C1),Gallotannins
+11.685_698.1515_HILIC,L3,NA,C33H30O17,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Glycosyl compounds,Shikimates and Phenylpropanoids,Phenolic acids (C6-C1),Gallotannins
 3.002_191.97263_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-7.721_465.81254_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 11.688_203.93618_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-4.776_279.13185_HILIC,L3.3,NA,C12H17N5O3,Name not found,NA,NA,NA,NA,NA,NA,NA
-4.783_156.00351_HILIC,L3.3,NA,C10H4S,Name not found,NA,NA,NA,NA,NA,NA,NA
-11.748_345.0023_HILIC,L2.3,N1-[4-(2-thienylthio)phenyl]-4-chlorobenzamide,C17H12ClNOS2,Name not found,NA,NA,NA,NA,NA,NA,NA
-4.793_200.02985_HILIC,M3.3,NA,M,Name not found,Organosulfur compounds,Sulfenyl compounds,NA,NA,Amino acids and Peptides,Small peptides,Aminoacids
-11.789_222.0739_HILIC,L3.3,[Similar to: D-(+)-Maltose; ΔMass: -120.0423 Da],C8H14O7,Name not found,NA,NA,NA,NA,NA,NA,NA
-11.79_342.11651_HILIC,L2.3,α-D-Lactose,C12H22O11,Name not found,NA,NA,NA,NA,NA,NA,NA
+4.776_279.13185_HILIC,L3,NA,C12H17N5O3,Name not found,NA,NA,NA,NA,NA,NA,NA
+4.783_156.00351_HILIC,L3,NA,C10H4S,Name not found,NA,NA,NA,NA,NA,NA,NA
+11.748_345.0023_HILIC,L3,N1-[4-(2-thienylthio)phenyl]-4-chlorobenzamide,C17H12ClNOS2,Name not found,NA,NA,NA,NA,NA,NA,NA
+4.793_200.02985_HILIC,L3,NA,M,Name not found,Organosulfur compounds,Sulfenyl compounds,NA,NA,Amino acids and Peptides,Small peptides,Aminoacids
+11.789_222.0739_HILIC,L3,[Similar to: D-(+)-Maltose; ΔMass: -120.0423 Da],C8H14O7,Name not found,NA,NA,NA,NA,NA,NA,NA
 15.014_97.96737_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 11.793_456.10947_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 11.795_442.04185_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-11.797_405.11217_HILIC,L3.3,NA,C13H19N5O10,Name not found,NA,NA,NA,NA,NA,NA,NA
-3.52_258.03522_HILIC,L3.1,NA,C6H6N6O6,Name not found,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,NA,Alkaloids,Pseudoalkaloids,pteridine alkaloids
-6.351_244.17867_HILIC,M3.3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Aminoacids
-11.859_180.06336_HILIC,L3.3,[Similar to: NP-018436; ΔMass: -106.0419 Da],C6H12O6,Name not found,NA,NA,NA,NA,NA,NA,NA
+11.797_405.11217_HILIC,L3,NA,C13H19N5O10,Name not found,NA,NA,NA,NA,NA,NA,NA
+3.52_258.03522_HILIC,L3,NA,C6H6N6O6,Name not found,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,NA,Alkaloids,Pseudoalkaloids,pteridine alkaloids
+6.351_244.17867_HILIC,L3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Aminoacids
+11.859_180.06336_HILIC,L3,[Similar to: NP-018436; ΔMass: -106.0419 Da],C6H12O6,Name not found,NA,NA,NA,NA,NA,NA,NA
 15.128_159.94632_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-12.01_456.10944_HILIC,L3.1,NA,C16H24O15,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Disaccharides,Carbohydrates,Saccharides,Disaccharides
-12.016_222.0739_HILIC,L3.3,[Similar to: D-(+)-Maltose; ΔMass: -120.0423 Da],C8H14O7,Name not found,NA,NA,NA,NA,NA,NA,NA
-6.839_175.84685_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
+12.01_456.10944_HILIC,L3,NA,C16H24O15,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Disaccharides,Carbohydrates,Saccharides,Disaccharides
+12.016_222.0739_HILIC,L3,[Similar to: D-(+)-Maltose; ΔMass: -120.0423 Da],C8H14O7,Name not found,NA,NA,NA,NA,NA,NA,NA
 2.328_218.8851_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-13.094_504.1693_HILIC,L2.3,"3-[2-(1,3-Benzodioxol-5-yl)-7-methoxy-1-benzofuran-5-yl]-3-hydroxypropyl hexopyranoside",C25H28O11,Name not found,NA,NA,NA,NA,NA,NA,NA
+13.094_504.1693_HILIC,L3,"3-[2-(1,3-Benzodioxol-5-yl)-7-methoxy-1-benzofuran-5-yl]-3-hydroxypropyl hexopyranoside",C25H28O11,Name not found,NA,NA,NA,NA,NA,NA,NA
 16.162_203.93616_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 16.345_828.27442_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 6.84_206.84694_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 12.051_442.04183_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 16.473_159.94631_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-13.346_500.138_HILIC,L3.1,NA,C18H28O16,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Disaccharides
-6.841_167.84274_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
+13.346_500.138_HILIC,L3,NA,C18H28O16,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Disaccharides
 2.53_149.93166_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 17.078_990.32655_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-12.067_246.9784_HILIC,L3.3,NA,C4H9O8P2,Name not found,Organic acids and derivatives,Hydroxy acids and derivatives,Short-chain hydroxy acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+12.067_246.9784_HILIC,L3,NA,C4H9O8P2,Name not found,Organic acids and derivatives,Hydroxy acids and derivatives,Short-chain hydroxy acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
 17.586_203.93615_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 17.586_990.32648_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-12.068_202.98868_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-12.068_316.08853_HILIC,L3.3,NA,C8H12N8O6,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,pteridine alkaloids
-12.073_336.06966_HILIC,L2.3,"5-(4-aminophenyl)-N-[2-(trifluoromethyl)phenyl]-1,3,4-thiadiazol-2-amine",C15H11F3N4S,Name not found,NA,NA,NA,NA,NA,NA,NA
-12.261_342.11649_HILIC,L3.3,"[Similar to: α,α-Trehalose; ΔMass: 0.0003 Da]",C12H22O11,Name not found,NA,NA,NA,NA,NA,NA,NA
+12.068_316.08853_HILIC,L3,NA,C8H12N8O6,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,pteridine alkaloids
+12.073_336.06966_HILIC,L3,"5-(4-aminophenyl)-N-[2-(trifluoromethyl)phenyl]-1,3,4-thiadiazol-2-amine",C15H11F3N4S,Name not found,NA,NA,NA,NA,NA,NA,NA
+12.261_342.11649_HILIC,L3,"[Similar to: α,α-Trehalose; ΔMass: 0.0003 Da]",C12H22O11,Name not found,NA,NA,NA,NA,NA,NA,NA
 12.261_460.05239_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-12.262_405.11214_HILIC,L3.3,NA,C12H23NO14,Name not found,NA,NA,NA,NA,NA,NA,NA
+12.262_405.11214_HILIC,L3,NA,C12H23NO14,Name not found,NA,NA,NA,NA,NA,NA,NA
 14.853_298.88565_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 4.741_188.941_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 2.235_216.08042_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-12.397_318.06224_HILIC,L3.3,"[Similar to: 3-(2,3-dihydro-1,4-benzodioxin-6-ylamino)-2-[3-(trifluoromethyl)benzoyl]acrylonitrile; ΔMass: -56.0256 Da]",C9H18O10S,Name not found,NA,NA,NA,NA,NA,NA,NA
-12.441_405.11219_HILIC,L3.3,NA,C12H23NO14,Name not found,NA,NA,NA,NA,NA,NA,NA
+12.397_318.06224_HILIC,L3,"[Similar to: 3-(2,3-dihydro-1,4-benzodioxin-6-ylamino)-2-[3-(trifluoromethyl)benzoyl]acrylonitrile; ΔMass: -56.0256 Da]",C9H18O10S,Name not found,NA,NA,NA,NA,NA,NA,NA
+12.441_405.11219_HILIC,L3,NA,C12H23NO14,Name not found,NA,NA,NA,NA,NA,NA,NA
 2.279_198.81548_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-12.651_405.11216_HILIC,L3.3,NA,C12H23NO14,Name not found,NA,NA,NA,NA,NA,NA,NA
-2.292_228.09986_HILIC,L3.1,NA,C11H16O5,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
-12.696_368.00487_HILIC,L3.3,NA,C11H12O12S,Name not found,Benzenoids,Benzene and substituted derivatives,Benzenesulfonic acids and derivatives,Sulfobenzoic acids,Shikimates and Phenylpropanoids,Phenolic acids (C6-C1),Simple phenolic acids
+12.651_405.11216_HILIC,L3,NA,C12H23NO14,Name not found,NA,NA,NA,NA,NA,NA,NA
+2.292_228.09986_HILIC,L3,NA,C11H16O5,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
+12.696_368.00487_HILIC,L3,NA,C11H12O12S,Name not found,Benzenoids,Benzene and substituted derivatives,Benzenesulfonic acids and derivatives,Sulfobenzoic acids,Shikimates and Phenylpropanoids,Phenolic acids (C6-C1),Simple phenolic acids
 2.314_342.01554_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 2.315_163.92108_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-12.79_604.09439_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-12.791_504.1693_HILIC,L2.3,"3-[2-(1,3-Benzodioxol-5-yl)-7-methoxy-1-benzofuran-5-yl]-3-hydroxypropyl hexopyranoside",C25H28O11,Name not found,NA,NA,NA,NA,NA,NA,NA
+12.791_504.1693_HILIC,L3,"3-[2-(1,3-Benzodioxol-5-yl)-7-methoxy-1-benzofuran-5-yl]-3-hydroxypropyl hexopyranoside",C25H28O11,Name not found,NA,NA,NA,NA,NA,NA,NA
 15.119_784.15744_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-12.792_618.16182_HILIC,M,NA,M,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Glycosyl compounds,Shikimates and Phenylpropanoids,Isoflavonoids,Isoflavones
 2.317_162.92082_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-12.952_500.138_HILIC,L3.1,NA,C18H28O16,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Disaccharides
-12.954_298.0901_HILIC,L3.1,NA,C10H18O10,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Sugar acids and derivatives,Carbohydrates,Saccharides,Disaccharides
+12.952_500.138_HILIC,L3,NA,C18H28O16,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Disaccharides
+12.954_298.0901_HILIC,L3,NA,C10H18O10,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Sugar acids and derivatives,Carbohydrates,Saccharides,Disaccharides
 2.319_222.88176_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 2.32_198.91337_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-8.18_279.02538_HILIC,L3.1,NA,C7H10N3O7P,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids
+8.18_279.02538_HILIC,L3,NA,C7H10N3O7P,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids
 6.839_93.9353_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 2.347_195.86313_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-13.095_561.08689_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 13.095_622.10484_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-13.096_618.16168_HILIC,L3.3,NA,C29H30O15,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Glycosyl compounds,Shikimates and Phenylpropanoids,Lignans,Isoflavones
-2.424_282.10798_HILIC,L3.1,NA,C10H14N6O4,Name not found,"Nucleosides, nucleotides, and analogues",Purine nucleosides,NA,NA,Carbohydrates,Nucleosides,Purine nucleos(t)ides
-6.841_163.84972_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-13.347_650.22685_HILIC,M3.3,NA,M,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Polysaccharides
-2.512_242.1154_HILIC,L2.3,"2-Dodecenedioic acid, 4-oxo-",C12H18O5,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
-8.914_181.98027_HILIC,L3.3,NA,C2H2N2O8,Name not found,NA,NA,NA,NA,NA,NA,NA
-8.915_521.91765_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
+13.096_618.16168_HILIC,L3,NA,C29H30O15,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Glycosyl compounds,Shikimates and Phenylpropanoids,Lignans,Isoflavones
+2.424_282.10798_HILIC,L3,NA,C10H14N6O4,Name not found,"Nucleosides, nucleotides, and analogues",Purine nucleosides,NA,NA,Carbohydrates,Nucleosides,Purine nucleos(t)ides
+13.347_650.22685_HILIC,L3,NA,M,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Polysaccharides
+2.512_242.1154_HILIC,L3,"2-Dodecenedioic acid, 4-oxo-",C12H18O5,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
 13.393_550.17481_HILIC,L2,"3-[2-(1,3-Benzodioxol-5-yl)-7-methoxy-1-benzofuran-5-yl]-3-hydroxypropyl hexopyranoside",C25H28O11,Name not found,NA,NA,NA,NA,NA,NA,NA
-13.441_504.16933_HILIC,L2.3,"3-[2-(1,3-Benzodioxol-5-yl)-7-methoxy-1-benzofuran-5-yl]-3-hydroxypropyl hexopyranoside",C25H28O11,Name not found,NA,NA,NA,NA,NA,NA,NA
-8.921_317.95534_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
+13.441_504.16933_HILIC,L3,"3-[2-(1,3-Benzodioxol-5-yl)-7-methoxy-1-benzofuran-5-yl]-3-hydroxypropyl hexopyranoside",C25H28O11,Name not found,NA,NA,NA,NA,NA,NA,NA
 13.442_622.10486_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-13.611_352.06439_HILIC,L3.1,NA,C12H16O12,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Sugar acids and derivatives,Carbohydrates,Saccharides,Disaccharides
+13.611_352.06439_HILIC,L3,NA,C12H16O12,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Sugar acids and derivatives,Carbohydrates,Saccharides,Disaccharides
 2.907_215.97249_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 2.937_201.95702_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-13.632_567.16486_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 2.186_197.91786_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-9.174_242.0539_HILIC,L3.3,NA,C9H10N2O6,Name not found,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides,NA,NA,Carbohydrates,Nucleosides,Pyrimidine nucleos(t)ides
+9.174_242.0539_HILIC,L3,NA,C9H10N2O6,Name not found,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides,NA,NA,Carbohydrates,Nucleosides,Pyrimidine nucleos(t)ides
 13.634_203.93616_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 14.968_784.15754_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 13.634_604.09462_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-13.638_540.146_HILIC,L3.3,NA,C31H24O9,Name not found,Phenylpropanoids and polyketides,2-arylbenzofuran flavonoids,NA,NA,Shikimates and Phenylpropanoids,Coumarins,Neolignans
-9.787_359.20592_HILIC,L2.3,2-[[2-[(2-amino-3-methylbutanoyl)amino]-4-carboxybutanoyl]amino]-4-methylpentanoic acid,C16H29N3O6,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Peptides,Amino acids and Peptides,Small peptides,Dipeptides
+13.638_540.146_HILIC,L3,NA,C31H24O9,Name not found,Phenylpropanoids and polyketides,2-arylbenzofuran flavonoids,NA,NA,Shikimates and Phenylpropanoids,Coumarins,Neolignans
+9.787_359.20592_HILIC,L3,2-[[2-[(2-amino-3-methylbutanoyl)amino]-4-carboxybutanoyl]amino]-4-methylpentanoic acid,C16H29N3O6,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Peptides,Amino acids and Peptides,Small peptides,Dipeptides
 13.695_561.08688_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-9.853_281.14753_HILIC,L3.1,NA,C11H23NO7,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acyl glycosides,Alkyl glycosides,Amino acids and Peptides,Amino acid glycosides,Cyanogenic glycosides
-9.892_254.10027_HILIC,M3.3,NA,M,Name not found,Benzenoids,Benzene and substituted derivatives,NA,NA,Fatty acids,Fatty Acids and Conjugates,Carbocyclic fatty acids
-3.516_280.01729_HILIC,L2.3,"Pyridine, 2-[(2-nitrophenyl)sulfonyl]-, 1-oxide",C11H8N2O5S,Name not found,Organic nitrogen compounds,Organonitrogen compounds,N-arylamides,NA,Alkaloids,Anthranilic acid alkaloids,Quinazoline alkaloids
-13.796_222.07388_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
+9.853_281.14753_HILIC,L3,NA,C11H23NO7,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acyl glycosides,Alkyl glycosides,Amino acids and Peptides,Amino acid glycosides,Cyanogenic glycosides
+9.892_254.10027_HILIC,L3,NA,M,Name not found,Benzenoids,Benzene and substituted derivatives,NA,NA,Fatty acids,Fatty Acids and Conjugates,Carbocyclic fatty acids
+3.516_280.01729_HILIC,L3,"Pyridine, 2-[(2-nitrophenyl)sulfonyl]-, 1-oxide",C11H8N2O5S,Name not found,Organic nitrogen compounds,Organonitrogen compounds,N-arylamides,NA,Alkaloids,Anthranilic acid alkaloids,Quinazoline alkaloids
 3.518_217.95175_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 2.315_305.08611_HILIC,Unknown,NA,NA,Name not found,Organic acids and derivatives,Organic thiophosphoric acids and derivatives,Thiophosphoric acid esters,NA,Fatty acids,Fatty esters,Wax monoesters
-6.172_275.10059_HILIC,L3.1,NA,C11H17NO7,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aminosaccharides,Carbohydrates,Aminosugars and aminoglycosides,Aminosugars
+6.172_275.10059_HILIC,L3,NA,C11H17NO7,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Aminosaccharides,Carbohydrates,Aminosugars and aminoglycosides,Aminosugars
 13.797_567.1649_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-15.127_729.21732_HILIC,L2.3,"2-({4-[4-(2,4-dimethoxy-6-methylbenzoyloxy)-2-methyl-6-{[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}benzoyloxy]-2-hydroxy-6-methylphenyl}formamido)propanoic acid",C35H39NO16,Name not found,NA,NA,NA,NA,NA,NA,NA
+15.127_729.21732_HILIC,L3,"2-({4-[4-(2,4-dimethoxy-6-methylbenzoyloxy)-2-methyl-6-{[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}benzoyloxy]-2-hydroxy-6-methylphenyl}formamido)propanoic acid",C35H39NO16,Name not found,NA,NA,NA,NA,NA,NA,NA
 3.526_179.85132_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 3.526_302.69057_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-15.288_518.14852_HILIC,L3.3,NA,C18H30O17,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Disaccharides
+15.288_518.14852_HILIC,L3,NA,C18H30O17,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Carbohydrates,Saccharides,Disaccharides
 6.839_161.84907_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 8.384_179.91841_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 3.761_203.93604_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-14.161_384.12711_HILIC,L3.1,NA,C14H24O12,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Disaccharides,Carbohydrates,Saccharides,Disaccharides
+14.161_384.12711_HILIC,L3,NA,C14H24O12,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Disaccharides,Carbohydrates,Saccharides,Disaccharides
 14.168_567.1649_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-3.925_313.1025_HILIC,M3.3,NA,M,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Sugar acids and derivatives,Amino acids and Peptides,Aminosugars and aminoglycosides,Aminosugars
+3.925_313.1025_HILIC,L3,NA,M,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Sugar acids and derivatives,Amino acids and Peptides,Aminosugars and aminoglycosides,Aminosugars
 8.901_725.87959_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 6.841_164.84754_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 2.316_245.90439_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 6.841_256.82955_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-6.842_154.8759_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-14.811_387.94688_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-14.812_115.996_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 6.843_316.86202_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-14.82_273.96624_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-14.828_160.98622_HILIC,L3.3,NA,C2H2N4O3P,Name not found,Organoheterocyclic compounds,Heteroaromatic compounds,NA,NA,Alkaloids,Pseudoalkaloids,pteridine alkaloids
-14.829_290.95646_HILIC,L3.3,NA,C4H7NO10P2,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Aminoacids
-4.695_251.95867_HILIC,L3.3,NA,C6H6O7P2,Name not found,NA,NA,NA,NA,NA,NA,NA
-2.99_262.14164_HILIC,L3.1,NA,C12H22O6,Name not found,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
-4.741_143.9515_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-8.907_113.99294_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-7.721_549.77393_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-2.235_273.00668_HILIC,L3.3,NA,C8H7N3O6S,Name not found,"Organic 1,3-dipolar compounds","Allyl-type 1,3-dipolar organic compounds",Organic nitro compounds,C-nitro compounds,Amino acids and Peptides,Î²-lactams,Cephalosporins
-7.722_297.88966_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
+14.829_290.95646_HILIC,L3,NA,C4H7NO10P2,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Aminoacids
+4.695_251.95867_HILIC,L3,NA,C6H6O7P2,Name not found,NA,NA,NA,NA,NA,NA,NA
+2.99_262.14164_HILIC,L3,NA,C12H22O6,Name not found,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+2.235_273.00668_HILIC,L3,NA,C8H7N3O6S,Name not found,"Organic 1,3-dipolar compounds","Allyl-type 1,3-dipolar organic compounds",Organic nitro compounds,C-nitro compounds,Amino acids and Peptides,Î²-lactams,Cephalosporins
 15.008_197.89263_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-7.723_129.9669_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 15.011_180.88975_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 15.011_198.89277_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-7.82_279.9887_HILIC,L3.3,NA,C12H8O4S2,Name not found,Benzenoids,Benzene and substituted derivatives,Benzenesulfonyl compounds,NA,Shikimates and Phenylpropanoids,Phenolic acids (C6-C1),Simple phenolic acids
-15.107_764.1893_HILIC,L3.3,NA,C46H36O7S2,Name not found,Lipids and lipid-like molecules,Steroids and steroid derivatives,Sulfated steroids,NA,Terpenoids,Steroids,Pregnane steroids
+7.82_279.9887_HILIC,L3,NA,C12H8O4S2,Name not found,Benzenoids,Benzene and substituted derivatives,Benzenesulfonyl compounds,NA,Shikimates and Phenylpropanoids,Phenolic acids (C6-C1),Simple phenolic acids
+15.107_764.1893_HILIC,L3,NA,C46H36O7S2,Name not found,Lipids and lipid-like molecules,Steroids and steroid derivatives,Sulfated steroids,NA,Terpenoids,Steroids,Pregnane steroids
 15.118_203.93615_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-5.751_227.09067_HILIC,L3.3,[Similar to: 2'-Deoxycytidine ; ΔMass: 0.0001 Da],C9H13N3O4,Name not found,NA,NA,NA,NA,NA,NA,NA
+5.751_227.09067_HILIC,L3,[Similar to: 2'-Deoxycytidine ; ΔMass: 0.0001 Da],C9H13N3O4,Name not found,NA,NA,NA,NA,NA,NA,NA
 7.877_269.99438_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-9.152_460.1584_HILIC,M3.3,NA,M,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Disaccharides,Shikimates and Phenylpropanoids,Phenylethanoids (C6-C2),Phenylethanoids
-8.096_368.1127_HILIC,L2.3,ethyl 4-[2-(4-methylbenzoyl)hydrazino]-2-(trifluoromethyl)pyrimidine-5-carboxylate,C16H15F3N4O3,Name not found,NA,NA,NA,NA,NA,NA,NA
+9.152_460.1584_HILIC,L3,NA,M,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Disaccharides,Shikimates and Phenylpropanoids,Phenylethanoids (C6-C2),Phenylethanoids
+8.096_368.1127_HILIC,L3,ethyl 4-[2-(4-methylbenzoyl)hydrazino]-2-(trifluoromethyl)pyrimidine-5-carboxylate,C16H15F3N4O3,Name not found,NA,NA,NA,NA,NA,NA,NA
 6.807_267.09688_HILIC,L1,2′-Deoxyguanosine,C10H13N5O4,Name not found,NA,NA,NA,NA,NA,NA,NA
-15.128_780.21436_HILIC,L3.3,NA,C35H40O20,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Shikimates and Phenylpropanoids,Flavonoids,Flavonols
+15.128_780.21436_HILIC,L3,NA,C35H40O20,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Oligosaccharides,Shikimates and Phenylpropanoids,Flavonoids,Flavonols
 8.179_269.99439_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 6.843_275.7722_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-2.794_274.14173_HILIC,L3.1,NA,C13H22O6,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Hydroxy fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
-2.343_242.09034_HILIC,L3.3,NA,C10H14N2O5,Name not found,NA,NA,NA,NA,NA,NA,NA
-6.84_173.84967_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-6.84_198.81531_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
+2.794_274.14173_HILIC,L3,NA,C13H22O6,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Hydroxy fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
+2.343_242.09034_HILIC,L3,NA,C10H14N2O5,Name not found,NA,NA,NA,NA,NA,NA,NA
 2.421_229.98819_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 16.472_891.26983_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 6.841_155.87604_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 8.834_398.89653_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 8.826_397.89873_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 8.913_657.8923_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-4.768_198.01414_HILIC,M3.3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Aminoacids
+4.768_198.01414_HILIC,L3,NA,M,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Aminoacids
 17.348_990.32646_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-7.722_381.85125_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-4.783_237.12119_HILIC,L3.1,NA,C9H19NO6,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Carbohydrates,Aminosugars and aminoglycosides,Aminosugars
-2.031_196.10995_HILIC,L3.3,[Similar to: 12-Epileukotriene B4; ΔMass: -140.1201 Da],C11H16O3,Name not found,NA,NA,NA,NA,NA,NA,NA
+4.783_237.12119_HILIC,L3,NA,C9H19NO6,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Carbohydrates,Aminosugars and aminoglycosides,Aminosugars
+2.031_196.10995_HILIC,L3,[Similar to: 12-Epileukotriene B4; ΔMass: -140.1201 Da],C11H16O3,Name not found,NA,NA,NA,NA,NA,NA,NA
 2.034_203.97238_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 6.847_201.81276_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-2.057_230.11534_HILIC,L3.1,NA,C11H18O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
+2.057_230.11534_HILIC,L3,NA,C11H18O5,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
 6.857_254.80119_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-7.875_364.11474_HILIC,L3.3,NA,C14H16N6O6,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Alkaloids,Pseudoalkaloids,pteridine alkaloids
-3.883_229.06195_HILIC,L3.1,NA,C6H15NO6S,Name not found,Organic acids and derivatives,Organic sulfuric acids and derivatives,Sulfuric acid esters,Sulfuric acid monoesters,Amino acids and Peptides,Small peptides,Aminoacids
-6.838_196.8183_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
+7.875_364.11474_HILIC,L3,NA,C14H16N6O6,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Alkaloids,Pseudoalkaloids,pteridine alkaloids
+3.883_229.06195_HILIC,L3,NA,C6H15NO6S,Name not found,Organic acids and derivatives,Organic sulfuric acids and derivatives,Sulfuric acid esters,Sulfuric acid monoesters,Amino acids and Peptides,Small peptides,Aminoacids
 9.548_279.98868_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 2.317_187.91333_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-3.062_218.11529_HILIC,L3.3,NA,C10H18O5,Name not found,NA,NA,NA,NA,NA,NA,NA
-8.436_256.0696_HILIC,L3.1,NA,C10H12N2O6,Name not found,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides,Pyrimidine 2'-deoxyribonucleosides,NA,Carbohydrates,Nucleosides,Pyrimidine nucleos(t)ides
-2.712_228.07465_HILIC,L3.3,"[Similar to: 5-O-(2-Amino-2-oxoethyl)-1,4:3,6-dianhydro-2-deoxy-2-[(1-naphthylcarbamoyl)amino]-D-glucitol; ΔMass: -143.0735 Da]",C9H12N2O5,Name not found,NA,NA,NA,NA,NA,NA,NA
+3.062_218.11529_HILIC,L3,NA,C10H18O5,Name not found,NA,NA,NA,NA,NA,NA,NA
+8.436_256.0696_HILIC,L3,NA,C10H12N2O6,Name not found,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides,Pyrimidine 2'-deoxyribonucleosides,NA,Carbohydrates,Nucleosides,Pyrimidine nucleos(t)ides
+2.712_228.07465_HILIC,L3,"[Similar to: 5-O-(2-Amino-2-oxoethyl)-1,4:3,6-dianhydro-2-deoxy-2-[(1-naphthylcarbamoyl)amino]-D-glucitol; ΔMass: -143.0735 Da]",C9H12N2O5,Name not found,NA,NA,NA,NA,NA,NA,NA
 7.723_633.73504_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 2.313_135.90197_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 6.849_295.71604_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-7.874_280.02313_HILIC,L3.3,NA,C5H10N6O4P2,Name not found,NA,NA,NA,NA,NA,NA,NA
+7.874_280.02313_HILIC,L3,NA,C5H10N6O4P2,Name not found,NA,NA,NA,NA,NA,NA,NA
 2.315_249.90086_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-2.424_198.05051_HILIC,L2.3,NA,C13H10S,Name not found,NA,NA,NA,NA,NA,NA,NA
+2.424_198.05051_HILIC,L3,NA,C13H10S,Name not found,NA,NA,NA,NA,NA,NA,NA
 2.317_250.89947_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-7.722_131.96497_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-3.523_74.03677_HILIC,L3.3,NA,C3H6O2,Name not found,NA,NA,NA,NA,NA,NA,NA
-8.912_589.90511_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-8.919_385.94294_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-8.922_249.96775_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-3.211_401.20532_HILIC,L3.1,NA,C19H31NO8,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,NA,Terpenoids,Sesquiterpenoids,Colensane and Clerodane diterpenoids
-4.471_244.97529_HILIC,L3.3,NA,C6H3N3O6S,Name not found,"Organic 1,3-dipolar compounds","Allyl-type 1,3-dipolar organic compounds",Organic nitro compounds,C-nitro compounds,Alkaloids,Pseudoalkaloids,Aminoacids
-9.124_266.00749_HILIC,L3.3,NA,C11H6O8,Name not found,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Hydroxybenzoic acid derivatives,Shikimates and Phenylpropanoids,Phenolic acids (C6-C1),Gallotannins
-5.748_273.09619_HILIC,L3.3,[Similar to: 2'-Deoxycytidine ; ΔMass: 46.0056 Da],C12H20NO2PS,Name not found,NA,NA,NA,NA,NA,NA,NA
-8.808_197.02999_HILIC,L3.3,NA,C12H7NS,Name not found,NA,NA,NA,NA,NA,NA,NA
+3.523_74.03677_HILIC,L3,NA,C3H6O2,Name not found,NA,NA,NA,NA,NA,NA,NA
+3.211_401.20532_HILIC,L3,NA,C19H31NO8,Name not found,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,NA,Terpenoids,Sesquiterpenoids,Colensane and Clerodane diterpenoids
+4.471_244.97529_HILIC,L3,NA,C6H3N3O6S,Name not found,"Organic 1,3-dipolar compounds","Allyl-type 1,3-dipolar organic compounds",Organic nitro compounds,C-nitro compounds,Alkaloids,Pseudoalkaloids,Aminoacids
+9.124_266.00749_HILIC,L3,NA,C11H6O8,Name not found,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Hydroxybenzoic acid derivatives,Shikimates and Phenylpropanoids,Phenolic acids (C6-C1),Gallotannins
+5.748_273.09619_HILIC,L3,[Similar to: 2'-Deoxycytidine ; ΔMass: 46.0056 Da],C12H20NO2PS,Name not found,NA,NA,NA,NA,NA,NA,NA
+8.808_197.02999_HILIC,L3,NA,C12H7NS,Name not found,NA,NA,NA,NA,NA,NA,NA
 9.123_265.00971_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-9.618_372.12706_HILIC,M3.3,NA,M,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Monosaccharides,Shikimates and Phenylpropanoids,Amino acid glycosides,Neolignans
-6.796_314.10042_HILIC,L3.1,NA,C14H18O8,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Glycosyl compounds,Shikimates and Phenylpropanoids,Phenolic acids (C6-C1),Acyl phloroglucinols
+9.618_372.12706_HILIC,L3,NA,M,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Monosaccharides,Shikimates and Phenylpropanoids,Amino acid glycosides,Neolignans
+6.796_314.10042_HILIC,L3,NA,C14H18O8,Name not found,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Glycosyl compounds,Shikimates and Phenylpropanoids,Phenolic acids (C6-C1),Acyl phloroglucinols
 8.178_280.02313_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 6.845_260.82334_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-8.917_453.93031_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 2.905_184.03471_HILIC,Unknown,NA,NA,Name not found,Organic acids and derivatives,Hydroxy acids and derivatives,Short-chain hydroxy acids and derivatives,NA,Amino acids and Peptides,Small peptides,Aminoacids
 6.844_273.77529_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
 3.516_301.99922_HILIC,Unknown,NA,NA,Name not found,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Aminoacids
 6.842_271.8043_HILIC,Unknown,NA,NA,Name not found,NA,NA,NA,NA,NA,NA,NA
-10.774_260.13726_HILIC,L2.3,Leucyl-Glutamate,C11H20N2O5,NFNVDJGXRFEYTK-UHFFFAOYSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Peptides,Amino acids and Peptides,Small peptides,Dipeptides
-1.306_258.21952_HILIC,L2.3,2-hydroxypentadecanoate,C15H30O3,NKASEPJANRVKDD-UHFFFAOYSA-M,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
-1.184_294.18325_HILIC,L2.3,gingerol,C17H26O4,NLDDIKRKFXEWBK-AWEZNQCLSA-N,Benzenoids,Phenols,Methoxyphenols,Gingerols,Polyketides,Aromatic polyketides,Catechols with side chains
+10.774_260.13726_HILIC,L3,Leucyl-Glutamate,C11H20N2O5,NFNVDJGXRFEYTK-UHFFFAOYSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Peptides,Amino acids and Peptides,Small peptides,Dipeptides
+1.306_258.21952_HILIC,L3,2-hydroxypentadecanoate,C15H30O3,NKASEPJANRVKDD-UHFFFAOYSA-M,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+1.184_294.18325_HILIC,L3,gingerol,C17H26O4,NLDDIKRKFXEWBK-AWEZNQCLSA-N,Benzenoids,Phenols,Methoxyphenols,Gingerols,Polyketides,Aromatic polyketides,Catechols with side chains
 1.124_320.2353_HILIC,L2,"20-Hydroxy-(5Z,8Z,11Z,14Z)-eicosatetraenoic acid",C20H32O3,NNDIXBJHNLFJJP-DTLRTWKJSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,NA,NA,NA,NA
-1.686_346.23589_HILIC,L2.3,floionic acid,C18H34O6,NQBSWIGTUPEPIH-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Octadecanoids,Hydroxy fatty acids
-1.374_346.23586_HILIC,L2.3,floionic acid,C18H34O6,NQBSWIGTUPEPIH-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Octadecanoids,Other Octadecanoids
-11.734_176.0545_HILIC,L2.3,allantoate,C4H8N4O4,NUCLJNSWZCHRKL-UHFFFAOYSA-M,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Pseudoalkaloids (transamidation),Purine alkaloids
-1.39_214.12038_HILIC,L2.3,2-methylidenedecanedioic acid,C11H18O4,NXWBVVHGBYZNPB-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
-1.34_214.12039_HILIC,L2.3,2-methylidenedecanedioic acid,C11H18O4,NXWBVVHGBYZNPB-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
+1.686_346.23589_HILIC,L3,floionic acid,C18H34O6,NQBSWIGTUPEPIH-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Octadecanoids,Hydroxy fatty acids
+1.374_346.23586_HILIC,L3,floionic acid,C18H34O6,NQBSWIGTUPEPIH-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Octadecanoids,Other Octadecanoids
+11.734_176.0545_HILIC,L3,allantoate,C4H8N4O4,NUCLJNSWZCHRKL-UHFFFAOYSA-M,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Pseudoalkaloids (transamidation),Purine alkaloids
+1.39_214.12038_HILIC,L3,2-methylidenedecanedioic acid,C11H18O4,NXWBVVHGBYZNPB-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
+1.34_214.12039_HILIC,L3,2-methylidenedecanedioic acid,C11H18O4,NXWBVVHGBYZNPB-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
 8.116_283.09177_HILIC,L2,Guanosine,C10H13N5O5,NYHBQMYGNKIUIF-UUOKFMHZSA-N,"Nucleosides, nucleotides, and analogues",Purine nucleosides,NA,NA,NA,NA,NA
-1.348_182.13068_HILIC,L2.3,10-undecynoate,C11H18O2,OAOUTNMJEFWJPO-UHFFFAOYSA-M,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Unsaturated fatty acids
+1.348_182.13068_HILIC,L3,10-undecynoate,C11H18O2,OAOUTNMJEFWJPO-UHFFFAOYSA-M,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Unsaturated fatty acids
 13.363_174.1116_HILIC,L1,D-Arginine,C6H14N4O2,ODKSFYDXXFIFQN-SCSAIBSYSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",NA,NA,NA,NA
 3.759_104.01095_HILIC,L1,Malonic acid,C3H4O4,OFOBLEOULBTSOW-UHFFFAOYSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,NA,NA,NA,NA
-1.225_326.20955_HILIC,L2.3,"9-oxo-12,13-dihydroxy-10E,15Z-octadecadienoic acid",C18H30O5,PLHUEKVESBJIRC-MKZMYESJSA-N,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,Fatty acids,Octadecanoids,Other Octadecanoids
+1.225_326.20955_HILIC,L3,"9-oxo-12,13-dihydroxy-10E,15Z-octadecadienoic acid",C18H30O5,PLHUEKVESBJIRC-MKZMYESJSA-N,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,Fatty acids,Octadecanoids,Other Octadecanoids
 1.152_292.204_HILIC,L2,12-Oxo phytodienoic acid,C18H28O3,PMTMAFAPLCGXGK-JMTMCXQRSA-N,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,NA,NA,NA,NA
 5.015_158.0439_HILIC,L1,Allantoin,C4H6N4O3,POJWUDADGALRAB-UHFFFAOYSA-N,Organoheterocyclic compounds,Azoles,Imidazoles,NA,NA,NA,NA
-1.166_306.18331_HILIC,L2.3,"9,16-Dioxo-10,12,14-octadecatrienoic acid",C18H26O4,PQPRTPXWQQQKJC-KDXRDGMUSA-N,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,Prostaglandins and related compounds,Fatty acids,Octadecanoids,Phytoprostanes
+1.166_306.18331_HILIC,L3,"9,16-Dioxo-10,12,14-octadecatrienoic acid",C18H26O4,PQPRTPXWQQQKJC-KDXRDGMUSA-N,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,Prostaglandins and related compounds,Fatty acids,Octadecanoids,Phytoprostanes
 4.595_123.03207_HILIC,L1,Nicotinic acid,C6H5NO2,PVNIIMVLHYAWGP-UHFFFAOYSA-N,Organoheterocyclic compounds,Pyridines and derivatives,Pyridinecarboxylic acids and derivatives,NA,NA,NA,NA
-11.438_165.04592_HILIC,L2.3,bmse000397,C5H11NO3S,QEFRNWWLZKMPFJ-UHFFFAOYSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Aminoacids
-11.686_436.01612_HILIC,L2.3,Oprea1_375040,C16H12N4O7S2,QUYXYYAHBQODDJ-UHFFFAOYSA-N,Benzenoids,Benzene and substituted derivatives,Toluenes,Naphthalene sulfonates,Alkaloids,Î²-lactams,Cephalosporins
+11.438_165.04592_HILIC,L3,bmse000397,C5H11NO3S,QEFRNWWLZKMPFJ-UHFFFAOYSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Aminoacids
 13.631_504.16929_HILIC,L1,D-Melezitose,C18H32O16,QWIZNVHXZXRPDR-WSCXOGSTSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,NA,NA,NA,NA
 9.573_106.02661_HILIC,L2,"(2R)-2,3-Dihydroxypropanoic acid",C3H6O4,RBNPOMFGQQGHHO-UWTATZPHSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,NA,NA,NA,NA
 1.935_118.06302_HILIC,L2,3-Hydroxyvaleric acid,C5H10O3,REKYPYSUBKSCAT-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,NA,NA,NA,NA
-4.003_312.05715_HILIC,L2.3,2-phenyl-5-(phenylsulfonyl)-4-pyrimidinol,C16H12N2O3S,RGBXWUPIPVLNBT-UHFFFAOYSA-N,Benzenoids,Benzene and substituted derivatives,Benzenesulfonyl compounds,Pyrimidones,Alkaloids,Anthranilic acid alkaloids,Quinazoline alkaloids
+4.003_312.05715_HILIC,L3,2-phenyl-5-(phenylsulfonyl)-4-pyrimidinol,C16H12N2O3S,RGBXWUPIPVLNBT-UHFFFAOYSA-N,Benzenoids,Benzene and substituted derivatives,Benzenesulfonyl compounds,Pyrimidones,Alkaloids,Anthranilic acid alkaloids,Quinazoline alkaloids
 1.218_122.03681_HILIC,L1,4-Hydroxybenzaldehyde,C7H6O2,RGHHSNMVTDWUBI-UHFFFAOYSA-N,Organic oxygen compounds,Organooxygen compounds,Carbonyl compounds,NA,NA,NA,NA
 13.634_196.05828_HILIC,L2,Gluconic acid,C6H12O7,RGHNJXZEOKUKBD-SQOUGZDYSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,NA,NA,NA,NA
 12.068_196.05831_HILIC,L2,Gluconic acid,C6H12O7,RGHNJXZEOKUKBD-SQOUGZDYSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,NA,NA,NA,NA
-1.586_246.14669_HILIC,L2.3,6-Hydroxydodecanedioic acid,C12H22O5,RYJGFWCOGGWUAH-UHFFFAOYSA-N,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
-1.679_246.14669_HILIC,L2.3,6-Hydroxydodecanedioic acid,C12H22O5,RYJGFWCOGGWUAH-UHFFFAOYSA-N,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
-9.853_194.07901_HILIC,L2.3,Caffeine,C8H10N4O2,RYYVLZVUVIJVGH-UHFFFAOYSA-N,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,NA,NA,NA,NA
+1.586_246.14669_HILIC,L3,6-Hydroxydodecanedioic acid,C12H22O5,RYJGFWCOGGWUAH-UHFFFAOYSA-N,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,Medium-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+1.679_246.14669_HILIC,L3,6-Hydroxydodecanedioic acid,C12H22O5,RYJGFWCOGGWUAH-UHFFFAOYSA-N,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,Fatty acids,Fatty Acids and Conjugates,Dicarboxylic acids
 1.562_186.08925_HILIC,L2,1-(Carboxymethyl)cyclohexanecarboxylic acid,C9H14O4,SDAXMMUAZRUWNL-UHFFFAOYSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,NA,NA,NA,NA
 1.693_160.07349_HILIC,L1,(R)-(+)-3-Methyladipic acid,C7H12O4,SYEOWUNSTUDKGM-RXMQYKEDSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,NA,NA,NA,NA
-1.091_356.16579_HILIC,L2.3,"N-(2-Furylmethyl)-3-[(2S,5aS,8aR)-1-methyl-5-oxodecahydropyrrolo[3,2-E][1,4]diazepin-2-yl]propanamide",C16H24N4O3,SYFIXHYEHHLRGF-LNSITVRQSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",NA,NA,NA,NA
+1.091_356.16579_HILIC,L3,"N-(2-Furylmethyl)-3-[(2S,5aS,8aR)-1-methyl-5-oxodecahydropyrrolo[3,2-E][1,4]diazepin-2-yl]propanamide",C16H24N4O3,SYFIXHYEHHLRGF-LNSITVRQSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",NA,NA,NA,NA
 1.5_230.15178_HILIC,L1,Dodecanedioic acid,C12H22O4,TVIDDXQYHWJXFK-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,NA,NA,NA,NA
 1.288_230.15181_HILIC,L1,Dodecanedioic acid,C12H22O4,TVIDDXQYHWJXFK-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,NA,NA,NA,NA
-12.017_162.05278_HILIC,L2.3,Glucosan,C6H10O5,TWNIBLMWSKIRAT-VFUOTHLCSA-N,Organoheterocyclic compounds,Oxepanes,NA,Monosaccharides,Carbohydrates,Saccharides,Monosaccharides
+12.017_162.05278_HILIC,L3,Glucosan,C6H10O5,TWNIBLMWSKIRAT-VFUOTHLCSA-N,Organoheterocyclic compounds,Oxepanes,NA,Monosaccharides,Carbohydrates,Saccharides,Monosaccharides
 1.574_174.08916_HILIC,L1,Suberic acid,C8H14O4,TYFQFVWCELRYAO-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,NA,NA,NA,NA
-1.421_370.23587_HILIC,L2.3,19-Hydroxy-PGF,C20H34O6,UBWZMPMLSDJDSU-AHYYGCRPSA-N,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Prostaglandins and related compounds,Fatty acids,Eicosanoids,Prostaglandins
+1.421_370.23587_HILIC,L3,19-Hydroxy-PGF,C20H34O6,UBWZMPMLSDJDSU-AHYYGCRPSA-N,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Prostaglandins and related compounds,Fatty acids,Eicosanoids,Prostaglandins
 1.281_272.23525_HILIC,L2,16-Hydroxyhexadecanoic acid,C16H32O3,UGAGPNKCDRTDHP-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,NA,NA,NA,NA
 6.233_268.08083_HILIC,L1,Inosine,C10H12N4O5,UGQMRVRMYYASKQ-KQYNXXCUSA-N,"Nucleosides, nucleotides, and analogues",Purine nucleosides,NA,NA,NA,NA,NA
 7.323_243.08555_HILIC,L1,Cytidine,C9H13N3O5,UHDGCWIWMRVCDJ-XVFCMESISA-N,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides,NA,NA,NA,NA,NA
 1.218_352.22516_HILIC,L2,Lipoxin B4,C20H32O5,UXVRTOKOJOMENI-WLPVFMORSA-N,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,NA,NA,NA,NA
 1.368_292.20739_HILIC,L2,13(S)-HpOTrE,C18H30O4,UYQGVDXDXBAABN-FQSPHKRJSA-N,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,NA,NA,NA
-1.368_292.20739_HILIC,L2,13(S)-HpOTrE,C18H30O4,UYQGVDXDXBAABN-FQSPHKRJSA-N,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,NA,NA,NA
-1.452_310.2146_HILIC,L2.3,13(S)-Hydroperoxylinolenic acid,C18H30O4,UYQGVDXDXBAABN-FQSPHKRJSA-N,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,Fatty acids,Octadecanoids,Other Octadecanoids
-1.452_310.2146_HILIC,L2.3,13(S)-Hydroperoxylinolenic acid,C18H30O4,UYQGVDXDXBAABN-FQSPHKRJSA-N,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,Fatty acids,Octadecanoids,Other Octadecanoids
-1.176_270.2196_HILIC,L2.3,10-keto palmitic acid,C16H30O3,VBFPQNKLKQDSCH-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Octadecanoids,Other Octadecanoids
+1.452_310.2146_HILIC,L3,13(S)-Hydroperoxylinolenic acid,C18H30O4,UYQGVDXDXBAABN-FQSPHKRJSA-N,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,Fatty acids,Octadecanoids,Other Octadecanoids
+1.176_270.2196_HILIC,L3,10-keto palmitic acid,C16H30O3,VBFPQNKLKQDSCH-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Octadecanoids,Other Octadecanoids
 4.429_252.08585_HILIC,L1,2'-Deoxyinosine,C10H12N4O4,VGONTNSXDCQUGY-RRKCRQDMSA-N,"Nucleosides, nucleotides, and analogues",Purine nucleosides,Purine 2'-deoxyribonucleosides,NA,NA,NA,NA
-11.851_174.00988_HILIC,L2.3,4-amino-3-pyridinesulfonic acid,C5H6N2O3S,VOMYEVOVADPHCK-UHFFFAOYSA-N,Organic acids and derivatives,Organic sulfonic acids and derivatives,Organosulfonic acids and derivatives,Arylsulfonic acids and derivatives,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids
+11.851_174.00988_HILIC,L3,4-amino-3-pyridinesulfonic acid,C5H6N2O3S,VOMYEVOVADPHCK-UHFFFAOYSA-N,Organic acids and derivatives,Organic sulfonic acids and derivatives,Organosulfonic acids and derivatives,Arylsulfonic acids and derivatives,Alkaloids,Nicotinic acid alkaloids,Pyridine alkaloids
 9.955_116.01098_HILIC,L2,Maleic acid,C4H4O4,VZCYOOQTPOCHFL-UPHRSURJSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,NA,NA,NA,NA
 2.236_104.04733_HILIC,L1,3-hydroxybutyric acid,C4H8O3,WHBMMWSBFZVSSR-UHFFFAOYSA-N,Organic acids and derivatives,Hydroxy acids and derivatives,Beta hydroxy acids and derivatives,NA,NA,NA,NA
 12.066_147.0532_HILIC,L1,L-Glutamic acid,C5H9NO4,WHUUTDBJXJRKMK-VKHMYHEASA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",NA,NA,NA,NA
 2.092_146.05793_HILIC,L1,Adipic acid,C6H10O4,WNLRTRBMVRJNCN-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,NA,NA,NA,NA
 1.887_146.05793_HILIC,L1,Adipic acid,C6H10O4,WNLRTRBMVRJNCN-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,NA,NA,NA,NA
-2.905_116.04736_HILIC,L2.3,Methyl acetoacetate,C5H8O3,WRQNANDWMGAFTP-UHFFFAOYSA-N,Organic acids and derivatives,Keto acids and derivatives,Beta-keto acids and derivatives,NA,NA,NA,NA
 2.445_173.10513_HILIC,L1,N-Acetyl-L-leucine,C8H15NO3,WXNXCEHXYPACJF-ZETCQYMHSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",NA,NA,NA,NA
-4.795_195.11071_HILIC,L2.3,"6-aminoheptane-1,2,3,4,5-pentol",C7H17NO5,WXTGEWILANOPJG-UHFFFAOYSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Amino acids and derivatives,Carbohydrates,Aminosugars and aminoglycosides,Aminosugars
-7.344_230.16305_HILIC,L2.3,Valylleucine,C11H22N2O3,XCTHZFGSVQBHBW-IUCAKERBSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Peptides,Amino acids and Peptides,Small peptides,Dipeptides
+4.795_195.11071_HILIC,L3,"6-aminoheptane-1,2,3,4,5-pentol",C7H17NO5,WXTGEWILANOPJG-UHFFFAOYSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Amino acids and derivatives,Carbohydrates,Aminosugars and aminoglycosides,Aminosugars
+7.344_230.16305_HILIC,L3,Valylleucine,C11H22N2O3,XCTHZFGSVQBHBW-IUCAKERBSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Peptides,Amino acids and Peptides,Small peptides,Dipeptides
 3.361_234.97967_HILIC,L2,4-Nitrocatechol sulfate,C6H5NO7S,XMCCOOONGGUOLA-UHFFFAOYSA-N,Organic acids and derivatives,Organic sulfuric acids and derivatives,Arylsulfates,NA,NA,NA,NA
-1.224_288.23015_HILIC,L2.3,"9,16-dihydroxy-palmitic acid",C16H32O4,XSIHTLJPWOWWPE-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
-4.323_210.07376_HILIC,L2.3,Heptose,C7H14O7,YPZMPEPLWKRVLD-UHFFFAOYSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,NA,Carbohydrates,Saccharides,Monosaccharides
-1.624_326.20965_HILIC,L2.3,"N-(1-adamantyl)-N'-(2,2-diethoxyethyl)thiourea",C17H30N2O2S,YYINKLRHDGAFEB-UHFFFAOYSA-N,Organosulfur compounds,Thioureas,NA,NA,NA,NA,NA
-11.502_146.06918_HILIC,L2.3,glutamin,C5H10N2O3,ZDXPYRJPNDTMRX-UHFFFAOYSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Aminoacids
+1.224_288.23015_HILIC,L3,"9,16-dihydroxy-palmitic acid",C16H32O4,XSIHTLJPWOWWPE-UHFFFAOYSA-N,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Fatty acids,Fatty Acids and Conjugates,Hydroxy fatty acids
+4.323_210.07376_HILIC,L3,Heptose,C7H14O7,YPZMPEPLWKRVLD-UHFFFAOYSA-N,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,NA,Carbohydrates,Saccharides,Monosaccharides
+1.624_326.20965_HILIC,L3,"N-(1-adamantyl)-N'-(2,2-diethoxyethyl)thiourea",C17H30N2O2S,YYINKLRHDGAFEB-UHFFFAOYSA-N,Organosulfur compounds,Thioureas,NA,NA,NA,NA,NA
+11.502_146.06918_HILIC,L3,glutamin,C5H10N2O3,ZDXPYRJPNDTMRX-UHFFFAOYSA-N,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Amino acids and derivatives,Amino acids and Peptides,Small peptides,Aminoacids
 1.267_210.12537_HILIC,L2,Jasmonic acid,C12H18O3,ZNJFBWYDHIGLCU-HWKXXFMVSA-N,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,NA,NA,NA
-3.883_169.04083_HILIC,L3.1,NA,C4H11NO4S,NA,Organic acids and derivatives,Organic sulfuric acids and derivatives,NA,NA,Amino acids and Peptides,Small peptides,Aminoacids
-14.826_161.9833_HILIC,L3.1,NA,C3H3N2O4P,NA,Organic acids and derivatives,Organic phosphonic acids and derivatives,Organic phosphonic acids,NA,Alkaloids,Pseudoalkaloids,Aminoacids
